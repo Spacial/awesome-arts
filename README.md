@@ -17,7 +17,8 @@ Abaixo a lista de exercícios/arquivos do MuseScore (pacote no fedora: mscore):
  * 1º: II, V, I, VI
  * 2º: VI, IV, V, I
  * 3º: I, IV, V, VI
-
+ * 4º: V, III, IV, I
+ 
 # Python
 
 # Latex
