@@ -8,7 +8,7 @@ Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 201
 
 ## MuseScore (mscore)
 
-Abaixo a lista de exercícios/arquivos do MuseScore (pacote no fedora: mscore):
+Abaixo a lista de exercícios/arquivos do MuseScore (vesão mínima:2) (pacote no fedora: mscore):
 
 - *Exercício01.mscz* : Exercício usando somente *Sol*, *Lá* e *Si* - sem saltos;
 - *Exercício02.mscz* : Exercício usando somente *Mi*, *Fá* e *Sol* - sem saltos;
