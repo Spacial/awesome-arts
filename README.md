@@ -9,7 +9,7 @@ Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 201
 Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
 
 * *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
-
+* *Creative Commons By-Sa-NC*: veja [CCby-sa-nc](CC 2016).
 
 
 # Arquivos
