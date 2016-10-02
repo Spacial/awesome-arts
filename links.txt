@@ -1,0 +1,42 @@
+# Coleção de links sobre música
+
+https://legacy.cnx.org/content/col10261/latest/
+http://fisicaondemusica.unimore.it/Scala_naturale.html
+http://www.chas.it/index.php?option=com_content&view=article&id=40&Itemid=38&lang=it
+http://cnx.org/contents/-ac2lMAF@13/Acoustics-for-Music-Theory
+http://www.huygens-fokker.org/docs/bibliography.html
+http://www.kylegann.com/histune.html
+http://liutaiomottola.com/formulae/freqtab.htm
+
+Detecção de nota:
+https://ccrma.stanford.edu/~pdelac/154/m154paper.htm
+https://en.wikipedia.org/wiki/Scientific_pitch_notation
+
+https://en.wikipedia.org/wiki/Goertzel_algorithm
+https://learn.adafruit.com/fft-fun-with-fourier-transforms/tone-input
+
+
+Ressonância:
+https://en.wikipedia.org/wiki/String_resonance
+https://en.wikipedia.org/wiki/Acoustic_resonance
+https://ccrma.stanford.edu/marl/
+
+Harmonicas e Escalas:
+http://www.harmonics.com/scales/
+
+
+Onda:
+http://www.falstad.com/loadedstring/
+http://www.animations.physics.unsw.edu.au/waves-sound/
+
+http://www.johnsankey.ca/energy.html
+http://donskiff.com/quest_2.htm
+
+Outros:
+https://en.wikipedia.org/wiki/Musical_acoustics
+https://en.wikipedia.org/wiki/Music_and_mathematics
+
+sobre o site do cnx:
+http://devblog.cnx.org/2014/09/rewrite-technologies.html
+
+
