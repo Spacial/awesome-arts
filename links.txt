@@ -8,18 +8,26 @@ http://www.huygens-fokker.org/docs/bibliography.html
 http://www.kylegann.com/histune.html
 http://liutaiomottola.com/formulae/freqtab.htm
 
+https://en.wikipedia.org/wiki/Auditory_illusion
+https://en.wikipedia.org/wiki/Pitch_(music)
+
 Detecção de nota:
 https://ccrma.stanford.edu/~pdelac/154/m154paper.htm
 https://en.wikipedia.org/wiki/Scientific_pitch_notation
 
 https://en.wikipedia.org/wiki/Goertzel_algorithm
 https://learn.adafruit.com/fft-fun-with-fourier-transforms/tone-input
+https://gist.github.com/endolith/255291
 
 
 Ressonância:
 https://en.wikipedia.org/wiki/String_resonance
 https://en.wikipedia.org/wiki/Acoustic_resonance
 https://ccrma.stanford.edu/marl/
+https://en.wikipedia.org/wiki/Jean-Claude_Risset
+https://en.wikipedia.org/wiki/Shepard_tone
+https://en.wikipedia.org/wiki/Tritone_paradox
+
 
 Harmonicas e Escalas:
 http://www.harmonics.com/scales/
@@ -28,15 +36,31 @@ http://www.harmonics.com/scales/
 Onda:
 http://www.falstad.com/loadedstring/
 http://www.animations.physics.unsw.edu.au/waves-sound/
+http://liutaiomottola.com/formulae/freqtab.htm
 
 http://www.johnsankey.ca/energy.html
 http://donskiff.com/quest_2.htm
+https://en.wikipedia.org/wiki/Scientific_pitch_notation
+http://archive.cnx.org/contents/6e01edc4-e351-4306-a079-27319c6febc1@8/
 
 Outros:
 https://en.wikipedia.org/wiki/Musical_acoustics
 https://en.wikipedia.org/wiki/Music_and_mathematics
 
+Supercollider:
+
+http://sccode.org
+http://swiki.hfbk-hamburg.de/MusicTechnology/826
+https://en.wikipedia.org/wiki/File:Risset_accelerando_beat1_MCLD.ogg
+
+Python:
+
+https://github.com/endolith/waveform-analyzer/blob/master/frequency_estimator.py
+http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+
 sobre o site do cnx:
 http://devblog.cnx.org/2014/09/rewrite-technologies.html
 
+Muito bom:
+http://andrewduncan.net/cmt/
 
