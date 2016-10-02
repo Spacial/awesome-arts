@@ -2,9 +2,15 @@
 
 Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
-	*Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..*
+	Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
 
-Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc
+## Licença 
+
+Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
+
+* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
+* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
+
 
 # Arquivos
 
