@@ -16,20 +16,9 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 
 ## MuseScore (mscore)
 
-Abaixo a lista de exercícios/arquivos do MuseScore (vesão mínima:2) (pacote no fedora: mscore):
+Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exercícios.
 
-*Pasta: 
-
-- *mscore/TM01-Exerc01.mscz* : Exercício usando somente *Sol*, *Lá* e *Si* - sem saltos;
-- *mscore/TM01-Exerc02.mscz* : Exercício usando somente *Mi*, *Fá* e *Sol* - sem saltos;
-- *mscore/TM01-Exerc03.mscz* : Exercício usando todas as notas da escala de *Dó* - com saltos;
-- *mscore/TM01-ExercTriades.mscz* : Exercício usando tríades, com 3 exemplos:
- * 1º: II, V, I, VI
- * 2º: VI, IV, V, I
- * 3º: I, IV, V, VI
- * 4º: V, III, IV, I
-- *mscore/TM02-Aula01.mscz* : Revisão dos modos;
-- *mscore/TM02-Aula01revisao.mscz* : Revisão das Tríades;
+Obs: pacote no fedora: mscore;
 
  
 # Python
