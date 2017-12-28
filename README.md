@@ -47,3 +47,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Cores
 
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
+* [#c0ffee is the color](http://c0ffee.surge.sh)
+
+## Threads
+
+* [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
+## Games
+
+* [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
