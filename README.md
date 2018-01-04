@@ -1,49 +1,52 @@
+
+# Arts
+
+Coleção de *links* e recursos sobre artes em geral.
+
 # Music
 
-Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
+->Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
 	Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
 
 ## Licença 
 
 Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
-
 * *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
 * *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
 
-# Pastas
+## Plataformas e Aplicações
 
-## Plataformas
 * [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
+* [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 
-## MuseScore (mscore)
+## Pastas
+### MuseScore (mscore)
 
 Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exercícios.
 
 Obs: pacote no fedora: mscore;
  
-## Python
+### Python
 
 Códigos em geral com python e música (variados).
 
-## SuperCollider
+### SuperCollider
 
 Exemplos básicos pra iniciar o uso do Supercollider (SC).
 
 * [Compiling SuperCollider](https://github.com/overtone/overtone/wiki/Compiling-SuperCollider)
 
-## PureData
+### PureData
 
  * [The Pure Programming Language](https://agraef.github.io/pure-lang/)
 
-
-## Latex 
+### Latex 
 
 Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para auxílio).
 
-
+---
 # Visual
-
 ## Cores
 
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
@@ -52,6 +55,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Threads
 
 * [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
+
 ## Games
 
 * [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
