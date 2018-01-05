@@ -20,6 +20,12 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 * [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 
+### Links úteis
+
+* [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu)
+* [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
+
+
 ## Pastas
 ### MuseScore (mscore)
 
