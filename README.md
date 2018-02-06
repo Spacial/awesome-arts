@@ -19,6 +19,7 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 
 * [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
+* [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
 
 ### Links úteis
 
