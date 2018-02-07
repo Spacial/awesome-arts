@@ -26,6 +26,7 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 * [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu)
 * [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
 * [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
+* [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
 
 ## Pastas
 ### MuseScore (mscore)
