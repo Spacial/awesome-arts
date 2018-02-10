@@ -28,6 +28,10 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 * [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
 * [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
 
+### Programação
+
+* [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
+
 ## Pastas
 ### MuseScore (mscore)
 
