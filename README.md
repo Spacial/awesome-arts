@@ -59,6 +59,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ---
 # Visual
+
+## Noise
+
+* [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
+
 ## Cores
 
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
