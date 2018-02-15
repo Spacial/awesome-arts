@@ -31,6 +31,7 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 ### Programação
 
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
+* [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 
 ## Pastas
 ### MuseScore (mscore)
