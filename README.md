@@ -69,6 +69,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
 * [#c0ffee is the color](http://c0ffee.surge.sh)
+* [Colour Science for Python](https://github.com/colour-science/colour)
 
 ## Threads
 
