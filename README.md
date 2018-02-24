@@ -5,7 +5,7 @@ Coleção de *links* e recursos sobre artes em geral.
 
 # Music
 
-->Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
+* Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
 	Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
 
@@ -78,3 +78,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Games
 
 * [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
+
+## Software
+
+* [A gallery of 130+ Gimp filters/effects examples](https://alvinalexander.com/design/gimp-catalog-filters-effects-examples-cheat-sheet)
