@@ -62,6 +62,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ---
 # Visual
 
+* [one visual idea a day](https://villares.github.io/sketch-a-day/)
+
 ## Noise
 
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
