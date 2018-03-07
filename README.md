@@ -5,15 +5,10 @@ Coleção de *links* e recursos sobre artes em geral.
 
 # Music
 
-* Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
+## Articles
 
-	Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
-
-## Licença 
-
-Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
-* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
-* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
+* [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
+* [Weekly Billboard Theory — Finesse](https://medium.com/that-good-you-need/weekly-billboard-theory-finesse-4b986e8096f2)
 
 ## Plataformas e Aplicações
 
@@ -21,20 +16,31 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 * [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
 
-### Links úteis
+## Links úteis
 
 * [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu)
 * [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
 * [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
 * [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
 
-### Programação
+## Programação
 
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [“IN C”](https://codepen.io/jakealbaugh/pen/NAjdLY)
 
 ## Pastas
+
+* Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
+
+	Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
+
+### Licença 
+
+Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
+* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
+* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
+
 ### MuseScore (mscore)
 
 Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exercícios.
