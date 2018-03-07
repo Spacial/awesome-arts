@@ -15,6 +15,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 * [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
+* [Sndio](http://www.sndio.org/) is a small audio and MIDI framework part of the OpenBSD project and ported to FreeBSD, Linux and NetBSD
 
 ## Links úteis
 
