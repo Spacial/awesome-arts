@@ -23,6 +23,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
 * [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
 * [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
+* [Coltrane Pitch Diagrams](https://medium.com/@lucas_gonze/coltrane-pitch-diagrams-e25b7d9f5093)
 
 ## Programação
 
