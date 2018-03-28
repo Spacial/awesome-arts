@@ -5,6 +5,8 @@ Coleção de *links* e recursos sobre artes em geral.
 
 # Music
 
+* [Music Map](https://musicmap.info/)
+
 ## Articles
 
 * [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
