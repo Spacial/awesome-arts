@@ -74,6 +74,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 # Visual
 
 * [one visual idea a day](https://villares.github.io/sketch-a-day/)
+* [Video Music](https://codepen.io/jakealbaugh/full/ZxLKvG/) and [Sonic Pixels](https://github.com/jakealbaugh/sonicpx) (encodes audio in images by storing audio samples inside of pixels. The images it creates can be decoded and played back as audio.) - both by [Jake Albaugh](https://codepen.io/jakealbaugh/)
 
 ## Processing
 
