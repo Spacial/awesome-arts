@@ -103,6 +103,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [A gallery of 130+ Gimp filters/effects examples](https://alvinalexander.com/design/gimp-catalog-filters-effects-examples-cheat-sheet)
 
+## Fonts
+
+* [CSS SANS](https://yusugomori.com/projects/css-sans/)
+
 ## Fun
 
 * [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
