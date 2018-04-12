@@ -71,6 +71,12 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para auxílio).
 
 ---
+# Fotografia
+
+* [Introducing Elodie:](https://medium.com/@jmathai/introducing-elodie-your-personal-exif-based-photo-and-video-assistant-d92868f302ec) Your Personal EXIF-based Photo and Video Assistant. [github](https://github.com/jmathai/elodie)
+
+---
+
 # Visual
 
 * [one visual idea a day](https://villares.github.io/sketch-a-day/)
