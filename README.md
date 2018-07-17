@@ -18,6 +18,8 @@ Coleção de *links* e recursos sobre artes em geral.
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 * [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
 * [Sndio](http://www.sndio.org/) is a small audio and MIDI framework part of the OpenBSD project and ported to FreeBSD, Linux and NetBSD
+* [KXStudio](http://kxstudio.linuxaudio.org/index.php) is a collection of applications and plugins for professional audio production.
+* [Fedora JAM](https://labs.fedoraproject.org/en/jam/) is for audio enthusiasts and musicians who want to create, edit and produce audio and music on Linux.
 
 ## Links úteis
 
@@ -33,6 +35,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
 * [“IN C”](https://codepen.io/jakealbaugh/pen/NAjdLY)
 * [Granular Audio Synthesis](https://blog.demofox.org/2018/03/05/granular-audio-synthesis/)
+* [Palestras](https://blog.lfzawacki.com/palestras-github/) do [Lucas Zawacki](https://twitter.com/lfzawacki), [floss music](https://lfzawacki.github.io/floss-music/) e [Processamento de Áudio com Arduino Due](https://github.com/lfzawacki/arduino-due-dsp-slides), his [soundcloud](https://soundcloud.com/lfzawacki/)
 
 ## Pastas
 
