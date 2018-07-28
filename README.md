@@ -24,6 +24,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Sndio](http://www.sndio.org/) is a small audio and MIDI framework part of the OpenBSD project and ported to FreeBSD, Linux and NetBSD
 * [KXStudio](http://kxstudio.linuxaudio.org/index.php) is a collection of applications and plugins for professional audio production.
 * [Fedora JAM](https://labs.fedoraproject.org/en/jam/) is for audio enthusiasts and musicians who want to create, edit and produce audio and music on Linux.
+* [Sonic Pi](https://sonic-pi.net/) The Live Coding Music Synth for Everyone.
 
 ## Links úteis
 
@@ -33,7 +34,6 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
 * [Coltrane Pitch Diagrams](https://medium.com/@lucas_gonze/coltrane-pitch-diagrams-e25b7d9f5093)
 * [AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses 
-
 
 ## Programação
 
