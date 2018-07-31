@@ -70,7 +70,14 @@ Códigos em geral com python e música (variados).
 
 Exemplos básicos pra iniciar o uso do Supercollider (SC).
 
+* [Supercollider](supercollider/README.md)
 * [Compiling SuperCollider](https://github.com/overtone/overtone/wiki/Compiling-SuperCollider)
+* [Installing SuperCollider on Fedora · supercollider/supercollider Wiki](https://github.com/supercollider/supercollider/wiki/Installing-SuperCollider-on-Fedora)
+
+#### Sonic-Pi
+
+* [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
+* [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
 
 ### PureData
 
