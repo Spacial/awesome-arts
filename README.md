@@ -138,6 +138,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Fonts
 
 * [CSS SANS](https://yusugomori.com/projects/css-sans/)
+* [Fonts and UFO Masters of Inria Serif and Inria Sans Typeface](https://github.com/BlackFoundry/InriaFonts) [more](https://black-foundry.com/fonts/)
+* [Reforma](https://pampatype.com/blog/reforma): A new voice for an institution with deep roots
 
 ## Fun
 
