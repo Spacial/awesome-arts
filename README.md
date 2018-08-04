@@ -25,6 +25,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [KXStudio](http://kxstudio.linuxaudio.org/index.php) is a collection of applications and plugins for professional audio production.
 * [Fedora JAM](https://labs.fedoraproject.org/en/jam/) is for audio enthusiasts and musicians who want to create, edit and produce audio and music on Linux.
 * [Sonic Pi](https://sonic-pi.net/) The Live Coding Music Synth for Everyone.
+  * [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
 
 ## Links úteis
 
