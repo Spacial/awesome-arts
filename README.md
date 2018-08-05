@@ -145,3 +145,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Fun
 
 * [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
+
+## Drivers
+
+* [Scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
