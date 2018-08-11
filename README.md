@@ -10,6 +10,7 @@ Coleção de *links* e recursos sobre artes em geral.
 ## Resources
 
 * [SoundBible.com](http://soundbible.com) offers thousands of free sound effects, sound clips, and straight up sounds.
+* [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw)
 
 ## Articles
 
