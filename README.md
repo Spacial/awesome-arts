@@ -11,6 +11,7 @@ Coleção de *links* e recursos sobre artes em geral.
 
 * [SoundBible.com](http://soundbible.com) offers thousands of free sound effects, sound clips, and straight up sounds.
 * [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw)
+* [Matrix Calculator](https://www.musictheory.net/calculators/matrix)
 
 ## Articles
 
@@ -100,6 +101,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [Introducing Elodie:](https://medium.com/@jmathai/introducing-elodie-your-personal-exif-based-photo-and-video-assistant-d92868f302ec) Your Personal EXIF-based Photo and Video Assistant. [github](https://github.com/jmathai/elodie)
 * [LIGHT PAINTING ANIMATIONS DIRECTLY FROM BLENDER](https://hackaday.com/2018/07/30/light-painting-animations-directly-from-blender/)
+
+---
+# Pintura
+
+* [Nusay Gallery - Official website](https://nusaygallery.com/)
 
 ---
 
