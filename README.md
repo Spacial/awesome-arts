@@ -130,6 +130,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
 * [#c0ffee is the color](http://c0ffee.surge.sh)
 * [Colour Science for Python](https://github.com/colour-science/colour)
+* [color-thief](https://github.com/lokesh/color-thief): Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas. 
 
 ## Threads
 
