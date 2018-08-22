@@ -17,6 +17,7 @@ Coleção de *links* e recursos sobre artes em geral.
 
 * [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
 * [Weekly Billboard Theory — Finesse](https://medium.com/that-good-you-need/weekly-billboard-theory-finesse-4b986e8096f2)
+* [Speaker Wire](http://www.roger-russell.com/wire/wire.htm)
 
 ## Plataformas e Aplicações
 
@@ -28,6 +29,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Fedora JAM](https://labs.fedoraproject.org/en/jam/) is for audio enthusiasts and musicians who want to create, edit and produce audio and music on Linux.
 * [Sonic Pi](https://sonic-pi.net/) The Live Coding Music Synth for Everyone.
   * [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
+* [Audio Mastering Suite](http://www.hotto.de/software/audiomasteringsuite.html)
 
 ## Links úteis
 
@@ -46,6 +48,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Granular Audio Synthesis](https://blog.demofox.org/2018/03/05/granular-audio-synthesis/)
 * [Palestras](https://blog.lfzawacki.com/palestras-github/) do [Lucas Zawacki](https://twitter.com/lfzawacki), [floss music](https://lfzawacki.github.io/floss-music/) e [Processamento de Áudio com Arduino Due](https://github.com/lfzawacki/arduino-due-dsp-slides), his [soundcloud](https://soundcloud.com/lfzawacki/)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
+* [Algorithms and Interactive Tools for Exploring Music Composition, Analysis, and Interdisciplinary Learning.](http://musicalgorithms.org/4.1/app/)
 
 ## Pastas
 
@@ -115,11 +118,13 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Video Music](https://codepen.io/jakealbaugh/full/ZxLKvG/) and [Sonic Pixels](https://github.com/jakealbaugh/sonicpx) (encodes audio in images by storing audio samples inside of pixels. The images it creates can be decoded and played back as audio.) - both by [Jake Albaugh](https://codepen.io/jakealbaugh/)
 * [Video Hub App](https://videohubapp.com/)
 * [Spiral Test](https://gist.github.com/Bleuje/5cfe3bf5d83b63805389bbaf45ae73fb) (in processing)
+* [The Pioneer of Generative Art: Georg Nees](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325)
 
 ## Processing
 
 * [All my sketches of Processing](https://github.com/manoloide/AllSketchs) by [manoloide](https://github.com/manoloide)
 * [Research essay: The History of Processing](https://maxoffsky.com/research/research-essay-the-history-of-processing/)
+* [Alexandre B A Villares](http://abav.lugaralgum.com/sketch-a-day/)
 
 ## Noise
 
@@ -157,3 +162,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Drivers
 
 * [Scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
+
+## Hardware
+
+* Beautiful Tech: [Roland RE 201 Space Echo](http://www.musicofsound.co.nz/blog/beautiful-tech-roland-re-201-space-echo) | Music of Sound
+
+# News
