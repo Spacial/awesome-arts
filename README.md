@@ -49,6 +49,8 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Palestras](https://blog.lfzawacki.com/palestras-github/) do [Lucas Zawacki](https://twitter.com/lfzawacki), [floss music](https://lfzawacki.github.io/floss-music/) e [Processamento de Áudio com Arduino Due](https://github.com/lfzawacki/arduino-due-dsp-slides), his [soundcloud](https://soundcloud.com/lfzawacki/)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 * [Algorithms and Interactive Tools for Exploring Music Composition, Analysis, and Interdisciplinary Learning.](http://musicalgorithms.org/4.1/app/)
+* [pytheory](https://github.com/kennethreitz/pytheory): Music Theory for Humans. 
+* [camp](https://github.com/mpdehaan/camp): Computer Aided Music Production 
 
 ## Pastas
 
