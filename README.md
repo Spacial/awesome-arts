@@ -30,6 +30,13 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Sonic Pi](https://sonic-pi.net/) The Live Coding Music Synth for Everyone.
   * [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
 * [Audio Mastering Suite](http://www.hotto.de/software/audiomasteringsuite.html)
+* [keithwhor/audiosynth: JS Dynamic Audio Synth](https://github.com/keithwhor/audiosynth)
+
+### Supercollider 
+
+* [SuperCollider](https://supercollider.github.io/)
+* [sc3ctrl](https://github.com/rfwatson/sc3ctrl): Control SuperCollider app from command line
+* [supercollider-tmbundle](https://github.com/rfwatson/supercollider-tmbundle): TextMate bundle for supercollider.app
 
 ## Links úteis
 
@@ -51,6 +58,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Algorithms and Interactive Tools for Exploring Music Composition, Analysis, and Interdisciplinary Learning.](http://musicalgorithms.org/4.1/app/)
 * [pytheory](https://github.com/kennethreitz/pytheory): Music Theory for Humans. 
 * [camp](https://github.com/mpdehaan/camp): Computer Aided Music Production 
+* [Python program to sequence MIDI music using a CSV spreadsheet](https://gist.github.com/maximecb/f440c1db489177c1037ec4f158cf5e4f)
 
 ## Pastas
 
@@ -106,6 +114,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [Introducing Elodie:](https://medium.com/@jmathai/introducing-elodie-your-personal-exif-based-photo-and-video-assistant-d92868f302ec) Your Personal EXIF-based Photo and Video Assistant. [github](https://github.com/jmathai/elodie)
 * [LIGHT PAINTING ANIMATIONS DIRECTLY FROM BLENDER](https://hackaday.com/2018/07/30/light-painting-animations-directly-from-blender/)
+* [canon_cr3](https://github.com/lclevy/canon_cr3): Describing the Canon CR3 fileformat from Canon M50 / EOSR
 
 ---
 # Pintura
