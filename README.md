@@ -18,6 +18,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
 * [Weekly Billboard Theory — Finesse](https://medium.com/that-good-you-need/weekly-billboard-theory-finesse-4b986e8096f2)
 * [Speaker Wire](http://www.roger-russell.com/wire/wire.htm)
+* [Colors of noise](https://www.johndcook.com/blog/2015/12/07/colors-of-noise/)
 
 ## Plataformas e Aplicações
 
@@ -31,6 +32,7 @@ Coleção de *links* e recursos sobre artes em geral.
   * [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
 * [Audio Mastering Suite](http://www.hotto.de/software/audiomasteringsuite.html)
 * [keithwhor/audiosynth: JS Dynamic Audio Synth](https://github.com/keithwhor/audiosynth)
+* [Hacklily](https://www.hacklily.org/): Online Music Sheet Editor
 
 ### Supercollider 
 
@@ -59,6 +61,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [pytheory](https://github.com/kennethreitz/pytheory): Music Theory for Humans. 
 * [camp](https://github.com/mpdehaan/camp): Computer Aided Music Production 
 * [Python program to sequence MIDI music using a CSV spreadsheet](https://gist.github.com/maximecb/f440c1db489177c1037ec4f158cf5e4f)
+* A [spectral visualizer](https://github.com/Bauxitedev/spectral-visualizer) that analyzes the frequencies of music and sound, written in Godot 3.1. 
 
 ## Pastas
 
