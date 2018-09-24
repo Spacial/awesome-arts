@@ -12,6 +12,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [SoundBible.com](http://soundbible.com) offers thousands of free sound effects, sound clips, and straight up sounds.
 * [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw)
 * [Matrix Calculator](https://www.musictheory.net/calculators/matrix)
+* [coltrane](https://github.com/pedrozath/coltrane): 🎹🎸A music theory library with a command-line interface
 
 ## Articles
 
@@ -181,4 +182,14 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * Beautiful Tech: [Roland RE 201 Space Echo](http://www.musicofsound.co.nz/blog/beautiful-tech-roland-re-201-space-echo) | Music of Sound
 
+# Slides 
+
+Some tips to make beautiful slides:
+
+* [Code highlighting for Keynote presentations](https://gist.github.com/jimbojsb/1630790)
+* [highlight Theme-Samples](http://www.andre-simon.de/doku/highlight/en/theme-samples.php)
+* [listings - How can I automatically highlight SuperCollider symbols and environment variables? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/159245/how-can-i-automatically-highlight-supercollider-symbols-and-environment-variable)
+
 # News
+
+* [Generative Art Finds Its Prodigy — Artnome](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)
