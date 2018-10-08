@@ -172,6 +172,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [CSS SANS](https://yusugomori.com/projects/css-sans/)
 * [Fonts and UFO Masters of Inria Serif and Inria Sans Typeface](https://github.com/BlackFoundry/InriaFonts) [more](https://black-foundry.com/fonts/)
 * [Reforma](https://pampatype.com/blog/reforma): A new voice for an institution with deep roots
+* [Sans Forgetica](http://sansforgetica.rmit/): Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes. 
 
 ## Fun
 
