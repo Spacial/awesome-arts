@@ -34,6 +34,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Audio Mastering Suite](http://www.hotto.de/software/audiomasteringsuite.html)
 * [keithwhor/audiosynth: JS Dynamic Audio Synth](https://github.com/keithwhor/audiosynth)
 * [Hacklily](https://www.hacklily.org/): Online Music Sheet Editor
+* [JGuitar](https://jguitar.com/chordsearch): chord search.
 
 ### Supercollider 
 
@@ -63,6 +64,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [camp](https://github.com/mpdehaan/camp): Computer Aided Music Production 
 * [Python program to sequence MIDI music using a CSV spreadsheet](https://gist.github.com/maximecb/f440c1db489177c1037ec4f158cf5e4f)
 * A [spectral visualizer](https://github.com/Bauxitedev/spectral-visualizer) that analyzes the frequencies of music and sound, written in Godot 3.1. 
+* [Green noise and Barks](https://www.johndcook.com/blog/2016/04/27/green-noise-and-barks/) [Python script](https://www.johndcook.com/blog/2016/04/27/how-to-create-green-noise-in-python/)
 
 ## Pastas
 
@@ -134,6 +136,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Video Hub App](https://videohubapp.com/)
 * [Spiral Test](https://gist.github.com/Bleuje/5cfe3bf5d83b63805389bbaf45ae73fb) (in processing)
 * [The Pioneer of Generative Art: Georg Nees](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325)
+* [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 
 ## Processing
 
@@ -193,3 +196,6 @@ Some tips to make beautiful slides:
 # News
 
 * [Generative Art Finds Its Prodigy — Artnome](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)
+* [What We Know About Art and the Mind](https://www.newyorker.com/culture/cultural-comment/what-we-know-about-art-and-the-mind)
+* [CAN](https://arxiv.org/abs/1706.07068): Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms
+* [The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
