@@ -121,6 +121,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Introducing Elodie:](https://medium.com/@jmathai/introducing-elodie-your-personal-exif-based-photo-and-video-assistant-d92868f302ec) Your Personal EXIF-based Photo and Video Assistant. [github](https://github.com/jmathai/elodie)
 * [LIGHT PAINTING ANIMATIONS DIRECTLY FROM BLENDER](https://hackaday.com/2018/07/30/light-painting-animations-directly-from-blender/)
 * [canon_cr3](https://github.com/lclevy/canon_cr3): Describing the Canon CR3 fileformat from Canon M50 / EOSR
+* [Sagittarius Rising](https://jpcvanheijst.com/blogs/2018/09/711348-sagittarius-rising-n-long-exposure-photography-from-the-stratosphere-7-minute-read)– Long exposure photography from the stratosphere. 
+* [O realismo mágico da fotografia de Izan Petterle](https://brasil.elpais.com/brasil/2018/08/31/album/1535728846_339466.html)
 
 ---
 # Pintura
@@ -200,3 +202,6 @@ Some tips to make beautiful slides:
 * [What We Know About Art and the Mind](https://www.newyorker.com/culture/cultural-comment/what-we-know-about-art-and-the-mind)
 * [CAN](https://arxiv.org/abs/1706.07068): Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms
 * [The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
+* [The Great Chinese Art Heist](https://www.gq.com/story/the-great-chinese-art-heist)
+* [How the Brain Experiences Time](https://neurosciencenews.com/time-perception-9771/)
+
