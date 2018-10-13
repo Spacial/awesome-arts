@@ -15,6 +15,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [coltrane](https://github.com/pedrozath/coltrane): 🎹🎸A music theory library with a command-line interface
 * [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 * [Guitar Dashboard](http://guitardashboard.com/)
+* ELECTRONIC ORGY: [PIERRE HENRY](http://electronicorgy.blogspot.com/2017/07/pierre-henry-mix-pierre-henry-030-4xcd.html): MIX PIERRE HENRY 03.0 (4xCD BOX SET COMPILATION - PHILIPS - 2001) (FLAC)
 
 ## Articles
 
@@ -126,6 +127,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [canon_cr3](https://github.com/lclevy/canon_cr3): Describing the Canon CR3 fileformat from Canon M50 / EOSR
 * [Sagittarius Rising](https://jpcvanheijst.com/blogs/2018/09/711348-sagittarius-rising-n-long-exposure-photography-from-the-stratosphere-7-minute-read)– Long exposure photography from the stratosphere. 
 * [O realismo mágico da fotografia de Izan Petterle](https://brasil.elpais.com/brasil/2018/08/31/album/1535728846_339466.html)
+* [World’s fastest camera freezes time at 10 trillion frames per second](http://www.inrs.ca/english/actualites/worlds-fastest-camera-freezes-time-10-trillion-frames-second)
 
 ---
 # Pintura
