@@ -13,6 +13,8 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw)
 * [Matrix Calculator](https://www.musictheory.net/calculators/matrix)
 * [coltrane](https://github.com/pedrozath/coltrane): 🎹🎸A music theory library with a command-line interface
+* [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
+* [Guitar Dashboard](http://guitardashboard.com/)
 
 ## Articles
 
@@ -95,6 +97,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 * [Supercollider](supercollider/README.md)
 * [Compiling SuperCollider](https://github.com/overtone/overtone/wiki/Compiling-SuperCollider)
 * [Installing SuperCollider on Fedora · supercollider/supercollider Wiki](https://github.com/supercollider/supercollider/wiki/Installing-SuperCollider-on-Fedora)
+* [examples/demonstrations](https://github.com/supercollider/supercollider/tree/develop/examples/demonstrations)
 
 #### Sonic-Pi
 
@@ -128,7 +131,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 # Pintura
 
 * [Nusay Gallery - Official website](https://nusaygallery.com/)
-
+* [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
 ---
 
 # Visual
@@ -139,6 +142,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Spiral Test](https://gist.github.com/Bleuje/5cfe3bf5d83b63805389bbaf45ae73fb) (in processing)
 * [The Pioneer of Generative Art: Georg Nees](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325)
 * [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
+* [Mindstamp](https://mindstamp.io/): Create Engaging Interactive Videos in Seconds
 
 ## Processing
 
@@ -175,6 +179,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Fonts and UFO Masters of Inria Serif and Inria Sans Typeface](https://github.com/BlackFoundry/InriaFonts) [more](https://black-foundry.com/fonts/)
 * [Reforma](https://pampatype.com/blog/reforma): A new voice for an institution with deep roots
 * [Sans Forgetica](http://sansforgetica.rmit/): Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes. 
+* [Typedia](http://typedia.com/): A Shared Encyclopedia of Typefaces
 
 ## Fun
 
@@ -204,4 +209,10 @@ Some tips to make beautiful slides:
 * [The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
 * [The Great Chinese Art Heist](https://www.gq.com/story/the-great-chinese-art-heist)
 * [How the Brain Experiences Time](https://neurosciencenews.com/time-perception-9771/)
+* [BienalWebApp](http://app33.bienal.org.br/#/audioguia/audioguia-detalhe/5426)
+* [The Other Secret Twist: On the Political Philosophy of The Good Place - Los Angeles Review of Books](https://lareviewofbooks.org/article/secret-twist-political-philosophy-good-place/#!)
+* [Excerpt: Eric Idle’s Always Look on the Bright Side of Life](http://www.vulture.com/2018/10/eric-idle-book-monty-python-always-look-on-the-bright-side-of-life.html)
 
+# Technology
+
+* [LOLWUT](http://antirez.com/news/123): a piece of art inside a database command - <antirez>
