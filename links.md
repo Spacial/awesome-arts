@@ -22,3 +22,17 @@
 * [The Hidden Author of Putinism](https://www.theatlantic.com/international/archive/2014/11/hidden-author-putinism-russia-vladislav-surkov/382489/)
 * [Mendes da Rocha: “El brutalismo no es nada, solo significa algo para el que no ha entendido bien las cosas”](https://elpais.com/elpais/2018/10/08/icon_design/1539001730_157977.html)
 * [“O ódio deitou no meu divã”](https://brasil.elpais.com/brasil/2018/10/10/politica/1539207771_563062.html)
+* [O Exército deve ter um papel de garantidor da democracia?](https://www1.folha.uol.com.br/colunas/versus/2018/09/o-exercito-deve-ter-um-papel-de-garantidor-da-democracia.shtml)- 22/09/2018 - Versus - Folha
+* [Encontre sua candidata: todas as mulheres na disputa eleitoral em 2018 - Gênero e Número](http://www.generonumero.media/encontre-sua-candidata-todas-as-mulheres-na-disputa-eleitoral-em-2018/)
+* [Meet the Economist Behind the One Percent’s Stealth Takeover of America](https://www.ineteconomics.org/perspectives/blog/meet-the-economist-behind-the-one-percents-stealth-takeover-of-america)
+* [Boletim do Whatsapp – Nº 1](http://iespnaseleicoes.com.br/boletim-do-whatsapp-no-1/)– IESP nas Eleições
+* ['For me, this is paradise': life in the Spanish city that banned cars](https://www.theguardian.com/cities/2018/sep/18/paradise-life-spanish-city-banned-cars-pontevedra) | Cities | The Guardian
+* [Brazil Lost More Than the Past in the National Museum Fire](https://www.newyorker.com/news/dispatch/brazil-lost-more-than-the-past-in-the-national-museum-fire) | The New Yorker
+* [Esta plataforma permite criar batidas com sons cotidianos](https://www.nexojornal.com.br/expresso/2018/09/15/Esta-plataforma-permite-criar-batidas-com-sons-cotidianos) - Nexo Jornal
+* [A fé de Bolsonaro](https://www1.folha.uol.com.br/colunas/helioschwartsman/2018/09/a-fe-de-bolsonaro.shtml) - 15/09/2018 - Hélio Schwartsman - Folha
+* [Pesquisa internacional busca identificar a discrepância da participação de mulheres e de homens nas áreas de ciências da natureza, matemática,  computação, história e filosofia da ciência e tecnologia](http://www.on.br/index.php/pt-br/ultimas-noticias/424-pesquisa-genero-ciencias.html)- Observatório Nacional
+* [Cientistas brasileiros e estrangeiros protestam contra descaso do governo em artigo na revista 'Science'](https://oglobo.globo.com/sociedade/cientistas-brasileiros-estrangeiros-protestam-contra-descaso-do-governo-em-artigo-na-revista-science-23105156)- Jornal O Globo
+* [O que é o fascismo? Perguntamos a pensadores da Itália, berço do movimento](https://noticias.uol.com.br/ultimas-noticias/bbc/2018/10/04/fascismo-italia.htm) - BBC - UOL Notícias
+* [A raiva venceu. Apertará confirmo dia 28?](https://www1.folha.uol.com.br/colunas/clovisrossi/2018/10/a-raiva-venceu-apertara-confirmo-dia-28.shtml)- 08/10/2018 - Clóvis Rossi - Folha
+* ["Vivemos um irracionalismo impressionante"](https://www.valor.com.br/politica/5900813/vivemos-um-irracionalismo-impressionante) | Valor Econômico
+* [Ele não porque eu sou policial ](http://www.justificando.com/2018/10/09/ele-nao-porque-eu-sou-policial/)
