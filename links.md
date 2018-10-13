@@ -10,6 +10,10 @@
 * [The Strange, Sci-Fi Sounds of Skating on Thin Black Ice](http://www.openculture.com/2018/02/the-strange-sci-fi-sounds-of-skating-on-thin-black-ice.html)
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
 
+# Comedy
+
+* [Comida No Avião l Larica Total EP59 - YouTube](https://www.youtube.com/watch?v=SzcK-qP3NXY)
+* George Orwell: [Why Socialists Don't Believe In Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
 
 # Other
 
@@ -36,3 +40,17 @@
 * [A raiva venceu. Apertará confirmo dia 28?](https://www1.folha.uol.com.br/colunas/clovisrossi/2018/10/a-raiva-venceu-apertara-confirmo-dia-28.shtml)- 08/10/2018 - Clóvis Rossi - Folha
 * ["Vivemos um irracionalismo impressionante"](https://www.valor.com.br/politica/5900813/vivemos-um-irracionalismo-impressionante) | Valor Econômico
 * [Ele não porque eu sou policial ](http://www.justificando.com/2018/10/09/ele-nao-porque-eu-sou-policial/)
+* [We Now Know More About the Apparent Poisoning of the Pussy Riot Member Pyotr Verzilov | The New Yorker](https://www.newyorker.com/news/our-columnists/we-now-know-more-about-the-apparent-poisoning-of-the-pussy-riot-member-pyotr-verzilov)
+* [Burning Man's Mathematical Underbelly](https://www.scientificamerican.com/article/burning-mans-mathematical-underbelly/): Scientific American
+* [Fan Bingbing: Vanished Chinese star 'not socially responsible' - BBC News](https://www.bbc.com/news/world-asia-china-45426882)
+* [Preventing Muscle Loss as We Age](https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html)- The New York Times
+* [Apple can delete purchased movies from your library without telling you | The Outline](https://theoutline.com/post/6167/apple-can-delete-the-movies-you-purchased-without-telling-you?zd=3&zi=i3xaj4s4)
+* [Por que a produtividade da economia brasileira não aumentou nos últimos anos? - Paulo Gala](http://www.paulogala.com.br/por-que-a-produtividade-da-economia-brasileira-nao-aumentou-nos-ultimos-anos/)
+* [Argue with your customers - Rockstar Coders](https://www.rockstarcoders.com/customer-feedback/)
+* [Sweden offers glimpse of a world without Amazon – POLITICO](https://www.politico.eu/article/sweden-amazon-competition-ecommerce/)
+* [UK’s mass surveillance regime violated human rights law, finds ECHR | TechCrunch](https://techcrunch.com/2018/09/13/uks-mass-surveillance-regime-violated-human-rights-law-finds-echr/)
+* [The earliest known drawing in history sends a message through 73,000 years](https://www.nature.com/articles/d41586-018-06657-x)
+* [Brain Scans Can Detect Who Has Better Skills - WSJ](https://www.wsj.com/articles/brain-scans-can-detect-who-has-better-skills-1538589600)
+* [Bizarre Particles Keep Flying Out of Antarctica's Ice, and They Might Shatter Modern Physics](https://www.livescience.com/63692-standard-model-broken-supersymmetry-new-physics.html)
+* [vitimas-da-intolerancia](https://github.com/okfn-brasil/vitimas-da-intolerancia): Conheça as vítimas de ódio político
+* [New study links common herbicides and antibiotic resistance | University of Canterbury](https://www.canterbury.ac.nz/news/2018/new-study-links-common-herbicides-and-antibiotic-resistance.html)
