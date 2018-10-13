@@ -143,6 +143,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [The Pioneer of Generative Art: Georg Nees](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01325)
 * [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 * [Mindstamp](https://mindstamp.io/): Create Engaging Interactive Videos in Seconds
+* [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
 
 ## Processing
 
