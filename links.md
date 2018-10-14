@@ -55,3 +55,5 @@
 * [vitimas-da-intolerancia](https://github.com/okfn-brasil/vitimas-da-intolerancia): Conheça as vítimas de ódio político
 * [New study links common herbicides and antibiotic resistance | University of Canterbury](https://www.canterbury.ac.nz/news/2018/new-study-links-common-herbicides-and-antibiotic-resistance.html)
 * [MANUAL DE CAMPANHA OPERAÇÕES PSICOLÓGICAS C 45-4](https://pt.slideshare.net/DanielFXA/manual-de-campanha-operaes-psicolgicas-c-454)
+* [OS BASTIDORES DO APOIO DO PORTAL R7 A BOLSONARO](https://theintercept.com/2018/10/13/bastidores-universal-edir-macedo-apoio-portal-r7-bolsonaro/)
+* [‘Silence Is Health’: How Totalitarianism Arrives](https://www.nybooks.com/daily/2018/08/20/silence-is-health-how-totalitarianism-arrives/)
