@@ -54,3 +54,4 @@
 * [Bizarre Particles Keep Flying Out of Antarctica's Ice, and They Might Shatter Modern Physics](https://www.livescience.com/63692-standard-model-broken-supersymmetry-new-physics.html)
 * [vitimas-da-intolerancia](https://github.com/okfn-brasil/vitimas-da-intolerancia): Conheça as vítimas de ódio político
 * [New study links common herbicides and antibiotic resistance | University of Canterbury](https://www.canterbury.ac.nz/news/2018/new-study-links-common-herbicides-and-antibiotic-resistance.html)
+* [MANUAL DE CAMPANHA OPERAÇÕES PSICOLÓGICAS C 45-4](https://pt.slideshare.net/DanielFXA/manual-de-campanha-operaes-psicolgicas-c-454)
