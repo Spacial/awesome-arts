@@ -152,6 +152,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [All my sketches of Processing](https://github.com/manoloide/AllSketchs) by [manoloide](https://github.com/manoloide)
 * [Research essay: The History of Processing](https://maxoffsky.com/research/research-essay-the-history-of-processing/)
 * [Alexandre B A Villares](http://abav.lugaralgum.com/sketch-a-day/)
+* [sketches](https://github.com/berinhard/sketches/): my sketches created with [processing](https://berinhard.github.io/sketches/)
 
 ## Noise
 
