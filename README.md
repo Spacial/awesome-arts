@@ -15,6 +15,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 * [Guitar Dashboard](http://guitardashboard.com/)
 * ELECTRONIC ORGY: [PIERRE HENRY](http://electronicorgy.blogspot.com/2017/07/pierre-henry-mix-pierre-henry-030-4xcd.html): MIX PIERRE HENRY 03.0 (4xCD BOX SET COMPILATION - PHILIPS - 2001) (FLAC)
+* (es) [Carlos Reynoso](http://carlosreynoso.com.ar/) Homepage.
 
 ### Articles
 
