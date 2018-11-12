@@ -137,7 +137,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [Nusay Gallery - Official website](https://nusaygallery.com/)
 * [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
-  
+* [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
+
 ---
 
 ## Visual
@@ -190,9 +191,14 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Sans Forgetica](http://sansforgetica.rmit/): Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes.
 * [Typedia](http://typedia.com/): A Shared Encyclopedia of Typefaces
 
+## Poetry
+
+* The poetry and brief life of a Foxconn worker: [Xu Lizhi](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)(1990-2014)
+
 ## Fun
 
 * [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
+* [Rain Simulator](http://rainbowhunt.me/)
 
 ## Drivers
 
@@ -221,6 +227,7 @@ Some tips to make beautiful slides:
 * [BienalWebApp](http://app33.bienal.org.br/#/audioguia/audioguia-detalhe/5426)
 * [The Other Secret Twist: On the Political Philosophy of The Good Place - Los Angeles Review of Books](https://lareviewofbooks.org/article/secret-twist-political-philosophy-good-place/#!)
 * [Excerpt: Eric Idle’s Always Look on the Bright Side of Life](http://www.vulture.com/2018/10/eric-idle-book-monty-python-always-look-on-the-bright-side-of-life.html)
+* [The Art Institute of Chicago Has Put 50,000 High-Res Images from Their Collection Online](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online)
 
 ## Technology
 
