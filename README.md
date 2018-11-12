@@ -193,6 +193,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Fun
 
 * [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
+* [HEXEN 2.0](http://www.suzannetreister.net/HEXEN2/TAROT_COL/HEXEN_2_TAROT.html) (tarot)
+* [U.S.A. Song Map](https://www.wearedorothy.com/collections/world-maps/products/u-s-a-song-map-open-edition)
 
 ## Drivers
 
