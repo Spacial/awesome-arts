@@ -130,6 +130,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Sagittarius Rising](https://jpcvanheijst.com/blogs/2018/09/711348-sagittarius-rising-n-long-exposure-photography-from-the-stratosphere-7-minute-read)– Long exposure photography from the stratosphere.
 * [O realismo mágico da fotografia de Izan Petterle](https://brasil.elpais.com/brasil/2018/08/31/album/1535728846_339466.html)
 * [World’s fastest camera freezes time at 10 trillion frames per second](http://www.inrs.ca/english/actualites/worlds-fastest-camera-freezes-time-10-trillion-frames-second)
+* [The Color Photography of Vivian Maier](https://petapixel.com/2018/11/16/the-color-photography-of-vivian-maier/)
 
 ---
 
@@ -140,6 +141,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
 
 ---
+
+## Cinema
+
+* [Akira Kurosawa Names His 21 Favorite Art Films in the Criterion Collection | Open Culture](http://www.openculture.com/2017/06/akira-kurosawas-names-his-21-favorite-art-films-in-the-criterion-collection.html)
 
 ## Visual
 
