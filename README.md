@@ -75,7 +75,7 @@ Coleção de *links* e recursos sobre artes em geral.
 
         Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
 
-### Licença 
+### Licença
 
 Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
 
