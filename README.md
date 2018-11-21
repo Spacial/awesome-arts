@@ -156,6 +156,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 * [Mindstamp](https://mindstamp.io/): Create Engaging Interactive Videos in Seconds
 * [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
+* [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
 
 ## Processing
 
@@ -183,6 +184,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Games
 
 * [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
+* [8bit games in browser emulator](https://floooh.github.io/tiny8bit/). [github](https://github.com/floooh/chips-test)
 
 ## Software
 
@@ -235,6 +237,7 @@ Some tips to make beautiful slides:
 * [The Other Secret Twist: On the Political Philosophy of The Good Place - Los Angeles Review of Books](https://lareviewofbooks.org/article/secret-twist-political-philosophy-good-place/#!)
 * [Excerpt: Eric Idle’s Always Look on the Bright Side of Life](http://www.vulture.com/2018/10/eric-idle-book-monty-python-always-look-on-the-bright-side-of-life.html)
 * [The Art Institute of Chicago Has Put 50,000 High-Res Images from Their Collection Online](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online)
+* [The Graphic Art of Incredibles 2](http://joshholtsclaw.com/blog/2018/3/5/the-graphic-art-of-incredibles-2)
 
 ## Technology
 
