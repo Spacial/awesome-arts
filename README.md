@@ -68,6 +68,8 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Python program to sequence MIDI music using a CSV spreadsheet](https://gist.github.com/maximecb/f440c1db489177c1037ec4f158cf5e4f)
 * A [spectral visualizer](https://github.com/Bauxitedev/spectral-visualizer) that analyzes the frequencies of music and sound, written in Godot 3.1.
 * [Green noise and Barks](https://www.johndcook.com/blog/2016/04/27/green-noise-and-barks/) [Python script](https://www.johndcook.com/blog/2016/04/27/how-to-create-green-noise-in-python/)
+* [Piano Phase](http://www.pianophase.com/): This site is based on the first section from Steve Reich's 1967 piece Piano Phase. Two pianists repeat the same twelve note sequence, but one gradually speeds up. Here, the musical patterns are visualized by drawing two lines, one following each pianist.
+* [mucoder tonespace](http://www.mucoder.net/en/tonespace/): chord generator and visualizer
 
 ## Pastas
 
@@ -238,6 +240,7 @@ Some tips to make beautiful slides:
 * [Excerpt: Eric Idle’s Always Look on the Bright Side of Life](http://www.vulture.com/2018/10/eric-idle-book-monty-python-always-look-on-the-bright-side-of-life.html)
 * [The Art Institute of Chicago Has Put 50,000 High-Res Images from Their Collection Online](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online)
 * [The Graphic Art of Incredibles 2](http://joshholtsclaw.com/blog/2018/3/5/the-graphic-art-of-incredibles-2)
+* [Monty Python and the Holy Grail Censorship Letter: We Want to Retain "Fart in Your General Direction" | Open Culture](http://www.openculture.com/2014/09/monty-python-and-the-holy-grail-censorship-letter.html)
 
 ## Technology
 
