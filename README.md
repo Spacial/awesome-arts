@@ -16,6 +16,7 @@ Coleção de *links* e recursos sobre artes em geral.
 * [Guitar Dashboard](http://guitardashboard.com/)
 * ELECTRONIC ORGY: [PIERRE HENRY](http://electronicorgy.blogspot.com/2017/07/pierre-henry-mix-pierre-henry-030-4xcd.html): MIX PIERRE HENRY 03.0 (4xCD BOX SET COMPILATION - PHILIPS - 2001) (FLAC)
 * (es) [Carlos Reynoso](http://carlosreynoso.com.ar/) Homepage.
+* [turtle.audio](http://turtle.audio): s a music sequencer inspired by turtle graphics programming. I have been working on this for 2 years (!!) and it's terrifying to finally show you. Please enjoy! 🔊 and [slang](http://slang.kylestetz.com) - [github](https://github.com/kylestetz/slang): a simple audio programming language implemented in JS
 
 ### Articles
 
