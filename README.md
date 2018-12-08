@@ -199,6 +199,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Reforma](https://pampatype.com/blog/reforma): A new voice for an institution with deep roots
 * [Sans Forgetica](http://sansforgetica.rmit/): Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes.
 * [Typedia](http://typedia.com/): A Shared Encyclopedia of Typefaces
+* [WALL-e](https://typesetinthefuture.com/2018/12/04/walle/): From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism.
 
 ## Poetry
 
@@ -241,6 +242,7 @@ Some tips to make beautiful slides:
 * [The Art Institute of Chicago Has Put 50,000 High-Res Images from Their Collection Online](https://kottke.org/18/11/the-art-institute-of-chicago-has-put-50000-high-res-images-from-their-collection-online)
 * [The Graphic Art of Incredibles 2](http://joshholtsclaw.com/blog/2018/3/5/the-graphic-art-of-incredibles-2)
 * [Monty Python and the Holy Grail Censorship Letter: We Want to Retain "Fart in Your General Direction" | Open Culture](http://www.openculture.com/2014/09/monty-python-and-the-holy-grail-censorship-letter.html)
+* [WHY ARE SO MANY DUDES LOSING THEIR SHIT OVER 8D AUDIO?](https://melmagazine.com/en-us/story/why-are-so-many-dudes-losing-their-shit-over-8d-audio)
 
 ## Technology
 
