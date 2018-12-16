@@ -1,10 +1,19 @@
 # Arts
 
-Coleção de *links* e recursos sobre artes em geral.
+Awesome Arts: Collection of arts links and tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [Who gave you the best advice on being an artist, and what was it?](https://www.vulture.com/2018/11/27-artists-on-the-best-and-worst-advice-they-ever-got.html)
+
+---
 
 ## Music
 
 * [Music Map](https://musicmap.info/)
+* [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu)
+* [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
+* [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
+* [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
+* [Coltrane Pitch Diagrams](https://medium.com/@lucas_gonze/coltrane-pitch-diagrams-e25b7d9f5093)
+* [AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
 
 ### Resources
 
@@ -42,18 +51,24 @@ Coleção de *links* e recursos sobre artes em geral.
 
 #### Supercollider
 
+Exemplos básicos pra iniciar o uso do Supercollider (SC).
+
 * [SuperCollider](https://supercollider.github.io/)
+* [Supercollider stuff](supercollider/README.md): directory with supercollider examples.
+* [Compiling SuperCollider](https://github.com/overtone/overtone/wiki/Compiling-SuperCollider)
+* [Installing SuperCollider on Fedora](https://github.com/supercollider/supercollider/wiki/Installing-SuperCollider-on-Fedora)
+* [examples/demonstrations](https://github.com/supercollider/supercollider/tree/develop/examples/demonstrations)
 * [sc3ctrl](https://github.com/rfwatson/sc3ctrl): Control SuperCollider app from command line
 * [supercollider-tmbundle](https://github.com/rfwatson/supercollider-tmbundle): TextMate bundle for supercollider.app
 
-### Links úteis
+#### Sonic-Pi
 
-* [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu)
-* [Convolution Processing With Impulse Responses](https://www.soundonsound.com/techniques/convolution-processing-impulse-responses)
-* [How to Listen to Music](http://www.openculture.com/2017/08/how-to-listen-to-music-a-free-course-from-yale-university.html): A Free Course from Yale University
-* [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
-* [Coltrane Pitch Diagrams](https://medium.com/@lucas_gonze/coltrane-pitch-diagrams-e25b7d9f5093)
-* [AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
+* [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
+* [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
+
+### PureData
+
+* [The Pure Programming Language](https://agraef.github.io/pure-lang/)
 
 ### Programação
 
@@ -95,27 +110,13 @@ Obs: pacote no fedora: mscore;
 
 Códigos em geral com python e música (variados).
 
-### SuperCollider
-
-Exemplos básicos pra iniciar o uso do Supercollider (SC).
-
-* [Supercollider](supercollider/README.md)
-* [Compiling SuperCollider](https://github.com/overtone/overtone/wiki/Compiling-SuperCollider)
-* [Installing SuperCollider on Fedora · supercollider/supercollider Wiki](https://github.com/supercollider/supercollider/wiki/Installing-SuperCollider-on-Fedora)
-* [examples/demonstrations](https://github.com/supercollider/supercollider/tree/develop/examples/demonstrations)
-
-#### Sonic-Pi
-
-* [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
-* [sonic-pi/INSTALL-FEDORA.md at master · samaaron/sonic-pi](https://github.com/samaaron/sonic-pi/blob/master/app/gui/qt/INSTALL-FEDORA.md)
-
-### PureData
-
-* [The Pure Programming Language](https://agraef.github.io/pure-lang/)
-
 ### Latex
 
 Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para auxílio).
+
+### News
+
+* [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget 
 
 ---
 
@@ -134,6 +135,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [O realismo mágico da fotografia de Izan Petterle](https://brasil.elpais.com/brasil/2018/08/31/album/1535728846_339466.html)
 * [World’s fastest camera freezes time at 10 trillion frames per second](http://www.inrs.ca/english/actualites/worlds-fastest-camera-freezes-time-10-trillion-frames-second)
 * [The Color Photography of Vivian Maier](https://petapixel.com/2018/11/16/the-color-photography-of-vivian-maier/)
+* (pt-br) [News by Lucas Landau](http://www.lucaslandau.com/news)
 
 ---
 
@@ -160,6 +162,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Mindstamp](https://mindstamp.io/): Create Engaging Interactive Videos in Seconds
 * [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
 * [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
+* [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
 
 ## Processing
 
@@ -168,6 +171,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Alexandre B A Villares](http://abav.lugaralgum.com/sketch-a-day/)
 * [sketches](https://github.com/berinhard/sketches/): my sketches created with [processing](https://berinhard.github.io/sketches/)
 * [Berin's sketches](https://berinhard.github.io/sketches/): This is a list of sketches I'm creating while learning and exploring Processing.
+* [ProcessingTeachingSketches](https://github.com/jeffThompson/ProcessingTeachingSketches): Teaching sketches created in Processing (and Java)
+* [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
 
 ## Noise
 
@@ -192,6 +197,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Software
 
 * [A gallery of 130+ Gimp filters/effects examples](https://alvinalexander.com/design/gimp-catalog-filters-effects-examples-cheat-sheet)
+* [Rexpaint](https://www.gridsagegames.com/rexpaint/): is a powerful and user-friendly ASCII art editor. Use a wide variety of tools to create ANSI block/line art, roguelike mockups and maps, UI layouts, and for other game development needs.
 
 ## Fonts
 
@@ -244,7 +250,15 @@ Some tips to make beautiful slides:
 * [The Graphic Art of Incredibles 2](http://joshholtsclaw.com/blog/2018/3/5/the-graphic-art-of-incredibles-2)
 * [Monty Python and the Holy Grail Censorship Letter: We Want to Retain "Fart in Your General Direction" | Open Culture](http://www.openculture.com/2014/09/monty-python-and-the-holy-grail-censorship-letter.html)
 * [WHY ARE SO MANY DUDES LOSING THEIR SHIT OVER 8D AUDIO?](https://melmagazine.com/en-us/story/why-are-so-many-dudes-losing-their-shit-over-8d-audio)
+* (pt-br) [Cantores Indígenas](http://amazonia.org.br/2015/05/14-músicas-de-diferentes-cantores-ind%C3%ADgenas-brasileiros-para-conhecer/)
+* (pt-br) [CRISTIAN WARIU TSEREMEY’WA, JOVEM INDÍGENA XAVANTE, CRIA CANAL NO YOUTUBE PARA DESCONSTRUIR PRECONCEITOS](https://www.inclusao360.org/indigenas/cristian-wariu-tseremeywa-jovem-indigena-xavante-cria-canal-no-youtube-para-desconstruir-preconceitos/)
+* (pt-br) [Quem são os youtubers indígenas do Brasil](https://www.vice.com/pt_br/article/qvqjw7/quem-sao-os-youtubers-indigenas-do-brasil)
 
 ## Technology
 
 * [LOLWUT](http://antirez.com/news/123): a piece of art inside a database command - antirez
+
+## Travel
+
+* [20 Abandoned Cities from Around the World](http://web.archive.org/web/20180221100932/www.dailycognition.com/index.php/2008/08/30/20-abandoned-cities-from-around-the-world.html)
+* [Visa List](https://visalist.io/) - Find visa requirements for 238 countries
