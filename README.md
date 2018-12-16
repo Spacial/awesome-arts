@@ -1,4 +1,4 @@
-# Awesome Arts: Collection of arts links and tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Arts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 * [Who gave you the best advice on being an artist, and what was it?](https://www.vulture.com/2018/11/27-artists-on-the-best-and-worst-advice-they-ever-got.html)
 
