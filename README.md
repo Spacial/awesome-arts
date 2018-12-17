@@ -1,6 +1,59 @@
 # Awesome Arts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+ “The true artist is not proud… Though he may be admired by others, he is sad not to have reached that point to which his better genius only appears as a distant, guiding sun.”
+
+## Contents
+
+<!-- TOC -->
+
+- [Awesome Arts ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-arts-awesomehttpsgithubcomsindresorhusawesome)
+  - [Contents](#contents)
+  - [License](#license)
+  - [Music](#music)
+    - [Resources](#resources)
+    - [Articles](#articles)
+    - [Platforms and applications](#platforms-and-applications)
+      - [Supercollider](#supercollider)
+      - [Sonic-Pi](#sonic-pi)
+    - [PureData](#puredata)
+    - [Programming](#programming)
+    - [Local Directories](#local-directories)
+      - [MuseScore (mscore)](#musescore-mscore)
+      - [Python](#python)
+      - [Latex](#latex)
+    - [Music News](#music-news)
+  - [Circus](#circus)
+  - [Photography](#photography)
+  - [Painting](#painting)
+  - [Cinema](#cinema)
+  - [Visual](#visual)
+  - [Processing](#processing)
+  - [Noise](#noise)
+  - [Colors](#colors)
+  - [Threads](#threads)
+  - [Games](#games)
+  - [Software](#software)
+  - [Fonts](#fonts)
+  - [Poetry](#poetry)
+  - [Fun](#fun)
+  - [Drivers](#drivers)
+  - [Hardware](#hardware)
+  - [Slides](#slides)
+  - [Inspiration](#inspiration)
+  - [News](#news)
+  - [Technology](#technology)
+  - [Travel](#travel)
+
+<!-- /TOC -->
+
 * [Who gave you the best advice on being an artist, and what was it?](https://www.vulture.com/2018/11/27-artists-on-the-best-and-worst-advice-they-ever-got.html)
+
+## License
+
+Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
+
+* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
+* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
 
 ---
 
@@ -33,7 +86,7 @@
 * [Speaker Wire](http://www.roger-russell.com/wire/wire.htm)
 * [Colors of noise](https://www.johndcook.com/blog/2015/12/07/colors-of-noise/)
 
-### Plataformas e Aplicações
+### Platforms and applications
 
 * [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
 * [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
@@ -69,7 +122,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 
 * [The Pure Programming Language](https://agraef.github.io/pure-lang/)
 
-### Programação
+### Programming
 
 * [The Mystery and Music of Kaprekar Constant- 6174](http://arabale.com/blog/2014/4/29/the-mystery-and-music-of-kaprekar-constant-6174)
 * [An interactive, explorable explanation about the peculiar magic of sound waves](https://github.com/joshwcomeau/waveforms)
@@ -86,34 +139,27 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 * [Piano Phase](http://www.pianophase.com/): This site is based on the first section from Steve Reich's 1967 piece Piano Phase. Two pianists repeat the same twelve note sequence, but one gradually speeds up. Here, the musical patterns are visualized by drawing two lines, one following each pianist.
 * [mucoder tonespace](http://www.mucoder.net/en/tonespace/): chord generator and visualizer
 
-## Pastas
+### Local Directories
 
 * Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
-        Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
+      Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
 
-### Licença
-
-Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
-
-* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
-* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
-
-### MuseScore (mscore)
+#### MuseScore (mscore)
 
 Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exercícios.
 
 Obs: pacote no fedora: mscore;
 
-### Python
+#### Python
 
 Códigos em geral com python e música (variados).
 
-### Latex
+#### Latex
 
 Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para auxílio).
 
-### News
+### Music News
 
 * [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget 
 
@@ -125,7 +171,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ---
 
-## Fotografia
+## Photography
 
 * [Introducing Elodie:](https://medium.com/@jmathai/introducing-elodie-your-personal-exif-based-photo-and-video-assistant-d92868f302ec) Your Personal EXIF-based Photo and Video Assistant. [github](https://github.com/jmathai/elodie)
 * [LIGHT PAINTING ANIMATIONS DIRECTLY FROM BLENDER](https://hackaday.com/2018/07/30/light-painting-animations-directly-from-blender/)
@@ -138,7 +184,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ---
 
-## Pintura
+## Painting
 
 * [Nusay Gallery - Official website](https://nusaygallery.com/)
 * [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
@@ -177,7 +223,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 * [Randomness and Perlin Noise](http://makeyourownalgorithmicart.blogspot.com.br/2018/02/randomness-and-perlin-noise.html)
 
-## Cores
+## Colors
 
 * [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
 * [#c0ffee is the color](http://c0ffee.surge.sh)
@@ -206,6 +252,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 * [Sans Forgetica](http://sansforgetica.rmit/): Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes.
 * [Typedia](http://typedia.com/): A Shared Encyclopedia of Typefaces
 * [WALL-e](https://typesetinthefuture.com/2018/12/04/walle/): From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism.
+* [Comic Neue](http://comicneue.com)
 
 ## Poetry
 
@@ -233,6 +280,11 @@ Some tips to make beautiful slides:
 * [Code highlighting for Keynote presentations](https://gist.github.com/jimbojsb/1630790)
 * [highlight Theme-Samples](http://www.andre-simon.de/doku/highlight/en/theme-samples.php)
 * [listings - How can I automatically highlight SuperCollider symbols and environment variables? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/159245/how-can-i-automatically-highlight-supercollider-symbols-and-environment-variable)
+
+
+## Inspiration
+
+* [Beethoven’s Advice on Being an Artist](https://www.brainpickings.org/2017/05/18/beethoven-emilie-letter/): His Touching Letter to a Little Girl Who Sent Him Fan Mail
 
 ## News
 
