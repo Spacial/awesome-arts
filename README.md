@@ -168,6 +168,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
 - [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
 - [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
+- [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
 
 ## Processing
 
