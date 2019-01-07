@@ -120,6 +120,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ### Music News
 
 - [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget
+- [Inside the booming business of background music](https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music)
 
 ---
 
@@ -148,6 +149,12 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Nusay Gallery - Official website](https://nusaygallery.com/)
 - [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
 - [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
+
+---
+
+## Theatre
+
+- [THE BOOKS THAT MADE DRACULA](http://www.londonlibrary.co.uk/dracula)
 
 ---
 
