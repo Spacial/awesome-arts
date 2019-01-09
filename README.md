@@ -2,18 +2,7 @@
 
  “The true artist is not proud… Though he may be admired by others, he is sad not to have reached that point to which his better genius only appears as a distant, guiding sun.”
 
-## Contents
-
-<!-- TOC -->autoauto- [Awesome Arts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-arts-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)auto    - [Contents](#contents)auto    - [License](#license)auto    - [Music](#music)auto        - [Resources](#resources)auto        - [Articles](#articles)auto        - [Platforms and applications](#platforms-and-applications)auto            - [Supercollider](#supercollider)auto            - [Sonic-Pi](#sonic-pi)auto        - [PureData](#puredata)auto        - [Programming](#programming)auto        - [Local Directories](#local-directories)auto            - [MuseScore (mscore)](#musescore-mscore)auto            - [Python](#python)auto            - [Latex](#latex)auto        - [Music News](#music-news)auto    - [Circus](#circus)auto    - [Photography](#photography)auto    - [Painting](#painting)auto    - [Cinema](#cinema)auto    - [Visual](#visual)auto    - [Processing](#processing)auto    - [Noise](#noise)auto    - [Colors](#colors)auto    - [Threads](#threads)auto    - [Games](#games)auto    - [Software](#software)auto    - [Fonts](#fonts)auto    - [Poetry](#poetry)auto    - [Fun](#fun)auto    - [Drivers](#drivers)auto    - [Hardware](#hardware)auto    - [Slides](#slides)auto    - [Inspiration](#inspiration)auto    - [News](#news)auto        - [2018](#2018)auto    - [2019](#2019)auto    - [Technology](#technology)auto    - [Travel](#travel)autoauto<!-- /TOC -->
-
 - [Who gave you the best advice on being an artist, and what was it?](https://www.vulture.com/2018/11/27-artists-on-the-best-and-worst-advice-they-ever-got.html)
-
-## License
-
-Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
-
-* *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
-* *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
 
 ---
 
@@ -41,6 +30,7 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 - [Bach Organ Works](http://www.blockmrecords.org/bach/download.htm): Complete works organized into 13 groups for download.
 - [Moroccan Tape Stash](http://moroccantapestash.blogspot.com/?m=1)
 - [Chords and Scales Reference](http://chords.jpglomot.com/#)
+- [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
 
 ### Articles
 
@@ -51,6 +41,7 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 
 ### Platforms and applications
 
+- [Music Transformer](https://magenta.tensorflow.org/music-transformer): Generating Music with Long-Term Structure. arxiv [paper](https://arxiv.org/abs/1809.04281)
 - [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
 - [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
 - [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
@@ -63,6 +54,8 @@ Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de músic
 - [keithwhor/audiosynth: JS Dynamic Audio Synth](https://github.com/keithwhor/audiosynth)
 - [Hacklily](https://www.hacklily.org/): Online Music Sheet Editor
 - [JGuitar](https://jguitar.com/chordsearch): chord search.
+- [Magenta](https://magenta.tensorflow.org/): An open source research project exploring the role of machine learning as a tool in the creative process.
+- [AIVA](https://www.aiva.ai/): The Artificial Intelligence composing emotional soundtrack music.
 
 #### Supercollider
 
@@ -104,11 +97,18 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 
 ### Local Directories
 
-* Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
+- Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
       Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
+      
+#### License
 
-#### MuseScore (mscore)
+Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
+
+- *GPL v3 ou Superior*: veja [LICENSE](LICENSE).
+- *Creative Commons By-Sa-NC*: veja [CC 2016](CCby-nc-sa).
+
+### MuseScore (mscore)
 
 Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exercícios.
 
@@ -129,12 +129,14 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [SACRIFICIO, RESPLANDOR Y PLEGARIA](https://m.facebook.com/story.php?story_fbid=1788207394589184&id=472559692820634&refsrc=https%3A%2F%2Fm.facebook.com%2FORQUESTAdeINSTRUMENTOSAUTOCTONOS%2Fvideos%2F1788207394589184%2F&_rdr) de Daniel Judkovski dirigida por Alejandro Iglesias Rossi en el Teatro Municipal Alberto Saavedra Perez. Grabado en la Isla del Sol del Lago Titicaca y en La Paz, Bolivia, 2005.
 - [Jimi Hendrix Unplugged: Two Great Recordings of Hendrix Playing Acoustic Guitar | Open Culture](http://www.openculture.com/2014/04/jimi-hendrix-unplugged-two-rare-recordings-of-hendrix-playing-acoustic-guitar.html)
 - [Listen by numbers: music and maths](https://www.theguardian.com/music/2011/jun/27/music-mathematics-fibonacci)| Music | The Guardian
+- [Inside the booming business of background music](https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music)
 
 ---
 
 ## Circus
 
 - [Siteswap FAQ](http://www.juggling.org/help/siteswap/faq.html)
+- [That time Steve Jobs hired a career juggler to teach programming to developers](https://www.cake.co/conversations/w3j7jDp/that-time-steve-jobs-hired-a-career-juggler-to-teach-programming-to-developers)
 
 ---
 
@@ -147,8 +149,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [O realismo mágico da fotografia de Izan Petterle](https://brasil.elpais.com/brasil/2018/08/31/album/1535728846_339466.html)
 - [World’s fastest camera freezes time at 10 trillion frames per second](http://www.inrs.ca/english/actualites/worlds-fastest-camera-freezes-time-10-trillion-frames-second)
 - [The Color Photography of Vivian Maier](https://petapixel.com/2018/11/16/the-color-photography-of-vivian-maier/)
-* (pt-br) [News by Lucas Landau](http://www.lucaslandau.com/news)
+- (pt-br) [News by Lucas Landau](http://www.lucaslandau.com/news)
 - [Remove Image Background](https://www.remove.bg)
+
 
 ---
 
@@ -160,9 +163,16 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ---
 
+## Theatre
+
+- [THE BOOKS THAT MADE DRACULA](http://www.londonlibrary.co.uk/dracula)
+
+---
+
 ## Cinema
 
 - [Akira Kurosawa Names His 21 Favorite Art Films in the Criterion Collection | Open Culture](http://www.openculture.com/2017/06/akira-kurosawas-names-his-21-favorite-art-films-in-the-criterion-collection.html)
+- [The cult of Stanley Kubrick](https://www.economist.com/prospero/2018/12/10/the-cult-of-stanley-kubrick)
 
 ## Visual
 
@@ -176,6 +186,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
 - [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
 - [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
+- [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
 
 ## Processing
 
@@ -258,6 +269,7 @@ Some tips to make beautiful slides:
 ## News
 
 ### 2018
+
 - [Generative Art Finds Its Prodigy — Artnome](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)
 - [What We Know About Art and the Mind](https://www.newyorker.com/culture/cultural-comment/what-we-know-about-art-and-the-mind)
 - [CAN](https://arxiv.org/abs/1706.07068): Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms
