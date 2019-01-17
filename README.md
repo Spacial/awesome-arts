@@ -131,6 +131,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Jimi Hendrix Unplugged: Two Great Recordings of Hendrix Playing Acoustic Guitar | Open Culture](http://www.openculture.com/2014/04/jimi-hendrix-unplugged-two-rare-recordings-of-hendrix-playing-acoustic-guitar.html)
 - [Listen by numbers: music and maths](https://www.theguardian.com/music/2011/jun/27/music-mathematics-fibonacci)| Music | The Guardian
 - [Inside the booming business of background music](https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music)
+- [How would user-centric licensing affect music-streaming payouts?](https://musically.com/2018/03/02/user-centric-licensing-really-affect-streaming-payouts/)
 
 ---
 
@@ -138,6 +139,20 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Siteswap FAQ](http://www.juggling.org/help/siteswap/faq.html)
 - [That time Steve Jobs hired a career juggler to teach programming to developers](https://www.cake.co/conversations/w3j7jDp/that-time-steve-jobs-hired-a-career-juggler-to-teach-programming-to-developers)
+
+---
+
+## Poetry
+
+- The poetry and brief life of a Foxconn worker: [Xu Lizhi](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)(1990-2014)
+
+---
+
+## Painting
+
+- [Nusay Gallery - Official website](https://nusaygallery.com/)
+- [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
+- [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
 
 ---
 
@@ -153,15 +168,6 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - (pt-br) [News by Lucas Landau](http://www.lucaslandau.com/news)
 - [Remove Image Background](https://www.remove.bg)
 
-
----
-
-## Painting
-
-- [Nusay Gallery - Official website](https://nusaygallery.com/)
-- [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
-- [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
-
 ---
 
 ## Theatre
@@ -174,6 +180,12 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Akira Kurosawa Names His 21 Favorite Art Films in the Criterion Collection | Open Culture](http://www.openculture.com/2017/06/akira-kurosawas-names-his-21-favorite-art-films-in-the-criterion-collection.html)
 - [The cult of Stanley Kubrick](https://www.economist.com/prospero/2018/12/10/the-cult-of-stanley-kubrick)
+
+### Tools
+
+- [Introducing Olive, new non-linear video editor | Libre Graphics World](http://libregraphicsworld.org/blog/entry/introducing-olive-new-non-linear-video-editor), github: [olive](https://github.com/olive-editor/olive/): Professional open-source NLE video editor
+
+--- 
 
 ## Visual
 
@@ -188,6 +200,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
 - [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
 - [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
+- [Logarithmic spiral - Wikipedia](https://en.wikipedia.org/wiki/Logarithmic_spiral)
 
 ## Processing
 
@@ -213,6 +226,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Threads
 
 - [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
+- [String art - Wikipedia](https://en.wikipedia.org/wiki/String_art)
+
+--- 
 
 ## Games
 
@@ -236,10 +252,6 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [WALL-e](https://typesetinthefuture.com/2018/12/04/walle/): From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism.
 - [Comic Neue](http://comicneue.com)
 - [LIBERTINE FONTS](http://libertine-fonts.org/): Libre multilingual font family
-
-## Poetry
-
-- The poetry and brief life of a Foxconn worker: [Xu Lizhi](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)(1990-2014)
 
 ## Fun
 
