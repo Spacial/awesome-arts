@@ -95,13 +95,14 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Green noise and Barks](https://www.johndcook.com/blog/2016/04/27/green-noise-and-barks/) [Python script](https://www.johndcook.com/blog/2016/04/27/how-to-create-green-noise-in-python/)
 - [Piano Phase](http://www.pianophase.com/): This site is based on the first section from Steve Reich's 1967 piece Piano Phase. Two pianists repeat the same twelve note sequence, but one gradually speeds up. Here, the musical patterns are visualized by drawing two lines, one following each pianist.
 - [mucoder tonespace](http://www.mucoder.net/en/tonespace/): chord generator and visualizer
+- [soundZoom](http://www.dodeka.info/microtonal-isomorphic-keyboard-app/): SoundZoom is a digital and isomorphic keyboard that makes you explore the sound universe in a new way. The app allows you to discover new tonalities and sounds that are far beyond the traditional 12-semitone temperament. With soundZoom you can basically zoom in a semitone and divide it by either 2, 3, 4 or 12.
 
 ### Local Directories
 
 - Repositório dos exercícios das aulas de Teoria Musical da Unila, Março de 2016
 
       Todas as músicas serão feitas no MuseScore, Latex, Python, SuperCollider, etc..
-      
+
 #### License
 
 Lembrando que os arquivos de código são GPL v3 ou superior, arquivos de música são CC By-Sa-Nc:
@@ -235,6 +236,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
 - [8bit games in browser emulator](https://floooh.github.io/tiny8bit/). [github](https://github.com/floooh/chips-test)
+- [SWAGGINZZZ](https://pellsson.github.io/): In what was her first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
 
 ## Software
 
@@ -251,6 +253,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Typedia](http://typedia.com/): A Shared Encyclopedia of Typefaces
 - [WALL-e](https://typesetinthefuture.com/2018/12/04/walle/): From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism.
 - [Comic Neue](http://comicneue.com)
+- [LIBERTINE FONTS](http://libertine-fonts.org/): Libre multilingual font family
 
 ## Fun
 
@@ -302,7 +305,7 @@ Some tips to make beautiful slides:
 - (pt-br) [Quem são os youtubers indígenas do Brasil](https://www.vice.com/pt_br/article/qvqjw7/quem-sao-os-youtubers-indigenas-do-brasil)
 - [PsyBry - Binge (2016)](http://www.psybry.net/index-flatiron/#/binge-2016/)
 
-## 2019 
+## 2019
 
 - [Public Domain Day Is Finally Here!: Copyrighted Works Have Entered the Public Domain Today for the First Time in 21 Years | Open Culture](http://www.openculture.com/2019/01/public-domain-day-is-coming.html)
 
