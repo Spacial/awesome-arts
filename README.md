@@ -31,7 +31,8 @@
 - [Moroccan Tape Stash](http://moroccantapestash.blogspot.com/?m=1)
 - [Chords and Scales Reference](http://chords.jpglomot.com/#)
 - [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
-
+- [Music For Nothing](https://musicfornothing.com): Hi, I’m Joel Corelitz. Download anything and use it for free.
+  
 ### Articles
 
 - [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
@@ -131,6 +132,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Listen by numbers: music and maths](https://www.theguardian.com/music/2011/jun/27/music-mathematics-fibonacci)| Music | The Guardian
 - [Inside the booming business of background music](https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music)
 - [How would user-centric licensing affect music-streaming payouts?](https://musically.com/2018/03/02/user-centric-licensing-really-affect-streaming-payouts/)
+- [Introducing the Baroque Theorbo](https://www.youtube.com/watch?v=eVabz8LneI4)
 
 ---
 
