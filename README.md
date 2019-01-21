@@ -185,7 +185,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Introducing Olive, new non-linear video editor | Libre Graphics World](http://libregraphicsworld.org/blog/entry/introducing-olive-new-non-linear-video-editor), github: [olive](https://github.com/olive-editor/olive/): Professional open-source NLE video editor
 
---- 
+---
 
 ## Visual
 
@@ -228,7 +228,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
 - [String art - Wikipedia](https://en.wikipedia.org/wiki/String_art)
 
---- 
+---
 
 ## Games
 
@@ -306,7 +306,9 @@ Some tips to make beautiful slides:
 ## 2019
 
 - [Public Domain Day Is Finally Here!: Copyrighted Works Have Entered the Public Domain Today for the First Time in 21 Years | Open Culture](http://www.openculture.com/2019/01/public-domain-day-is-coming.html)
-
+- [Mixing art and artificial intelligence](https://www.aalto.fi/news/mixing-art-and-artificial-intelligence)
+- [Hermann Hesse on Solitude, the Value of Hardship, the Courage to Be Yourself, and How to Find Your Destiny](https://www.brainpickings.org/2019/01/15/hermann-hesse-solitude-suffering-destiny/)
+  
 ## Technology
 
 - [LOLWUT](http://antirez.com/news/123): a piece of art inside a database command - antirez
