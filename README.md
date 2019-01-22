@@ -319,3 +319,7 @@ Some tips to make beautiful slides:
 
 - [20 Abandoned Cities from Around the World](http://web.archive.org/web/20180221100932/www.dailycognition.com/index.php/2008/08/30/20-abandoned-cities-from-around-the-world.html)
 - [Visa List](https://visalist.io/) - Find visa requirements for 238 countries
+
+## Art to buy
+
+- [Dogs of the World Map - by Lili Chin](https://www.doggiedrawings.net/map)
