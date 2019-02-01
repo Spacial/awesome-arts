@@ -24,15 +24,14 @@
 - [coltrane](https://github.com/pedrozath/coltrane): 🎹🎸A music theory library with a command-line interface
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 - [Guitar Dashboard](http://guitardashboard.com/)
--  ELECTRONIC ORGY: [PIERRE HENRY](http://electronicorgy.blogspot.com/2017/07/pierre-henry-mix-pierre-henry-030-4xcd.html): MIX PIERRE HENRY 03.0 (4xCD BOX SET COMPILATION - PHILIPS - 2001) (FLAC)
+- ELECTRONIC ORGY: [PIERRE HENRY](http://electronicorgy.blogspot.com/2017/07/pierre-henry-mix-pierre-henry-030-4xcd.html): MIX PIERRE HENRY 03.0 (4xCD BOX SET COMPILATION - PHILIPS - 2001) (FLAC)
 - (es) [Carlos Reynoso](http://carlosreynoso.com.ar/) Homepage.
 - [turtle.audio](http://turtle.audio): s a music sequencer inspired by turtle graphics programming. I have been working on this for 2 years (!!) and it's terrifying to finally show you. Please enjoy! 🔊 and [slang](http://slang.kylestetz.com) - [github](https://github.com/kylestetz/slang): a simple audio programming language implemented in JS
 - [Bach Organ Works](http://www.blockmrecords.org/bach/download.htm): Complete works organized into 13 groups for download.
 - [Moroccan Tape Stash](http://moroccantapestash.blogspot.com/?m=1)
 - [Chords and Scales Reference](http://chords.jpglomot.com/#)
 - [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
-- [Music For Nothing](https://musicfornothing.com): Hi, I’m Joel Corelitz. Download anything and use it for free.
-  
+
 ### Articles
 
 - [Groove is in the Heart: Matching Beats Per Minute to Heart Rate](https://medium.com/@Spotify/groove-is-in-the-heart-matching-beats-per-minute-to-heart-rate-271a79b7f96a)
@@ -57,6 +56,7 @@
 - [JGuitar](https://jguitar.com/chordsearch): chord search.
 - [Magenta](https://magenta.tensorflow.org/): An open source research project exploring the role of machine learning as a tool in the creative process.
 - [AIVA](https://www.aiva.ai/): The Artificial Intelligence composing emotional soundtrack music.
+- [eternal](https://kousun12.github.io/eternal/): This project was created for gratuitous reasons; it’s an attempt to serve an aesthetic that I appreciate, over a medium which I feel is appropriate for its expression.
 
 #### Supercollider
 
@@ -133,7 +133,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Listen by numbers: music and maths](https://www.theguardian.com/music/2011/jun/27/music-mathematics-fibonacci)| Music | The Guardian
 - [Inside the booming business of background music](https://www.theguardian.com/news/2018/nov/06/inside-the-booming-business-of-background-music)
 - [How would user-centric licensing affect music-streaming payouts?](https://musically.com/2018/03/02/user-centric-licensing-really-affect-streaming-payouts/)
-- [Introducing the Baroque Theorbo](https://www.youtube.com/watch?v=eVabz8LneI4)
+- [Old Digital Cameras](http://old-digitalcameras.com/): Here is my collection of 600+ "old" digital cameras.
+- [Twenty Instruments Reconstructed to Play Through the Keys of a Vintage Piano](https://www.thisiscolossal.com/2019/01/twenty-instruments-play-through-a-vintage-piano/)
 
 ---
 
@@ -169,12 +170,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The Color Photography of Vivian Maier](https://petapixel.com/2018/11/16/the-color-photography-of-vivian-maier/)
 - (pt-br) [News by Lucas Landau](http://www.lucaslandau.com/news)
 - [Remove Image Background](https://www.remove.bg)
-
----
-
-## Theatre
-
-- [THE BOOKS THAT MADE DRACULA](http://www.londonlibrary.co.uk/dracula)
+- [For What It's Worth](http://www.dillonmarsh.com/fwiw.html) by DILLON MARSH
+- [Over 6,000 Ottoman-Era Photographs Now Available Online](https://hyperallergic.com/478505/getty-research-institute-ottoman-photography/)
 
 ---
 
@@ -182,10 +179,18 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Akira Kurosawa Names His 21 Favorite Art Films in the Criterion Collection | Open Culture](http://www.openculture.com/2017/06/akira-kurosawas-names-his-21-favorite-art-films-in-the-criterion-collection.html)
 - [The cult of Stanley Kubrick](https://www.economist.com/prospero/2018/12/10/the-cult-of-stanley-kubrick)
+- [‘Suspiria’](https://theflipflopreviews.wordpress.com/2019/01/23/luca-guadagnino-suspiria-review/): Luca Guadagnino’s ‘Suspiria’ Simulates The Act Of Fucking An Otherworldly Being
+- [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
 
 ### Tools
 
 - [Introducing Olive, new non-linear video editor | Libre Graphics World](http://libregraphicsworld.org/blog/entry/introducing-olive-new-non-linear-video-editor), github: [olive](https://github.com/olive-editor/olive/): Professional open-source NLE video editor
+
+---
+
+## Theatre
+
+- [THE BOOKS THAT MADE DRACULA](http://www.londonlibrary.co.uk/dracula)
 
 ---
 
@@ -230,6 +235,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
 - [String art - Wikipedia](https://en.wikipedia.org/wiki/String_art)
 
+## Illustrations
+
+- [Humaaans](https://www.humaaans.com/)
+  
 ---
 
 ## Games
@@ -282,6 +291,7 @@ Some tips to make beautiful slides:
 
 - [Beethoven’s Advice on Being an Artist](https://www.brainpickings.org/2017/05/18/beethoven-emilie-letter/): His Touching Letter to a Little Girl Who Sent Him Fan Mail
 - [web-tweeps](https://github.com/iRaul/web-tweeps): A curated list of developers / designers / artists on twitter. ⚡️ 
+- [THE WORLD’S WRITING SYSTEMS](http://worldswritingsystems.org/)
 
 ## News
 
@@ -310,16 +320,15 @@ Some tips to make beautiful slides:
 - [Public Domain Day Is Finally Here!: Copyrighted Works Have Entered the Public Domain Today for the First Time in 21 Years | Open Culture](http://www.openculture.com/2019/01/public-domain-day-is-coming.html)
 - [Mixing art and artificial intelligence](https://www.aalto.fi/news/mixing-art-and-artificial-intelligence)
 - [Hermann Hesse on Solitude, the Value of Hardship, the Courage to Be Yourself, and How to Find Your Destiny](https://www.brainpickings.org/2019/01/15/hermann-hesse-solitude-suffering-destiny/)
-  
+- [A obra completa de Machado de Assis para download gratuito](https://www.revistabula.com/679-a-obra-completa-de-machado-de-assis-para-download/). [obras](http://machado.mec.gov.br/)
+- [Watch: Machine Learning Music Composed From Re-Synthesized Fragments From 100s Of Terabytes Of LA Phil Recordings](https://nwn.blogs.com/nwn/2019/01/wdch-dreams-robert-thomas-la-phil.html)
+
 ## Technology
 
 - [LOLWUT](http://antirez.com/news/123): a piece of art inside a database command - antirez
+- [nuclear](https://nuclear.gumblert.tech/): There's no need to use services that limit your freedom and seek to exploit you just to listen to your favourite artists. Nuclear empowers you to listen to what you want, where you want, and how you want, for free.
 
 ## Travel
 
 - [20 Abandoned Cities from Around the World](http://web.archive.org/web/20180221100932/www.dailycognition.com/index.php/2008/08/30/20-abandoned-cities-from-around-the-world.html)
 - [Visa List](https://visalist.io/) - Find visa requirements for 238 countries
-
-## Art to buy
-
-- [Dogs of the World Map - by Lili Chin](https://www.doggiedrawings.net/map)
