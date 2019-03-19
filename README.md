@@ -96,6 +96,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Piano Phase](http://www.pianophase.com/): This site is based on the first section from Steve Reich's 1967 piece Piano Phase. Two pianists repeat the same twelve note sequence, but one gradually speeds up. Here, the musical patterns are visualized by drawing two lines, one following each pianist.
 - [mucoder tonespace](http://www.mucoder.net/en/tonespace/): chord generator and visualizer
 - [soundZoom](http://www.dodeka.info/microtonal-isomorphic-keyboard-app/): SoundZoom is a digital and isomorphic keyboard that makes you explore the sound universe in a new way. The app allows you to discover new tonalities and sounds that are far beyond the traditional 12-semitone temperament. With soundZoom you can basically zoom in a semitone and divide it by either 2, 3, 4 or 12.
+- [Play_The_Orchestra](https://www.hackster.io/137840/play-the-orchestra-2e32f4): Allows a user to play the orchestra via IoT technology.
 
 ### Local Directories
 
@@ -252,6 +253,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [A gallery of 130+ Gimp filters/effects examples](https://alvinalexander.com/design/gimp-catalog-filters-effects-examples-cheat-sheet)
 - [Rexpaint](https://www.gridsagegames.com/rexpaint/): is a powerful and user-friendly ASCII art editor. Use a wide variety of tools to create ANSI block/line art, roguelike mockups and maps, UI layouts, and for other game development needs.
 - [Jeff Thompson](http://www.jeffreythompson.org/index.php)
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
 
 ## Fonts
 
@@ -263,6 +265,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [WALL-e](https://typesetinthefuture.com/2018/12/04/walle/): From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism.
 - [Comic Neue](http://comicneue.com)
 - [LIBERTINE FONTS](http://libertine-fonts.org/): Libre multilingual font family
+- [inter](https://github.com/rsms/inter): Inter is a typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
+- [Optima](https://github.com/wsshin/website/tree/master/fonts)
+- [macFonts](https://github.com/potyt/fonts)
 
 ## Fun
 
