@@ -209,6 +209,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
 - [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
 - [Logarithmic spiral - Wikipedia](https://en.wikipedia.org/wiki/Logarithmic_spiral)
+- [Boris Labbé](https://www.borislabbe.com/): Graphic artist from his beginning, Boris Labbé has been developing, over the last eight years, an approach in animated video. Experiment after experiment, the film he develops tend to leave the spatio-temporal pattern imposed by the classical cinema, evolving towards video installation devices that include major technological revolutions of the past century, crossed with the latest digital technology generations. All his videos, like a part of the experimental film heritage have the emblem of the palingenesis, concept making both appeal to the loop and regeneration : cyclical return of the same events ; regular reappearance of ancestral characters ; perpetual return to life.
 
 ## Processing
 
