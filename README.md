@@ -182,6 +182,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The cult of Stanley Kubrick](https://www.economist.com/prospero/2018/12/10/the-cult-of-stanley-kubrick)
 - [‘Suspiria’](https://theflipflopreviews.wordpress.com/2019/01/23/luca-guadagnino-suspiria-review/): Luca Guadagnino’s ‘Suspiria’ Simulates The Act Of Fucking An Otherworldly Being
 - [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
+- [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
 
 ### Tools
 
