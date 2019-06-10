@@ -157,6 +157,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Nusay Gallery - Official website](https://nusaygallery.com/)
 - [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
 - [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
+- [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)
 
 ---
 
@@ -183,6 +184,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [‘Suspiria’](https://theflipflopreviews.wordpress.com/2019/01/23/luca-guadagnino-suspiria-review/): Luca Guadagnino’s ‘Suspiria’ Simulates The Act Of Fucking An Otherworldly Being
 - [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
 - [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
+- In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
 
 ### Tools
 
@@ -211,6 +213,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
 - [Logarithmic spiral - Wikipedia](https://en.wikipedia.org/wiki/Logarithmic_spiral)
 - [Boris Labbé](https://www.borislabbe.com/): Graphic artist from his beginning, Boris Labbé has been developing, over the last eight years, an approach in animated video. Experiment after experiment, the film he develops tend to leave the spatio-temporal pattern imposed by the classical cinema, evolving towards video installation devices that include major technological revolutions of the past century, crossed with the latest digital technology generations. All his videos, like a part of the experimental film heritage have the emblem of the palingenesis, concept making both appeal to the loop and regeneration : cyclical return of the same events ; regular reappearance of ancestral characters ; perpetual return to life.
+- [A Beautifully-Designed Edition of Euclid’s Elements from 1847 Gets Digitized](http://www.openculture.com/2018/12/a-beautifully-designed-edition-of-euclids-elements.html): Explore the New Online, Interactive Reproduction
 
 ## Processing
 
