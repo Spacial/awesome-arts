@@ -127,7 +127,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ### Music News
 
-- [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget 
+- [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget
 - [The Master Recycler](https://www.nybooks.com/articles/2018/12/20/bach-master-recycler/): Around 1730 Johann Sebastian Bach began to recycle his earlier works in a major way.
 - [SACRIFICIO, RESPLANDOR Y PLEGARIA](https://m.facebook.com/story.php?story_fbid=1788207394589184&id=472559692820634&refsrc=https%3A%2F%2Fm.facebook.com%2FORQUESTAdeINSTRUMENTOSAUTOCTONOS%2Fvideos%2F1788207394589184%2F&_rdr) de Daniel Judkovski dirigida por Alejandro Iglesias Rossi en el Teatro Municipal Alberto Saavedra Perez. Grabado en la Isla del Sol del Lago Titicaca y en La Paz, Bolivia, 2005.
 - [Jimi Hendrix Unplugged: Two Great Recordings of Hendrix Playing Acoustic Guitar | Open Culture](http://www.openculture.com/2014/04/jimi-hendrix-unplugged-two-rare-recordings-of-hendrix-playing-acoustic-guitar.html)
@@ -136,7 +136,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [How would user-centric licensing affect music-streaming payouts?](https://musically.com/2018/03/02/user-centric-licensing-really-affect-streaming-payouts/)
 - [Old Digital Cameras](http://old-digitalcameras.com/): Here is my collection of 600+ "old" digital cameras.
 - [Twenty Instruments Reconstructed to Play Through the Keys of a Vintage Piano](https://www.thisiscolossal.com/2019/01/twenty-instruments-play-through-a-vintage-piano/)
-
+- [The Day the Music Burned](https://www.nytimes.com/2019/06/11/magazine/universal-fire-master-recordings.html): It was the biggest disaster in the history of the music business — and almost nobody knew. This is the story of the 2008 Universal fire.
+  
 ---
 
 ## Circus
@@ -224,6 +225,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Berin's sketches](https://berinhard.github.io/sketches/): This is a list of sketches I'm creating while learning and exploring Processing.
 - [ProcessingTeachingSketches](https://github.com/jeffThompson/ProcessingTeachingSketches): Teaching sketches created in Processing (and Java)
 - [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
+- [haxademic](https://github.com/cacheflowe/haxademic): A personal toolkit for Java/Processing projects in Eclipse
 
 ## Noise
 
@@ -273,6 +275,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [inter](https://github.com/rsms/inter): Inter is a typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 - [Optima](https://github.com/wsshin/website/tree/master/fonts)
 - [macFonts](https://github.com/potyt/fonts)
+- [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
 
 ## Fun
 
@@ -300,7 +303,7 @@ Some tips to make beautiful slides:
 ## Inspiration
 
 - [Beethoven’s Advice on Being an Artist](https://www.brainpickings.org/2017/05/18/beethoven-emilie-letter/): His Touching Letter to a Little Girl Who Sent Him Fan Mail
-- [web-tweeps](https://github.com/iRaul/web-tweeps): A curated list of developers / designers / artists on twitter. ⚡️ 
+- [web-tweeps](https://github.com/iRaul/web-tweeps): A curated list of developers / designers / artists on twitter. ⚡️
 - [THE WORLD’S WRITING SYSTEMS](http://worldswritingsystems.org/)
 
 ## News
