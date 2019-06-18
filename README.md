@@ -138,7 +138,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Twenty Instruments Reconstructed to Play Through the Keys of a Vintage Piano](https://www.thisiscolossal.com/2019/01/twenty-instruments-play-through-a-vintage-piano/)
 - [The Day the Music Burned](https://www.nytimes.com/2019/06/11/magazine/universal-fire-master-recordings.html): It was the biggest disaster in the history of the music business — and almost nobody knew. This is the story of the 2008 Universal fire.
 - [Leonardo da Vinci's forgotten musical invention has been created for the first time](https://www.classicfm.com/music-news/leonardo-da-vinci-viola-organista/)
-- [MINIDISCS [HACKED]](https://bandcamp.com/EmbeddedPlayer/album=540938686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/) by Radiohead
+- [MINIDISCS [HACKED]](https://radiohead.bandcamp.com/album/minidiscs-hacked) ([raw link](https://bandcamp.com/EmbeddedPlayer/album=540938686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/)) by Radiohead
 
 ---
 
