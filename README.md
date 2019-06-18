@@ -137,7 +137,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Old Digital Cameras](http://old-digitalcameras.com/): Here is my collection of 600+ "old" digital cameras.
 - [Twenty Instruments Reconstructed to Play Through the Keys of a Vintage Piano](https://www.thisiscolossal.com/2019/01/twenty-instruments-play-through-a-vintage-piano/)
 - [The Day the Music Burned](https://www.nytimes.com/2019/06/11/magazine/universal-fire-master-recordings.html): It was the biggest disaster in the history of the music business — and almost nobody knew. This is the story of the 2008 Universal fire.
-  
+- [Leonardo da Vinci's forgotten musical invention has been created for the first time](https://www.classicfm.com/music-news/leonardo-da-vinci-viola-organista/)
+- [MINIDISCS [HACKED]](https://bandcamp.com/EmbeddedPlayer/album=540938686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/) by Radiohead
+
 ---
 
 ## Circus
@@ -305,6 +307,7 @@ Some tips to make beautiful slides:
 - [Beethoven’s Advice on Being an Artist](https://www.brainpickings.org/2017/05/18/beethoven-emilie-letter/): His Touching Letter to a Little Girl Who Sent Him Fan Mail
 - [web-tweeps](https://github.com/iRaul/web-tweeps): A curated list of developers / designers / artists on twitter. ⚡️
 - [THE WORLD’S WRITING SYSTEMS](http://worldswritingsystems.org/)
+- [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 
 ## News
 
