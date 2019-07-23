@@ -31,6 +31,7 @@
 - [Moroccan Tape Stash](http://moroccantapestash.blogspot.com/?m=1)
 - [Chords and Scales Reference](http://chords.jpglomot.com/#)
 - [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
+- [TEST HEADPHONES](https://www.youtube.com/watch?v=X5Ck0iePWTQ&feature=youtu.be): Headphone Test Music with Test Tones
 
 ### Articles
 
@@ -97,6 +98,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [mucoder tonespace](http://www.mucoder.net/en/tonespace/): chord generator and visualizer
 - [soundZoom](http://www.dodeka.info/microtonal-isomorphic-keyboard-app/): SoundZoom is a digital and isomorphic keyboard that makes you explore the sound universe in a new way. The app allows you to discover new tonalities and sounds that are far beyond the traditional 12-semitone temperament. With soundZoom you can basically zoom in a semitone and divide it by either 2, 3, 4 or 12.
 - [Play_The_Orchestra](https://www.hackster.io/137840/play-the-orchestra-2e32f4): Allows a user to play the orchestra via IoT technology.
+- [SoundShape](https://p-rocha.github.io/SoundShape/): Crossing the bridge between Bioacoustics and Geometric Morphometrics - [github](https://github.com/p-rocha/SoundShape)
 
 ### Local Directories
 
@@ -139,6 +141,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The Day the Music Burned](https://www.nytimes.com/2019/06/11/magazine/universal-fire-master-recordings.html): It was the biggest disaster in the history of the music business — and almost nobody knew. This is the story of the 2008 Universal fire.
 - [Leonardo da Vinci's forgotten musical invention has been created for the first time](https://www.classicfm.com/music-news/leonardo-da-vinci-viola-organista/)
 - [MINIDISCS [HACKED]](https://radiohead.bandcamp.com/album/minidiscs-hacked) ([raw link](https://bandcamp.com/EmbeddedPlayer/album=540938686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/)) by Radiohead
+- [Music Inspired by Astronomy](https://www.skyandtelescope.com/astronomy-news/people-places-and-events/music-astronomy-catalog/): A Catalog
+- [Storing data in music](https://www.sciencedaily.com/releases/2019/07/190709122014.htm)
 
 ---
 
@@ -149,10 +153,18 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ---
 
-## Poetry
+## Literature
+
+- [The Best Books of 2019 (So Far)](https://kottke.org/19/06/the-best-books-of-2019-so-far)
+
+### Poetry
 
 - The poetry and brief life of a Foxconn worker: [Xu Lizhi](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)(1990-2014)
 
+## Writing
+
+- [Who Pays Writers?](http://whopayswriters.com/#/results) is an anonymous, crowd-sourced list of which publications pay freelance writers—and how much. This list is primarily concerned with journalistic writing for publications; we do NOT collect information about copywriting, advertising, corporate, tech-startup blogs, or sponsored-content assignments.
+  
 ---
 
 ## Painting
@@ -177,6 +189,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Remove Image Background](https://www.remove.bg)
 - [For What It's Worth](http://www.dillonmarsh.com/fwiw.html) by DILLON MARSH
 - [Over 6,000 Ottoman-Era Photographs Now Available Online](https://hyperallergic.com/478505/getty-research-institute-ottoman-photography/)
+
+### Photo Tech
+
+-[Scientists Use Camera with Human-Like Vision to Capture 5,400 fps Video](https://petapixel.com/2019/07/09/scientists-use-camera-with-human-like-vision-to-capture-5400-fps-video/)
 
 ---
 
