@@ -156,6 +156,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Literature
 
 - [The Best Books of 2019 (So Far)](https://kottke.org/19/06/the-best-books-of-2019-so-far)
+- [What Germans Are Reading](https://www.the-american-interest.com/2019/08/03/what-germans-are-reading/)
 
 ### Poetry
 
@@ -354,6 +355,7 @@ Some tips to make beautiful slides:
 - [Hermann Hesse on Solitude, the Value of Hardship, the Courage to Be Yourself, and How to Find Your Destiny](https://www.brainpickings.org/2019/01/15/hermann-hesse-solitude-suffering-destiny/)
 - [A obra completa de Machado de Assis para download gratuito](https://www.revistabula.com/679-a-obra-completa-de-machado-de-assis-para-download/). [obras](http://machado.mec.gov.br/)
 - [Watch: Machine Learning Music Composed From Re-Synthesized Fragments From 100s Of Terabytes Of LA Phil Recordings](https://nwn.blogs.com/nwn/2019/01/wdch-dreams-robert-thomas-la-phil.html)
+- [A Novel Concept: Silent Book Clubs Offer Introverts A Space To Socialize](https://www.npr.org/2019/08/12/740897970/a-novel-concept-silent-book-clubs-offer-introverts-a-space-to-socialize)
 
 ## Technology
 
