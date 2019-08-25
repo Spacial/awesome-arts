@@ -204,6 +204,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
 - [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
 - In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
+- [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
 
 ### Tools
 
