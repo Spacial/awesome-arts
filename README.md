@@ -99,6 +99,8 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [soundZoom](http://www.dodeka.info/microtonal-isomorphic-keyboard-app/): SoundZoom is a digital and isomorphic keyboard that makes you explore the sound universe in a new way. The app allows you to discover new tonalities and sounds that are far beyond the traditional 12-semitone temperament. With soundZoom you can basically zoom in a semitone and divide it by either 2, 3, 4 or 12.
 - [Play_The_Orchestra](https://www.hackster.io/137840/play-the-orchestra-2e32f4): Allows a user to play the orchestra via IoT technology.
 - [SoundShape](https://p-rocha.github.io/SoundShape/): Crossing the bridge between Bioacoustics and Geometric Morphometrics - [github](https://github.com/p-rocha/SoundShape)
+- [A Physical Intelligent Instrument using Recurrent Neural Networks](https://github.com/edrukar/intelligent_instrument)
+- [My T460s running Arch Linux at the heart of my music setup.](https://www.reddit.com/r/thinkpad/comments/czhteh/my_t460s_running_arch_linux_at_the_heart_of_my/)
 
 ### Local Directories
 
@@ -165,7 +167,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Writing
 
 - [Who Pays Writers?](http://whopayswriters.com/#/results) is an anonymous, crowd-sourced list of which publications pay freelance writers—and how much. This list is primarily concerned with journalistic writing for publications; we do NOT collect information about copywriting, advertising, corporate, tech-startup blogs, or sponsored-content assignments.
-  
+- [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
+
 ---
 
 ## Painting
@@ -234,6 +237,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Logarithmic spiral - Wikipedia](https://en.wikipedia.org/wiki/Logarithmic_spiral)
 - [Boris Labbé](https://www.borislabbe.com/): Graphic artist from his beginning, Boris Labbé has been developing, over the last eight years, an approach in animated video. Experiment after experiment, the film he develops tend to leave the spatio-temporal pattern imposed by the classical cinema, evolving towards video installation devices that include major technological revolutions of the past century, crossed with the latest digital technology generations. All his videos, like a part of the experimental film heritage have the emblem of the palingenesis, concept making both appeal to the loop and regeneration : cyclical return of the same events ; regular reappearance of ancestral characters ; perpetual return to life.
 - [A Beautifully-Designed Edition of Euclid’s Elements from 1847 Gets Digitized](http://www.openculture.com/2018/12/a-beautifully-designed-edition-of-euclids-elements.html): Explore the New Online, Interactive Reproduction
+- [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
 
 ## Processing
 
@@ -256,6 +260,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [#c0ffee is the color](http://c0ffee.surge.sh)
 - [Colour Science for Python](https://github.com/colour-science/colour)
 - [color-thief](https://github.com/lokesh/color-thief): Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
+- [colorgram.py](https://github.com/obskyr/colorgram.py): is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense.
 
 ## Threads
 
