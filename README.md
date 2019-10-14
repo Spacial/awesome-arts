@@ -15,6 +15,9 @@
 - [Interactive Music Course Notes and Materials](https://github.com/tambien/InteractiveMusic) and the [site](https://tambien.github.io/InteractiveMusic/)
 - [Coltrane Pitch Diagrams](https://medium.com/@lucas_gonze/coltrane-pitch-diagrams-e25b7d9f5093)
 - [AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
+- [Get started making music](https://learningmusic.ableton.com/)
+- [Rhythm and Transforms](http://sethares.engr.wisc.edu/RT.html) ([What is Rhythm?](http://sethares.engr.wisc.edu/htmlRT/whatisrhythm.html) and [Illusions of Sound Perception](http://sethares.engr.wisc.edu/htmlRT/4%20sound_illusions.html))
+- [WolframTones](http://tones.wolfram.com/generate/G16aF5KBayLGZqrbyXodKZNu6fmG6ANllrjanSNAPM): An Experiment in a New Kind of Music — made possible by the Wolfram Language and A New Kind of Science
 
 ### Resources
 
@@ -208,7 +211,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
 - [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
 - In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
-- [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
+- [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths. #filmmaking
+- (pt-br) [Este canal disponibiliza filmes coreanos clássicos no YouTube](https://www.nexojornal.com.br/expresso/2019/09/13/Este-canal-disponibiliza-filmes-coreanos-cl%C3%A1ssicos-no-YouTube)
 
 ### Tools
 
@@ -279,6 +283,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/)
 - [8bit games in browser emulator](https://floooh.github.io/tiny8bit/). [github](https://github.com/floooh/chips-test)
 - [SWAGGINZZZ](https://pellsson.github.io/): In what was her first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
+- [Color Emulation](https://byuu.net/video/color-emulation): In this article, I'll walk through the importance of color emulation, and provide some example code and screenshots.
 
 ## Software
 
@@ -286,6 +291,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Rexpaint](https://www.gridsagegames.com/rexpaint/): is a powerful and user-friendly ASCII art editor. Use a wide variety of tools to create ANSI block/line art, roguelike mockups and maps, UI layouts, and for other game development needs.
 - [Jeff Thompson](http://www.jeffreythompson.org/index.php)
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
+- [BIRDFONT](https://birdfont.org): is a free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts. The editor has good support for both monochrome and color font formats.
 
 ## Fonts
 
@@ -301,6 +307,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Optima](https://github.com/wsshin/website/tree/master/fonts)
 - [macFonts](https://github.com/potyt/fonts)
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ## Fun
 
@@ -372,3 +379,8 @@ Some tips to make beautiful slides:
 
 - [20 Abandoned Cities from Around the World](http://web.archive.org/web/20180221100932/www.dailycognition.com/index.php/2008/08/30/20-abandoned-cities-from-around-the-world.html)
 - [Visa List](https://visalist.io/) - Find visa requirements for 238 countries
+
+## Mythology
+
+- [Hyōsube](https://en.wikipedia.org/wiki/Hy%C5%8Dsube): Hyōsube (ひょうすべ) is a Japanese yōkai. There are legends about them in many areas starting with the Saga Prefecture and the Miyazaki Prefecture.
+  
