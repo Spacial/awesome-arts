@@ -36,6 +36,7 @@
 - [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
 - [TEST HEADPHONES](https://www.youtube.com/watch?v=X5Ck0iePWTQ&feature=youtu.be): Headphone Test Music with Test Tones
 - [Zupiter](https://pointersgonewild.com/2019/10/06/zupiter-a-web-based-modular-synthesizer/): a Web-Based Modular Synthesizer
+- [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
 
 ### Articles
 
@@ -62,6 +63,7 @@
 - [Magenta](https://magenta.tensorflow.org/): An open source research project exploring the role of machine learning as a tool in the creative process.
 - [AIVA](https://www.aiva.ai/): The Artificial Intelligence composing emotional soundtrack music.
 - [eternal](https://kousun12.github.io/eternal/): This project was created for gratuitous reasons; it’s an attempt to serve an aesthetic that I appreciate, over a medium which I feel is appropriate for its expression.
+- [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)
 
 #### Supercollider
 
@@ -105,6 +107,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [SoundShape](https://p-rocha.github.io/SoundShape/): Crossing the bridge between Bioacoustics and Geometric Morphometrics - [github](https://github.com/p-rocha/SoundShape)
 - [A Physical Intelligent Instrument using Recurrent Neural Networks](https://github.com/edrukar/intelligent_instrument)
 - [My T460s running Arch Linux at the heart of my music setup.](https://www.reddit.com/r/thinkpad/comments/czhteh/my_t460s_running_arch_linux_at_the_heart_of_my/)
+- [Falsehoods programmers believe about music](https://literateprogrammer.blogspot.com/2016/07/falsehoods-programmers-believe-about.html)
 
 ### Local Directories
 
@@ -172,7 +175,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Who Pays Writers?](http://whopayswriters.com/#/results) is an anonymous, crowd-sourced list of which publications pay freelance writers—and how much. This list is primarily concerned with journalistic writing for publications; we do NOT collect information about copywriting, advertising, corporate, tech-startup blogs, or sponsored-content assignments.
 - [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
-  
+- [One Neat Trick to Writing Great Mystery Plots](https://www.vulture.com/2019/10/charles-finch-on-how-he-writes-charles-lenox-mysteries.html)
+
 ---
 
 ## Painting
@@ -312,6 +316,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [macFonts](https://github.com/potyt/fonts)
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code)
+- [hellveticafont](https://hellveticafont.com/)
+- [Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
 
 ## Fun
 
@@ -319,6 +325,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [HEXEN 2.0](http://www.suzannetreister.net/HEXEN2/TAROT_COL/HEXEN_2_TAROT.html) (tarot)
 - [U.S.A. Song Map](https://www.wearedorothy.com/collections/world-maps/products/u-s-a-song-map-open-edition)
 - [Rain Simulator](http://rainbowhunt.me/)
+- [Generating Beatles’ Lyrics with Machine Learning](https://towardsdatascience.com/generating-beatles-lyrics-with-machine-learning-1355635d5c4e)
 
 ## Drivers
 
