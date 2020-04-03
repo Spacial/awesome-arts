@@ -108,6 +108,8 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [A Physical Intelligent Instrument using Recurrent Neural Networks](https://github.com/edrukar/intelligent_instrument)
 - [My T460s running Arch Linux at the heart of my music setup.](https://www.reddit.com/r/thinkpad/comments/czhteh/my_t460s_running_arch_linux_at_the_heart_of_my/)
 - [Falsehoods programmers believe about music](https://literateprogrammer.blogspot.com/2016/07/falsehoods-programmers-believe-about.html)
+- [livecoding-ai-drums](https://github.com/sneha-belkhale/livecoding-ai-drums): Generate livecoding drum patterns with magenta.js
+- [Making New Proteins From Music](https://www.forbes.com/sites/evaamsen/2020/03/28/making-new-proteins-from-music/)
 
 ### Local Directories
 
