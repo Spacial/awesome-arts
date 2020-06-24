@@ -35,6 +35,7 @@
 - [Chords and Scales Reference](http://chords.jpglomot.com/#)
 - [piano genie](https://piano-genie.glitch.me/): Have some fun pretending you're a piano virtuoso using machine learning!
 - [TEST HEADPHONES](https://www.youtube.com/watch?v=X5Ck0iePWTQ&feature=youtu.be): Headphone Test Music with Test Tones
+- [Zupiter](https://pointersgonewild.com/2019/10/06/zupiter-a-web-based-modular-synthesizer/): a Web-Based Modular Synthesizer
 - [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
 
 ### Articles
@@ -107,6 +108,8 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [A Physical Intelligent Instrument using Recurrent Neural Networks](https://github.com/edrukar/intelligent_instrument)
 - [My T460s running Arch Linux at the heart of my music setup.](https://www.reddit.com/r/thinkpad/comments/czhteh/my_t460s_running_arch_linux_at_the_heart_of_my/)
 - [Falsehoods programmers believe about music](https://literateprogrammer.blogspot.com/2016/07/falsehoods-programmers-believe-about.html)
+- [livecoding-ai-drums](https://github.com/sneha-belkhale/livecoding-ai-drums): Generate livecoding drum patterns with magenta.js
+- [Making New Proteins From Music](https://www.forbes.com/sites/evaamsen/2020/03/28/making-new-proteins-from-music/)
 
 ### Local Directories
 
@@ -215,8 +218,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [‘Apollo 11’ Trailer](https://www.slashfilm.com/apollo-11-trailer-never-before-seen-nasa-footage-becomes-a-stunning-documentary/): Never-Before-Seen NASA Footage Becomes a Stunning Documentary
 - [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
 - In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
-- [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths. #filmmaking
-- (pt-br) [Este canal disponibiliza filmes coreanos clássicos no YouTube](https://www.nexojornal.com.br/expresso/2019/09/13/Este-canal-disponibiliza-filmes-coreanos-cl%C3%A1ssicos-no-YouTube)
+- [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
+
+### Videos
+
+- [C O N T A C T](https://vimeo.com/320306886)
 
 ### Tools
 
@@ -391,4 +397,3 @@ Some tips to make beautiful slides:
 ## Mythology
 
 - [Hyōsube](https://en.wikipedia.org/wiki/Hy%C5%8Dsube): Hyōsube (ひょうすべ) is a Japanese yōkai. There are legends about them in many areas starting with the Saga Prefecture and the Miyazaki Prefecture.
-  
