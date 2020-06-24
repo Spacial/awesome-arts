@@ -227,6 +227,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Theatre
 
 - [THE BOOKS THAT MADE DRACULA](http://www.londonlibrary.co.uk/dracula)
+- [The mystery of what makes a joke funny](https://theconversation.com/the-mystery-of-what-makes-a-joke-funny-but-only-to-some-people-125769) – but only to some people
 
 ---
 
