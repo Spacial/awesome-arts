@@ -76,6 +76,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [examples/demonstrations](https://github.com/supercollider/supercollider/tree/develop/examples/demonstrations)
 - [sc3ctrl](https://github.com/rfwatson/sc3ctrl): Control SuperCollider app from command line
 - [supercollider-tmbundle](https://github.com/rfwatson/supercollider-tmbundle): TextMate bundle for supercollider.app
+- [SuperCollider Workshop @ NIME2020](https://github.com/muellmusik/SC-NIME2020)
 
 #### Sonic-Pi
 
@@ -110,6 +111,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Falsehoods programmers believe about music](https://literateprogrammer.blogspot.com/2016/07/falsehoods-programmers-believe-about.html)
 - [livecoding-ai-drums](https://github.com/sneha-belkhale/livecoding-ai-drums): Generate livecoding drum patterns with magenta.js
 - [Making New Proteins From Music](https://www.forbes.com/sites/evaamsen/2020/03/28/making-new-proteins-from-music/)
+- [alda](https://alda.io/): a music programming language for musicians. [Alda is a text-based programming language for music composition. It allows you to write and play back music using nothing but a text editor](https://github.com/alda-lang/alda).
 
 ### Local Directories
 
@@ -203,10 +205,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Remove Image Background](https://www.remove.bg)
 - [For What It's Worth](http://www.dillonmarsh.com/fwiw.html) by DILLON MARSH
 - [Over 6,000 Ottoman-Era Photographs Now Available Online](https://hyperallergic.com/478505/getty-research-institute-ottoman-photography/)
+- [WHAT MAKES A PICTURE GOOD?](https://phillipreeve.net/blog/what-makes-a-picture-good/)
 
 ### Photo Tech
 
--[Scientists Use Camera with Human-Like Vision to Capture 5,400 fps Video](https://petapixel.com/2019/07/09/scientists-use-camera-with-human-like-vision-to-capture-5400-fps-video/)
+- [Scientists Use Camera with Human-Like Vision to Capture 5,400 fps Video](https://petapixel.com/2019/07/09/scientists-use-camera-with-human-like-vision-to-capture-5400-fps-video/)
 
 ---
 
@@ -223,6 +226,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ### Videos
 
 - [C O N T A C T](https://vimeo.com/320306886)
+- [A Decade of Sun](https://kottke.org/20/06/a-decade-of-sun) and [Gorgeous Time Lapse of the Sun](https://kottke.org/14/11/gorgeous-time-lapse-of-the-sun) 
 
 ### Tools
 
