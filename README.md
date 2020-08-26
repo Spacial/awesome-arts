@@ -37,6 +37,7 @@
 - [TEST HEADPHONES](https://www.youtube.com/watch?v=X5Ck0iePWTQ&feature=youtu.be): Headphone Test Music with Test Tones
 - [Zupiter](https://pointersgonewild.com/2019/10/06/zupiter-a-web-based-modular-synthesizer/): a Web-Based Modular Synthesizer
 - [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
+- [Configure Fedora to practice and compose music](https://fedoramagazine.org/configure-fedora-to-practise-and-compose-music/)
 
 ### Articles
 
@@ -222,6 +223,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Buster Keaton](http://www.lapsuslima.com/buster-keaton-anarchitect/): Anarchitect
 - In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
 - [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
+- [The Very Slow Movie Player](https://kottke.org/18/12/the-very-slow-movie-player) is [here](https://medium.com/s/story/very-slow-movie-player-499f76c48b62)
 
 ### Videos
 
@@ -269,6 +271,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [ProcessingTeachingSketches](https://github.com/jeffThompson/ProcessingTeachingSketches): Teaching sketches created in Processing (and Java)
 - [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
 - [haxademic](https://github.com/cacheflowe/haxademic): A personal toolkit for Java/Processing projects in Eclipse
+- [ppython](https://github.com/Abdur-rahmaanJ/ppython): Implementation of processing.org's processing in pure python. No dependency, no import and no run().
 
 ## Noise
 
@@ -325,6 +328,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Cascadia Code](https://github.com/microsoft/cascadia-code)
 - [hellveticafont](https://hellveticafont.com/)
 - [Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
+- [APL386 Unicode](https://abrudz.github.io/APL386/) ([source](https://github.com/abrudz/APL386))
 
 ## Fun
 
@@ -356,6 +360,15 @@ Some tips to make beautiful slides:
 - [web-tweeps](https://github.com/iRaul/web-tweeps): A curated list of developers / designers / artists on twitter. ⚡️
 - [THE WORLD’S WRITING SYSTEMS](http://worldswritingsystems.org/)
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
+- [24h Sunrise/Sunset](https://driesdepoorter.be/24h-sunrise-sunset/): is an installation that displays a realtime sunset and sunrise somewhere happening in the world with the use of CCTV. by Dries Depoorter.
+
+## Art+Tech Universities
+
+- [Poéticas Interdisciplinares](https://www.ppgav.eba.ufrj.br/programa/linhas-de-pesquisa/poeticas-interdisciplinares/)/UFRJ
+- [PPGIS](http://www.ppgis.ufscar.br/)/UFSCAR
+- [Programa de Pós-Graduação em Artes Visuais](http://www3.eca.usp.br/pos/ppgav)/USP
+
+---
 
 ## News
 
