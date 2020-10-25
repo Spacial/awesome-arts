@@ -38,6 +38,7 @@
 - [Zupiter](https://pointersgonewild.com/2019/10/06/zupiter-a-web-based-modular-synthesizer/): a Web-Based Modular Synthesizer
 - [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
 - [Configure Fedora to practice and compose music](https://fedoramagazine.org/configure-fedora-to-practise-and-compose-music/)
+- [SOUNDS OF THE FOREST](https://timberfestival.org.uk/soundsoftheforest-soundmap/): We are collecting the sounds of woodlands and forests from all around the world, creating a growing soundmap bringing together aural tones and textures from the world’s woodlands.
 
 ### Articles
 
@@ -45,6 +46,7 @@
 - [Weekly Billboard Theory — Finesse](https://medium.com/that-good-you-need/weekly-billboard-theory-finesse-4b986e8096f2)
 - [Speaker Wire](http://www.roger-russell.com/wire/wire.htm)
 - [Colors of noise](https://www.johndcook.com/blog/2015/12/07/colors-of-noise/)
+- [Tune up your sound with PulseEffects: Microphones](https://fedoramagazine.org/tune-up-your-sound-with-pulseeffects-microphones/)
 
 ### Platforms and applications
 
@@ -65,6 +67,11 @@
 - [AIVA](https://www.aiva.ai/): The Artificial Intelligence composing emotional soundtrack music.
 - [eternal](https://kousun12.github.io/eternal/): This project was created for gratuitous reasons; it’s an attempt to serve an aesthetic that I appreciate, over a medium which I feel is appropriate for its expression.
 - [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)
+- [Klio](https://github.com/spotify/klio): smarter data pipelines for audio. Klio is an ecosystem for processing audio files – or any binary files – easily and at scale. [Using Klio to Scale and Share Your Research - Pre-Work](https://github.com/fallonchen/ismir-klio): Code supporting the ISMIR 2020 Klio Tutorial.
+- [blue](https://github.com/kunstmusik/blue): [An Integrated Music Environment](https://blue.kunstmusik.com/)
+- [csound-live-code](https://live.csound.com/): [Library and web application for live coding with Csound](https://github.com/kunstmusik/csound-live-code)
+- [Learn Synthesis](https://github.com/kunstmusik/learn-synthesis): Website for learning synthesis methods 
+- [ChucK](https://github.com/ccrma/chuck): ChucK Music Programming Language
 
 #### Supercollider
 
@@ -78,6 +85,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [sc3ctrl](https://github.com/rfwatson/sc3ctrl): Control SuperCollider app from command line
 - [supercollider-tmbundle](https://github.com/rfwatson/supercollider-tmbundle): TextMate bundle for supercollider.app
 - [SuperCollider Workshop @ NIME2020](https://github.com/muellmusik/SC-NIME2020)
+- [Lick the toad](https://github.com/KonVas/lick-the-toad): Sonification project using neural net and SuperCollider.
 
 #### Sonic-Pi
 
@@ -113,6 +121,13 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [livecoding-ai-drums](https://github.com/sneha-belkhale/livecoding-ai-drums): Generate livecoding drum patterns with magenta.js
 - [Making New Proteins From Music](https://www.forbes.com/sites/evaamsen/2020/03/28/making-new-proteins-from-music/)
 - [alda](https://alda.io/): a music programming language for musicians. [Alda is a text-based programming language for music composition. It allows you to write and play back music using nothing but a text editor](https://github.com/alda-lang/alda).
+- [html-midi-player](https://github.com/cifkao/html-midi-player): ￼ MIDI file player and visualizer web components.
+- [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
+- [Audio Scheduler VM](https://github.com/oramics/ash-vm): [An audio scheduler virtual machine](https://oramics.github.io/ash-vm/)
+- [mimium](https://github.com/mimium-org/mimium): mimium (MInimal Musical medIUM) a programming language as an infrastructure for sound and music.
+- [dsp](https://github.com/bmc0/dsp): An audio processing program with an interactive mode.
+- [GRUV](https://github.com/MattVitelli/GRUV): is a Python project for algorithmic music generation using recurrent neural networks.
+- [Audio-Effects](https://github.com/juandagilc/Audio-Effects): Collection of audio effects plugins implemented from the explanations in the book "Audio Effects: Theory, Implementation and Application" by Joshua D. Reiss and Andrew P. McPherson.
 
 ### Local Directories
 
@@ -224,6 +239,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - In Search of Our Better Selves: The Rebirth, Redemption and Road Warriors of [George Miller’s ‘Mad Max: Fury Road’](https://cinephiliabeyond.org/mad-max-fury-road/)
 - [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
 - [The Very Slow Movie Player](https://kottke.org/18/12/the-very-slow-movie-player) is [here](https://medium.com/s/story/very-slow-movie-player-499f76c48b62)
+- [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 
 ### Videos
 
@@ -260,8 +276,20 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Boris Labbé](https://www.borislabbe.com/): Graphic artist from his beginning, Boris Labbé has been developing, over the last eight years, an approach in animated video. Experiment after experiment, the film he develops tend to leave the spatio-temporal pattern imposed by the classical cinema, evolving towards video installation devices that include major technological revolutions of the past century, crossed with the latest digital technology generations. All his videos, like a part of the experimental film heritage have the emblem of the palingenesis, concept making both appeal to the loop and regeneration : cyclical return of the same events ; regular reappearance of ancestral characters ; perpetual return to life.
 - [A Beautifully-Designed Edition of Euclid’s Elements from 1847 Gets Digitized](http://www.openculture.com/2018/12/a-beautifully-designed-edition-of-euclids-elements.html): Explore the New Online, Interactive Reproduction
 - [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
+- [tilde.town](https://tilde.t) is a computer meant for sharing.
+- [p5.js](https://p5js.org/community/)
+- [q5xjs](https://github.com/LingDong-/q5xjs): A small and fast alternative (experimental) implementation of p5.js 
+- [g9.js](http://omrelli.ug/g9/gallery/) - [Automatically Interactive Graphics](https://github.com/bijection/g9)
+- [arcologies](https://tyleretters.github.io/arcologies-docs/): [an interactive environment](https://github.com/tyleretters/arcologies) for [designing 2d sound arcologies with norns and grid](https://github.com/tyleretters/arcologies-m4l)
+- Some works by [Daniel Buzzo](https://github.com/danbz/):
+  - [art-and-code](https://github.com/danbz/art-and-code): demo code from youtube video tutorials and how-tos.
+  - [volume-camera](https://github.com/danbz/volume-camera): multisensory depth-camera experiment
+  - [Generative Systems for Art and Design](https://github.com/uwe-creative-technology/generative_systems) course materials
+  - [Workshop](https://github.com/generative-drawing/generative-drawing.github.io): Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+- [Shoebot](http://shoebot.github.io/shoebot/): [Easy vector graphics with Python](https://github.com/shoebot/shoebot)
+- [Casual Creators: Defining a Genre of Autotelic Creativity Support Systems](https://escholarship.org/uc/item/4kg8g9gd#article_main): Artists, musicians, writers and designers use tools to be creative, whether they are designing a personal opus or producing work for hire. There are many more people who are neither paid professionals nor historic geniuses, but who also enjoy being creative in a casual way. Can we design systems to help these casual users engage with their creative sides?
 
-## Processing
+### Processing
 
 - [All my sketches of Processing](https://github.com/manoloide/AllSketchs) by [manoloide](https://github.com/manoloide)
 - [Research essay: The History of Processing](https://maxoffsky.com/research/research-essay-the-history-of-processing/)
@@ -272,6 +300,13 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [command](https://github.com/davidbouchard/command): A tiny library for Processing to run external programs and commands from a sketch (and capture their output if needed).
 - [haxademic](https://github.com/cacheflowe/haxademic): A personal toolkit for Java/Processing projects in Eclipse
 - [ppython](https://github.com/Abdur-rahmaanJ/ppython): Implementation of processing.org's processing in pure python. No dependency, no import and no run().
+- [Processing](http://www.dainf.ct.utfpr.edu.br/~merkle/processing/reference/ptBR/index.html): Linguagem (Interface para programação de Aplicações, Application Programming Interface - API).
+- [Resources for teaching programming](https://github.com/villares/Resources-for-teaching-programming)
+
+### Python
+
+- [creativecodinginpython](https://github.com/sheena1010/creativecodinginpython)
+- [pyp5js](https://berinhard.github.io/pyp5js/): [Python to P5.js Transcriptor](https://github.com/berinhard/pyp5js)
 
 ## Noise
 
@@ -302,6 +337,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [8bit games in browser emulator](https://floooh.github.io/tiny8bit/). [github](https://github.com/floooh/chips-test)
 - [SWAGGINZZZ](https://pellsson.github.io/): In what was her first game of NetHack ever, SWAGGINZZZ struggled. She constantly bumped into walls, and oftentimes found herself with critically low HP. The setbacks would not deter her however, and after 7 minutes and 15 seconds she ended up ascending – having taken 2087 in-game turns to do so.
 - [Color Emulation](https://byuu.net/video/color-emulation): In this article, I'll walk through the importance of color emulation, and provide some example code and screenshots.
+- [wick editor](https://www.wickeditor.com/): [The Wick Editor is a free](https://github.com/Wicklets/wick-editor), open-source tool for creating games, animations, and everything in-between!
+- [game-programming-patterns](https://github.com/munificent/game-programming-patterns): Source repo for the book
 
 ## Software
 
@@ -329,6 +366,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [hellveticafont](https://hellveticafont.com/)
 - [Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
 - [APL386 Unicode](https://abrudz.github.io/APL386/) ([source](https://github.com/abrudz/APL386))
+- [wavefont](https://github.com/audio-lab/wavefont): Typeface for rendering data
 
 ## Fun
 
@@ -362,6 +400,12 @@ Some tips to make beautiful slides:
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 - [24h Sunrise/Sunset](https://driesdepoorter.be/24h-sunrise-sunset/): is an installation that displays a realtime sunset and sunrise somewhere happening in the world with the use of CCTV. by Dries Depoorter.
 
+### People
+
+- [LUISA PEREIRA](http://www.luisapereira.net/)
+- [Guilherme Ranoya](https://www.ranoya.com/public/profile/?nonew=true)
+- [noite do bprocessing](https://garoa.net.br/wiki/Noite_de_Processing) no garoa hacker clube
+
 ## Art+Tech Universities
 
 - [Poéticas Interdisciplinares](https://www.ppgav.eba.ufrj.br/programa/linhas-de-pesquisa/poeticas-interdisciplinares/)/UFRJ
@@ -391,6 +435,7 @@ Some tips to make beautiful slides:
 - (pt-br) [CRISTIAN WARIU TSEREMEY’WA, JOVEM INDÍGENA XAVANTE, CRIA CANAL NO YOUTUBE PARA DESCONSTRUIR PRECONCEITOS](https://www.inclusao360.org/indigenas/cristian-wariu-tseremeywa-jovem-indigena-xavante-cria-canal-no-youtube-para-desconstruir-preconceitos/)
 - (pt-br) [Quem são os youtubers indígenas do Brasil](https://www.vice.com/pt_br/article/qvqjw7/quem-sao-os-youtubers-indigenas-do-brasil)
 - [PsyBry - Binge (2016)](http://www.psybry.net/index-flatiron/#/binge-2016/)
+- [Banksy Loses Copyright To His Work After Refusing To Disclose Identity In Court](https://designtaxi.com/news/411567/Banksy-Loses-Copyright-To-His-Work-After-Refusing-To-Disclose-Identity-In-Court/)
 
 ## 2019
 
