@@ -121,7 +121,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [livecoding-ai-drums](https://github.com/sneha-belkhale/livecoding-ai-drums): Generate livecoding drum patterns with magenta.js
 - [Making New Proteins From Music](https://www.forbes.com/sites/evaamsen/2020/03/28/making-new-proteins-from-music/)
 - [alda](https://alda.io/): a music programming language for musicians. [Alda is a text-based programming language for music composition. It allows you to write and play back music using nothing but a text editor](https://github.com/alda-lang/alda).
-- [html-midi-player](https://github.com/cifkao/html-midi-player): ￼ MIDI file player and visualizer web components.
+- [html-midi-player](https://github.com/cifkao/html-midi-player):  MIDI file player and visualizer web components.
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio): Audio processing by using pytorch 1D convolution network
 - [Audio Scheduler VM](https://github.com/oramics/ash-vm): [An audio scheduler virtual machine](https://oramics.github.io/ash-vm/)
 - [mimium](https://github.com/mimium-org/mimium): mimium (MInimal Musical medIUM) a programming language as an infrastructure for sound and music.
@@ -172,6 +172,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [MINIDISCS [HACKED]](https://radiohead.bandcamp.com/album/minidiscs-hacked) ([raw link](https://bandcamp.com/EmbeddedPlayer/album=540938686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/)) by Radiohead
 - [Music Inspired by Astronomy](https://www.skyandtelescope.com/astronomy-news/people-places-and-events/music-astronomy-catalog/): A Catalog
 - [Storing data in music](https://www.sciencedaily.com/releases/2019/07/190709122014.htm)
+- [Researchers' AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
 
 ---
 
@@ -269,7 +270,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [My journey into fractals](https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2)
 - [Mindstamp](https://mindstamp.io/): Create Engaging Interactive Videos in Seconds
 - [Manolo Gamboa Naon on Behance](https://www.behance.net/manoloide)
-- [￼￼Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
+- [Quantum Garden](http://quantum.garden/) is a citizen science project where everyone can contribute to solve a quantum physics research problem of crucial importance for the outbreak of quantum technologies.
 - [processing-video](https://github.com/gohai/processing-video): Experimental video library using GStreamer 1.0
 - [The Inferno](https://www.alpacaprojects.com/inferno/en/): The illustrated and interactive Dante's Inferno, an alternative learning tool for the Divine Comedy first Cantica, made for aiding visual memory.
 - [Logarithmic spiral - Wikipedia](https://en.wikipedia.org/wiki/Logarithmic_spiral)
