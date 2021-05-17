@@ -131,6 +131,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [GRUV](https://github.com/MattVitelli/GRUV): is a Python project for algorithmic music generation using recurrent neural networks.
 - [Audio-Effects](https://github.com/juandagilc/Audio-Effects): Collection of audio effects plugins implemented from the explanations in the book "Audio Effects: Theory, Implementation and Application" by Joshua D. Reiss and Andrew P. McPherson.
 - [Klang](https://github.com/atheler/klang): Block based synthesis and music library for Python.
+- [Playing with modular synthesizers and VCV Rack](https://fedoramagazine.org/vcv-rack-modular-synthesizers/)
 
 ### Local Directories
 
@@ -176,6 +177,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Music Inspired by Astronomy](https://www.skyandtelescope.com/astronomy-news/people-places-and-events/music-astronomy-catalog/): A Catalog
 - [Storing data in music](https://www.sciencedaily.com/releases/2019/07/190709122014.htm)
 - [Researchers' AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
+- [How many artists overshadow their band after going solo?](https://pudding.cool/2021/04/solo/)
+- [45 Lost Albums We Want To Hear](https://www.stereogum.com/2004872/lost-shelved-unreleased-albums/lists/album-list/)
+- [Keith Richards Demonstrates His Famous 5-String Technique (Used on Classic Stones Songs Like “Start Me Up,” “Honky Tonk Women” & More)](https://www.openculture.com/2021/05/keith-richards-demonstrates-his-famous-5-string-technique.html)
+- [Jazz and music theory](https://twitter.com/vcmusictheory/status/1387121552878149633)
 
 ---
 
@@ -247,6 +252,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The Very Slow Movie Player](https://kottke.org/18/12/the-very-slow-movie-player) is [here](https://medium.com/s/story/very-slow-movie-player-499f76c48b62)
 - [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 - [Why Do Wes Anderson Movies Look Like That?](https://www.youtube.com/watch?v=ba3c9KEuQ4A) [THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge](http://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/)
+- [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
+- [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
 
 ### Videos
 
@@ -307,6 +314,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Shoebot](https://shoebot.github.io/shoebot/): Generate vector graphics with Python
 - [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea.
 - [An Atlas of Emotions](https://artsexperiments.withgoogle.com/art-emotions-map/) by Google
+- [Noise in Creative Coding](https://varun.ca/noise/)
+- [Homeostasis lab](https://opencall.homeostasislab.org/bem-vindo)
+- [Creative coding algorithms & techniques](https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)
+- [Programação Criativa](https://github.com/arteprog/programacao-criativa): Material do curso introdutório Programação Criativa de Monica Rizzolli e Alexandre Villares, em construção.
 
 ### Processing
 
@@ -325,6 +336,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [100 formas de contar de 1 a 100 utilizando programação](https://1-100.github.io/)
 - [Dancing Sphere](https://twitter.com/yuruyurau/status/1226297447460163584)
 - [PCD-Brasil-2021-FiltroVideo](https://github.com/Processing-Brasil/PCD-Brasil-2021-FiltroVideo)
+- [Open Call for 2021 Fellowships](https://medium.com/processing-foundation/open-call-for-2021-fellowships-44c777cc335)
 
 ### Python
 
@@ -401,12 +413,14 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Fun
 
 - [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
+- [At the Internet Archive, this is how we digitize #78 rpm records.](https://canaltech.com.br/musica/conheca-o-processo-de-digitalizacao-de-discos-de-vinil-do-internet-archive-183805/)
 - [HEXEN 2.0](http://www.suzannetreister.net/HEXEN2/TAROT_COL/HEXEN_2_TAROT.html) (tarot)
 - [U.S.A. Song Map](https://www.wearedorothy.com/collections/world-maps/products/u-s-a-song-map-open-edition)
 - [Rain Simulator](http://rainbowhunt.me/)
 - [Generating Beatles’ Lyrics with Machine Learning](https://towardsdatascience.com/generating-beatles-lyrics-with-machine-learning-1355635d5c4e)
 - [Gujarati Type Foundry Type Book](http://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=LFA_Type_0401_032.jpg)
 - [Studio Ghibli Makes 1,178 Images Free to Download from My Neighbor Totoro, Spirited Away & Other Beloved Animated Films](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html): [新しく、スタジオジブリ5作品の場面写真を追加提供致します](https://www.ghibli.jp/info/013409/)
+- [Healing Grid Optical Illusion](https://kottke.org/21/04/healing-grid-optical-illusion), by [Ryota Kanai](http://illusionoftheyear.com/2005/08/healing-grid/)
 
 ## Drivers
 
@@ -442,12 +456,20 @@ Some tips to make beautiful slides:
 - [Guilherme Ranoya](https://www.ranoya.com/public/profile/?nonew=true)
 - [noite do bprocessing](https://garoa.net.br/wiki/Noite_de_Processing) no garoa hacker clube
 - [Manuel Corman](https://manueljosephcorman.wixsite.com/manu/)
+- [JACQUES PERCONTE](https://www.jacquesperconte.com/). [Tempestaire :: E3:NJAINF_017_20200125_2011](https://vimeo.com/504338055)
 
 ## Art+Tech Universities
 
 - [Poéticas Interdisciplinares](https://www.ppgav.eba.ufrj.br/programa/linhas-de-pesquisa/poeticas-interdisciplinares/)/UFRJ
 - [PPGIS](http://www.ppgis.ufscar.br/)/UFSCAR
 - [Programa de Pós-Graduação em Artes Visuais](http://www3.eca.usp.br/pos/ppgav)/USP
+- [Programa de Pós-Graduação em Design da FAUUSP](https://www.fau.usp.br/ensino/pos-graduacao/design/)
+- [Future Sketches group](https://www.media.mit.edu/groups/future-sketches/overview/)
+
+## NFT
+
+- [hic et nunc](https://www.hicetnunc.xyz/): The present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.
+- [Arrangement created by Mario Klingemann / @Quasimondo](https://here-or-there.glitch.me/index.html)
 
 ---
 
@@ -482,6 +504,11 @@ Some tips to make beautiful slides:
 - [A obra completa de Machado de Assis para download gratuito](https://www.revistabula.com/679-a-obra-completa-de-machado-de-assis-para-download/). [obras](http://machado.mec.gov.br/)
 - [Watch: Machine Learning Music Composed From Re-Synthesized Fragments From 100s Of Terabytes Of LA Phil Recordings](https://nwn.blogs.com/nwn/2019/01/wdch-dreams-robert-thomas-la-phil.html)
 - [A Novel Concept: Silent Book Clubs Offer Introverts A Space To Socialize](https://www.npr.org/2019/08/12/740897970/a-novel-concept-silent-book-clubs-offer-introverts-a-space-to-socialize)
+
+# 2021
+
+- [OS OITO UNIVERSITÁRIOS. VÍDEO HISTÓRICO DO MOVIMENTO ESTUDANTIL DA DÉCADA DE 60](https://documentosrevelados.com.br/os-oito-universitarios-video-historico-do-movimento-estudantil-da-decada-de-60/)
+- [](https://here-or-there.glitch.me/index.html)
 
 ## Technology
 
