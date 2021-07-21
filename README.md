@@ -40,6 +40,7 @@
 - [Configure Fedora to practice and compose music](https://fedoramagazine.org/configure-fedora-to-practise-and-compose-music/)
 - [SOUNDS OF THE FOREST](https://timberfestival.org.uk/soundsoftheforest-soundmap/): We are collecting the sounds of woodlands and forests from all around the world, creating a growing soundmap bringing together aural tones and textures from the world’s woodlands.
 - [Músicas da Venezuela - Com Maria Betania Hernandez e Lucas Casacio](https://www.youtube.com/watch?v=mgu2Bqk3iQA)
+- [Freesound](https://freesound.org/) aims to create a huge collaborative database of audio snippets, samples, recordings, and all sorts of bleeps, ... released under Creative Commons licenses that allow their reuse.
 
 ### Articles
 
@@ -132,6 +133,9 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Audio-Effects](https://github.com/juandagilc/Audio-Effects): Collection of audio effects plugins implemented from the explanations in the book "Audio Effects: Theory, Implementation and Application" by Joshua D. Reiss and Andrew P. McPherson.
 - [Klang](https://github.com/atheler/klang): Block based synthesis and music library for Python.
 - [Playing with modular synthesizers and VCV Rack](https://fedoramagazine.org/vcv-rack-modular-synthesizers/)
+- [Polyhedrus](https://github.com/ValdemarOrn/Polyhedrus) - Digital Synthesizer: Real-time Audio Synthesizer written in C++.
+- [Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio): An Awesome List for Audio Programming in Rust.
+- [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
 
 ### Local Directories
 
@@ -181,6 +185,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [45 Lost Albums We Want To Hear](https://www.stereogum.com/2004872/lost-shelved-unreleased-albums/lists/album-list/)
 - [Keith Richards Demonstrates His Famous 5-String Technique (Used on Classic Stones Songs Like “Start Me Up,” “Honky Tonk Women” & More)](https://www.openculture.com/2021/05/keith-richards-demonstrates-his-famous-5-string-technique.html)
 - [Jazz and music theory](https://twitter.com/vcmusictheory/status/1387121552878149633)
+- [‘That was the day I knew I had died … ’ José Mauro, Brazilian music’s reborn genius](https://www.theguardian.com/music/2021/jun/02/that-was-the-day-i-knew-i-had-died-jose-mauro-the-reborn-genius-of-bossa-nova?CMP=twt_a-culture_b-gdnculture)
 
 ---
 
@@ -233,6 +238,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [For What It's Worth](http://www.dillonmarsh.com/fwiw.html) by DILLON MARSH
 - [Over 6,000 Ottoman-Era Photographs Now Available Online](https://hyperallergic.com/478505/getty-research-institute-ottoman-photography/)
 - [WHAT MAKES A PICTURE GOOD?](https://phillipreeve.net/blog/what-makes-a-picture-good/)
+- [12 Classic Mistakes We’ve All Made Trying To Make Better Prints](https://www.johnpaulcaponigro.com/blog/39066/11-classic-mistakes-weve-all-made-trying-to-make-better-prints/)
+- [igua∞u](https://margenscosturas.wordpress.com/livro/): paisagem humana na tríplice fronteira / Marcelo Marinho, Henrique Gazzola.
 
 ### Photo Tech
 
@@ -254,11 +261,14 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Why Do Wes Anderson Movies Look Like That?](https://www.youtube.com/watch?v=ba3c9KEuQ4A) [THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge](http://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/)
 - [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
 - [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
+- [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
 
 ### Videos
 
 - [C O N T A C T](https://vimeo.com/320306886)
+- [APAGANDÔ](https://homeostasislab.org/visualizar/obra/2072)
 - [A Decade of Sun](https://kottke.org/20/06/a-decade-of-sun) and [Gorgeous Time Lapse of the Sun](https://kottke.org/14/11/gorgeous-time-lapse-of-the-sun) 
+- [Hong Kong BLOCKS / Experimental short film](https://www.youtube.com/watch?v=EJD77Ckbqxg&t=163s)
 
 ### Tools
 
@@ -317,7 +327,10 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Noise in Creative Coding](https://varun.ca/noise/)
 - [Homeostasis lab](https://opencall.homeostasislab.org/bem-vindo)
 - [Creative coding algorithms & techniques](https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)
-- [Programação Criativa](https://github.com/arteprog/programacao-criativa): Material do curso introdutório Programação Criativa de Monica Rizzolli e Alexandre Villares, em construção.
+- [Programação Criativa](https://github.com/arteprog/programacao-criativa): Material do curso introdutório Programação Criativa de Monica Rizzolli e Alexandre Villares, em construção. [Programação Criativa: Arte Feita em Código](https://hackmd.io/@RQBGVE5GQnK7StPX6B6H8g/SJV81ay2u)
+- [Frost Science Museum](https://superuber.com/frost-science-museum/)
+- [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea
+- [GRAFICA Obscura](http://graficaobscura.com/): This is a compilation of technical notes, pictures and essays that I've accumulated over the years.
 
 ### Processing
 
@@ -355,6 +368,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [color-thief](https://github.com/lokesh/color-thief): Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
 - [colorgram.py](https://github.com/obskyr/colorgram.py): is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense.
 - [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
+- [Your browser and my browser see different colors](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/)
 
 ## Threads
 
@@ -364,7 +378,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Illustrations
 
 - [Humaaans](https://www.humaaans.com/)
-  
+
+## Painting
+
+- [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
+
 ---
 ## Curation and Presentation
 
@@ -449,6 +467,7 @@ Some tips to make beautiful slides:
 - [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/), by Bertrand Russell
 - [XXXX Swatchbook](http://www.evelinkasikov.com/XXXX-Swatchbook)
 - [TERRA INCOGNITA 1 : KAMILYA JUBRAN, FLOY KROUCHI, YOUMNA SABA](https://www.banlieuesbleues.org/plateforme/evenement/3352/2021-04-09-2000-festival-plateforme-terra-incognita-1-kamilya-jubran-floy-krouchi-youmna-saba/)
+- [Símbolos Indígenas](https://symbolismofthings.com/significado-simbolos-indigenas-simbolismo/), [Marajoara](https://www.dicionariotupiguarani.com.br/dicionario/marajoara/), [Ancient Protection Symbols](https://givemehistory.com/symbols-of-protection)
 
 ### People
 
