@@ -369,6 +369,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [colorgram.py](https://github.com/obskyr/colorgram.py): is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense.
 - [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
 - [Your browser and my browser see different colors](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/)
+- [why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/): we'll explore why our eyes are unable to focus on the color blue, and how we see with our brain as much as with our eyes.
 
 ## Threads
 
