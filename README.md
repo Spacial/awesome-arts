@@ -240,6 +240,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [WHAT MAKES A PICTURE GOOD?](https://phillipreeve.net/blog/what-makes-a-picture-good/)
 - [12 Classic Mistakes We’ve All Made Trying To Make Better Prints](https://www.johnpaulcaponigro.com/blog/39066/11-classic-mistakes-weve-all-made-trying-to-make-better-prints/)
 - [igua∞u](https://margenscosturas.wordpress.com/livro/): paisagem humana na tríplice fronteira / Marcelo Marinho, Henrique Gazzola.
+- [Astronomy Photographer of the Year shortlist](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
 
 ### Photo Tech
 
@@ -407,6 +408,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [BIRDFONT](https://birdfont.org): is a free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts. The editor has good support for both monochrome and color font formats.
 - [inspect-open-images](https://github.com/gecid-aia/inspect-open-images): Python utilitary to help to download, crop and derivate new images from Open Image V6 dataset
 - [NaNoWriMo](https://www.omnicalculator.com/other/nanowrimo): National Novel Writing Month, or NaNoWriMo for short, is a writing challenge. Every November, thousands of writers from all around the world commit to writing 50,000 words of their own prose in a month.
+- [VUO](https://vuo.org/what-is-vuo): is an application to help people develop interactive experiences, live performances, digital media, and more.
 
 ## Fonts
 
@@ -469,6 +471,7 @@ Some tips to make beautiful slides:
 - [XXXX Swatchbook](http://www.evelinkasikov.com/XXXX-Swatchbook)
 - [TERRA INCOGNITA 1 : KAMILYA JUBRAN, FLOY KROUCHI, YOUMNA SABA](https://www.banlieuesbleues.org/plateforme/evenement/3352/2021-04-09-2000-festival-plateforme-terra-incognita-1-kamilya-jubran-floy-krouchi-youmna-saba/)
 - [Símbolos Indígenas](https://symbolismofthings.com/significado-simbolos-indigenas-simbolismo/), [Marajoara](https://www.dicionariotupiguarani.com.br/dicionario/marajoara/), [Ancient Protection Symbols](https://givemehistory.com/symbols-of-protection)
+- [Kunza](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0038216.pdf): diccionario kunza-español, lengua del pueblo lickan antai (atacameño).
 
 ### People
 
