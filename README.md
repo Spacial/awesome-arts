@@ -18,6 +18,7 @@
 - [Get started making music](https://learningmusic.ableton.com/)
 - [Rhythm and Transforms](http://sethares.engr.wisc.edu/RT.html) ([What is Rhythm?](http://sethares.engr.wisc.edu/htmlRT/whatisrhythm.html) and [Illusions of Sound Perception](http://sethares.engr.wisc.edu/htmlRT/4%20sound_illusions.html))
 - [WolframTones](http://tones.wolfram.com/generate/G16aF5KBayLGZqrbyXodKZNu6fmG6ANllrjanSNAPM): An Experiment in a New Kind of Music — made possible by the Wolfram Language and A New Kind of Science
+- [BASIC MUSIC THEORY FOR BEGINNERS – THE COMPLETE GUIDE](https://iconcollective.edu/basic-music-theory/)
 
 ### Resources
 
@@ -39,6 +40,8 @@
 - [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
 - [Configure Fedora to practice and compose music](https://fedoramagazine.org/configure-fedora-to-practise-and-compose-music/)
 - [SOUNDS OF THE FOREST](https://timberfestival.org.uk/soundsoftheforest-soundmap/): We are collecting the sounds of woodlands and forests from all around the world, creating a growing soundmap bringing together aural tones and textures from the world’s woodlands.
+- [The sound of Venus (Venera 14) Звук Венеры (Венера-14)](https://www.youtube.com/watch?v=8jZDW53U8qQ&feature=emb_logo)
+- [Lots of us learned classical music from watching old cartoons](https://twitter.com/NonsenseIsland/status/1366449816042102787), so I’m going to identify the pieces that frequently popped up.
 
 ### Articles
 
@@ -173,6 +176,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Music Inspired by Astronomy](https://www.skyandtelescope.com/astronomy-news/people-places-and-events/music-astronomy-catalog/): A Catalog
 - [Storing data in music](https://www.sciencedaily.com/releases/2019/07/190709122014.htm)
 - [Researchers' AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
+- [Deciphering Chopin’s shorthand in the posthumous Mazurka in F minor](https://www.claviercompanion.com/article-details/deciphering-chopin-s-shorthand-in-the-posthumous-mazurka-in-f-minor)
+- [The Pudding](https://pudding.cool/2018/06/music-map/): #1 Songs in 3,000 Cities
 
 ---
 
@@ -246,6 +251,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [C O N T A C T](https://vimeo.com/320306886)
 - [A Decade of Sun](https://kottke.org/20/06/a-decade-of-sun) and [Gorgeous Time Lapse of the Sun](https://kottke.org/14/11/gorgeous-time-lapse-of-the-sun) 
+- [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
+- [Starlings making the shape of a bird](https://www.youtube.com/watch?v=L_u4IcRy2dw)
 
 ### Tools
 
@@ -368,6 +375,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Neon Genesis Evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
 - [APL386 Unicode](https://abrudz.github.io/APL386/) ([source](https://github.com/abrudz/APL386))
 - [wavefont](https://github.com/audio-lab/wavefont): Typeface for rendering data
+- [BitmapFonts](https://github.com/ianhan/BitmapFonts): My collection of bitmap fonts pulled from various demoscene archives over the years
 
 ## Fun
 
