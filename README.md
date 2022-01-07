@@ -214,6 +214,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [One Neat Trick to Writing Great Mystery Plots](https://www.vulture.com/2019/10/charles-finch-on-how-he-writes-charles-lenox-mysteries.html)
 - [Kurt Vonnegut](https://www.youtube.com/watch?v=GOGru_4z1Vc), Shape of Stories
 
+### Spirituality
+- [No Self Nirvana](https://noselfnirvana.com) Quotes, practices, poetry about mindfulness, concentration, insight, impermanence, emptiness, aimlessness, signlessness, nirvana.
+
 ---
 
 ## Painting
