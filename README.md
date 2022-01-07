@@ -54,7 +54,7 @@
 
 - [Music Transformer](https://magenta.tensorflow.org/music-transformer): Generating Music with Long-Term Structure. arxiv [paper](https://arxiv.org/abs/1809.04281)
 - [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
-- [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
+- [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer. [repo](https://github.com/VCVRack/Rack)
 - [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
 - [Sndio](http://www.sndio.org/) is a small audio and MIDI framework part of the OpenBSD project and ported to FreeBSD, Linux and NetBSD
 - [KXStudio](http://kxstudio.linuxaudio.org/index.php) is a collection of applications and plugins for professional audio production.
@@ -136,6 +136,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Polyhedrus](https://github.com/ValdemarOrn/Polyhedrus) - Digital Synthesizer: Real-time Audio Synthesizer written in C++.
 - [Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio): An Awesome List for Audio Programming in Rust.
 - [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
+- [Hum Synthesizer](https://github.com/crbulakites/hum): A music notation language and synthesizer written in Rust.
 
 ### Local Directories
 
@@ -241,6 +242,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [12 Classic Mistakes We’ve All Made Trying To Make Better Prints](https://www.johnpaulcaponigro.com/blog/39066/11-classic-mistakes-weve-all-made-trying-to-make-better-prints/)
 - [igua∞u](https://margenscosturas.wordpress.com/livro/): paisagem humana na tríplice fronteira / Marcelo Marinho, Henrique Gazzola.
 - [Astronomy Photographer of the Year shortlist](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
+- [Four Seasons in the Life of a Finnish Island](https://kottke.org/18/04/four-seasons-in-the-life-of-a-finnish-island)
+- [How to Develop Black & White Film at Home With Coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
 
 ### Photo Tech
 
@@ -261,6 +264,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 - [Why Do Wes Anderson Movies Look Like That?](https://www.youtube.com/watch?v=ba3c9KEuQ4A) [THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge](http://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/)
 - [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
+- [Kubrick’s Lenses – The Ultimate Guide to the Lenses Used by Stanley Kubrick](https://indiefilmhustle.com/stanley-kubrick-lenses/)
 - [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
 - [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
 
@@ -270,6 +274,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [APAGANDÔ](https://homeostasislab.org/visualizar/obra/2072)
 - [A Decade of Sun](https://kottke.org/20/06/a-decade-of-sun) and [Gorgeous Time Lapse of the Sun](https://kottke.org/14/11/gorgeous-time-lapse-of-the-sun) 
 - [Hong Kong BLOCKS / Experimental short film](https://www.youtube.com/watch?v=EJD77Ckbqxg&t=163s)
+- [Time Lapse of the Changing Seasons of Denmark](https://kottke.org/21/08/time-lapse-of-the-changing-seasons-of-denmark)
 
 ### Tools
 
@@ -313,6 +318,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
   - [volume-camera](https://github.com/danbz/volume-camera): multisensory depth-camera experiment
   - [Generative Systems for Art and Design](https://github.com/uwe-creative-technology/generative_systems) course materials
   - [Workshop](https://github.com/generative-drawing/generative-drawing.github.io): Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+- NOITE DE PROCESSING: [Redes Neurais Gerativas](https://www.youtube.com/watch?v=hgGTCe1AEDU) - Sergio Venancio
 - [Shoebot](http://shoebot.github.io/shoebot/): [Easy vector graphics with Python](https://github.com/shoebot/shoebot)
 - [Casual Creators: Defining a Genre of Autotelic Creativity Support Systems](https://escholarship.org/uc/item/4kg8g9gd#article_main): Artists, musicians, writers and designers use tools to be creative, whether they are designing a personal opus or producing work for hire. There are many more people who are neither paid professionals nor historic geniuses, but who also enjoy being creative in a casual way. Can we design systems to help these casual users engage with their creative sides?
 - [aRt](https://github.com/gkaramanis/aRt): Making art with R
@@ -380,10 +386,12 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Illustrations
 
 - [Humaaans](https://www.humaaans.com/)
+- [Syndicate Studio](https://syndicatestudio.co/):  Creative Studio based in Semarang, Indonesia. 
 
 ## Painting
 
 - [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
+- [Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo): This is the largest and most detailed photo ever taken of a work of art. It is 717 gigapixels, or 717,000,000 pixels, in size.
 
 ---
 ## Curation and Presentation
@@ -546,3 +554,8 @@ Some tips to make beautiful slides:
 ## Mythology
 
 - [Hyōsube](https://en.wikipedia.org/wiki/Hy%C5%8Dsube): Hyōsube (ひょうすべ) is a Japanese yōkai. There are legends about them in many areas starting with the Saga Prefecture and the Miyazaki Prefecture.
+- [Ghosts in Ancient Japan](https://www.worldhistory.org/article/1059/ghosts-in-ancient-japan/): [Ushi-Oni](https://en.wikipedia.org/wiki/Ushi-oni)
+
+## Crazy stuff
+
+- [Back when it was normal to advertise cocaine gadgets in magazines, 1970-1980](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
