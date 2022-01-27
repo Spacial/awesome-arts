@@ -266,6 +266,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
 - [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
 - [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
+- [Heaven and Earth Magic](https://www.youtube.com/watch?v=zbjSSyAo9WA): some Terry Gilliam's references.
 
 ### Videos
 
