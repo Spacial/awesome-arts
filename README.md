@@ -195,6 +195,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Siteswap FAQ](http://www.juggling.org/help/siteswap/faq.html)
 - [That time Steve Jobs hired a career juggler to teach programming to developers](https://www.cake.co/conversations/w3j7jDp/that-time-steve-jobs-hired-a-career-juggler-to-teach-programming-to-developers)
 - [The Big-Tent Family](https://medium.com/vantage/life-on-the-road-with-the-circus-4bc911a3cae4): Photographer Norma I. Quintana spent 10 summers following a one-ring circus. [book to order](https://normaiquintana.squarespace.com/circus-listing/circus-a-traveling-life)
+- [Fanfare Ciocarlia - Moliendo Cafe](https://www.youtube.com/watch?v=QiHmiZQNgL4): good music for circus.
 
 ---
 
@@ -270,6 +271,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Kubrick’s Lenses – The Ultimate Guide to the Lenses Used by Stanley Kubrick](https://indiefilmhustle.com/stanley-kubrick-lenses/)
 - [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
 - [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
+- ["Dune" (the movie), annotated](https://maxread.substack.com/p/dune-annotated)
 
 ### Videos
 
@@ -341,6 +343,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Frost Science Museum](https://superuber.com/frost-science-museum/)
 - [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea
 - [GRAFICA Obscura](http://graficaobscura.com/): This is a compilation of technical notes, pictures and essays that I've accumulated over the years.
+- [Abstraction from Valeris](https://valeris-media.tumblr.com/): [Moving GIF Abstraction from Valeris #ArtTuesday](https://blog.adafruit.com/2021/11/02/moving-gif-abstraction-from-valeris-arttuesday/)
 
 ### Processing
 
@@ -441,6 +444,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [APL386 Unicode](https://abrudz.github.io/APL386/) ([source](https://github.com/abrudz/APL386))
 - [wavefont](https://github.com/audio-lab/wavefont): Typeface for rendering data
 - [font of web](https://fontofweb.com/): Type a Website and Find Its Fonts
+- [Relief SingleLine typeface](https://github.com/isdat-type/Relief-SingleLine)
 
 ## Fun
 
@@ -453,6 +457,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Gujarati Type Foundry Type Book](http://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=LFA_Type_0401_032.jpg)
 - [Studio Ghibli Makes 1,178 Images Free to Download from My Neighbor Totoro, Spirited Away & Other Beloved Animated Films](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html): [新しく、スタジオジブリ5作品の場面写真を追加提供致します](https://www.ghibli.jp/info/013409/)
 - [Healing Grid Optical Illusion](https://kottke.org/21/04/healing-grid-optical-illusion), by [Ryota Kanai](http://illusionoftheyear.com/2005/08/healing-grid/)
+- [Animals Laugh Too: UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
+- [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference): A curated list of examples of self-reference in art, science, and technology.
 
 ## Drivers
 
@@ -483,6 +489,7 @@ Some tips to make beautiful slides:
 - [TERRA INCOGNITA 1 : KAMILYA JUBRAN, FLOY KROUCHI, YOUMNA SABA](https://www.banlieuesbleues.org/plateforme/evenement/3352/2021-04-09-2000-festival-plateforme-terra-incognita-1-kamilya-jubran-floy-krouchi-youmna-saba/)
 - [Símbolos Indígenas](https://symbolismofthings.com/significado-simbolos-indigenas-simbolismo/), [Marajoara](https://www.dicionariotupiguarani.com.br/dicionario/marajoara/), [Ancient Protection Symbols](https://givemehistory.com/symbols-of-protection)
 - [Kunza](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0038216.pdf): diccionario kunza-español, lengua del pueblo lickan antai (atacameño).
+- [The 10 Paradoxical Traits of Creative People, According to Psychologist Mihaly Csikszentmihalyi](https://www.openculture.com/2021/11/the-10-paradoxical-traits-of-creative-people-according-to-psychologist-mihaly-csikszentmihalyi-rip.html)
 
 ### People
 
