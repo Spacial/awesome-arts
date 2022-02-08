@@ -512,6 +512,7 @@ Some tips to make beautiful slides:
 
 - [hic et nunc](https://www.hicetnunc.xyz/): The present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.
 - [Arrangement created by Mario Klingemann / @Quasimondo](https://here-or-there.glitch.me/index.html)
+- [bulk-upload-to-opensea](https://github.com/infotrex/bulk-upload-to-opensea): BULK UPLOAD NFTs to OPENSEA.
 
 ---
 
