@@ -42,6 +42,8 @@
 - [SOUNDS OF THE FOREST](https://timberfestival.org.uk/soundsoftheforest-soundmap/): We are collecting the sounds of woodlands and forests from all around the world, creating a growing soundmap bringing together aural tones and textures from the world’s woodlands.
 - [The sound of Venus (Venera 14) Звук Венеры (Венера-14)](https://www.youtube.com/watch?v=8jZDW53U8qQ&feature=emb_logo)
 - [Lots of us learned classical music from watching old cartoons](https://twitter.com/NonsenseIsland/status/1366449816042102787), so I’m going to identify the pieces that frequently popped up.
+- [Músicas da Venezuela - Com Maria Betania Hernandez e Lucas Casacio](https://www.youtube.com/watch?v=mgu2Bqk3iQA)
+- [Freesound](https://freesound.org/) aims to create a huge collaborative database of audio snippets, samples, recordings, and all sorts of bleeps, ... released under Creative Commons licenses that allow their reuse.
 
 ### Articles
 
@@ -75,6 +77,7 @@
 - [csound-live-code](https://live.csound.com/): [Library and web application for live coding with Csound](https://github.com/kunstmusik/csound-live-code)
 - [Learn Synthesis](https://github.com/kunstmusik/learn-synthesis): Website for learning synthesis methods 
 - [ChucK](https://github.com/ccrma/chuck): ChucK Music Programming Language
+- [Traces](https://flaviogaete.info/traces) rests on neither extreme, yet brings a glimpse of both: the vibrating, pulsating rhythm of fragmented audio.
 
 #### Supercollider
 
@@ -131,6 +134,11 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [dsp](https://github.com/bmc0/dsp): An audio processing program with an interactive mode.
 - [GRUV](https://github.com/MattVitelli/GRUV): is a Python project for algorithmic music generation using recurrent neural networks.
 - [Audio-Effects](https://github.com/juandagilc/Audio-Effects): Collection of audio effects plugins implemented from the explanations in the book "Audio Effects: Theory, Implementation and Application" by Joshua D. Reiss and Andrew P. McPherson.
+- [Klang](https://github.com/atheler/klang): Block based synthesis and music library for Python.
+- [Playing with modular synthesizers and VCV Rack](https://fedoramagazine.org/vcv-rack-modular-synthesizers/)
+- [Polyhedrus](https://github.com/ValdemarOrn/Polyhedrus) - Digital Synthesizer: Real-time Audio Synthesizer written in C++.
+- [Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio): An Awesome List for Audio Programming in Rust.
+- [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
 
 ### Local Directories
 
@@ -178,6 +186,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Researchers' AI aligns sheet music with MIDI audio](https://venturebeat.com/2020/07/22/researchers-ai-aligns-sheet-music-with-midi-audio/)
 - [Deciphering Chopin’s shorthand in the posthumous Mazurka in F minor](https://www.claviercompanion.com/article-details/deciphering-chopin-s-shorthand-in-the-posthumous-mazurka-in-f-minor)
 - [The Pudding](https://pudding.cool/2018/06/music-map/): #1 Songs in 3,000 Cities
+- [How many artists overshadow their band after going solo?](https://pudding.cool/2021/04/solo/)
+- [45 Lost Albums We Want To Hear](https://www.stereogum.com/2004872/lost-shelved-unreleased-albums/lists/album-list/)
+- [Keith Richards Demonstrates His Famous 5-String Technique (Used on Classic Stones Songs Like “Start Me Up,” “Honky Tonk Women” & More)](https://www.openculture.com/2021/05/keith-richards-demonstrates-his-famous-5-string-technique.html)
+- [Jazz and music theory](https://twitter.com/vcmusictheory/status/1387121552878149633)
+- [‘That was the day I knew I had died … ’ José Mauro, Brazilian music’s reborn genius](https://www.theguardian.com/music/2021/jun/02/that-was-the-day-i-knew-i-had-died-jose-mauro-the-reborn-genius-of-bossa-nova?CMP=twt_a-culture_b-gdnculture)
 
 ---
 
@@ -185,6 +198,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [Siteswap FAQ](http://www.juggling.org/help/siteswap/faq.html)
 - [That time Steve Jobs hired a career juggler to teach programming to developers](https://www.cake.co/conversations/w3j7jDp/that-time-steve-jobs-hired-a-career-juggler-to-teach-programming-to-developers)
+- [The Big-Tent Family](https://medium.com/vantage/life-on-the-road-with-the-circus-4bc911a3cae4): Photographer Norma I. Quintana spent 10 summers following a one-ring circus. [book to order](https://normaiquintana.squarespace.com/circus-listing/circus-a-traveling-life)
 
 ---
 
@@ -202,6 +216,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Who Pays Writers?](http://whopayswriters.com/#/results) is an anonymous, crowd-sourced list of which publications pay freelance writers—and how much. This list is primarily concerned with journalistic writing for publications; we do NOT collect information about copywriting, advertising, corporate, tech-startup blogs, or sponsored-content assignments.
 - [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
 - [One Neat Trick to Writing Great Mystery Plots](https://www.vulture.com/2019/10/charles-finch-on-how-he-writes-charles-lenox-mysteries.html)
+- [Kurt Vonnegut](https://www.youtube.com/watch?v=GOGru_4z1Vc), Shape of Stories
 
 ---
 
@@ -228,6 +243,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [For What It's Worth](http://www.dillonmarsh.com/fwiw.html) by DILLON MARSH
 - [Over 6,000 Ottoman-Era Photographs Now Available Online](https://hyperallergic.com/478505/getty-research-institute-ottoman-photography/)
 - [WHAT MAKES A PICTURE GOOD?](https://phillipreeve.net/blog/what-makes-a-picture-good/)
+- [12 Classic Mistakes We’ve All Made Trying To Make Better Prints](https://www.johnpaulcaponigro.com/blog/39066/11-classic-mistakes-weve-all-made-trying-to-make-better-prints/)
+- [igua∞u](https://margenscosturas.wordpress.com/livro/): paisagem humana na tríplice fronteira / Marcelo Marinho, Henrique Gazzola.
+- [Astronomy Photographer of the Year shortlist](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
 
 ### Photo Tech
 
@@ -246,13 +264,19 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [TONY SCOTT explains](https://twitter.com/vashikoo/status/1154919540142116866?s=20) how he used 4 cameras to film the kidnap scene in MAN ON FIRE and how he visually tried to show the confusion and disorientation experienced by Denzel Washington's character. Creating emotion through technical means was one of his great strengths.#filmmaking
 - [The Very Slow Movie Player](https://kottke.org/18/12/the-very-slow-movie-player) is [here](https://medium.com/s/story/very-slow-movie-player-499f76c48b62)
 - [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
+- [Why Do Wes Anderson Movies Look Like That?](https://www.youtube.com/watch?v=ba3c9KEuQ4A) [THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge](http://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/)
+- [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
+- [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
+- [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
 
 ### Videos
 
 - [C O N T A C T](https://vimeo.com/320306886)
+- [APAGANDÔ](https://homeostasislab.org/visualizar/obra/2072)
 - [A Decade of Sun](https://kottke.org/20/06/a-decade-of-sun) and [Gorgeous Time Lapse of the Sun](https://kottke.org/14/11/gorgeous-time-lapse-of-the-sun) 
 - [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
 - [Starlings making the shape of a bird](https://www.youtube.com/watch?v=L_u4IcRy2dw)
+- [Hong Kong BLOCKS / Experimental short film](https://www.youtube.com/watch?v=EJD77Ckbqxg&t=163s)
 
 ### Tools
 
@@ -269,6 +293,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ## Visual
 
+- [CREATIVE CODING MANIFESTO 2021](https://brm1sxuu.myraidbox.de/creative-coding-manifesto-2021/)
 - [one visual idea a day](https://villares.github.io/sketch-a-day/)
 - [Video Music](https://codepen.io/jakealbaugh/full/ZxLKvG/) and [Sonic Pixels](https://github.com/jakealbaugh/sonicpx) (encodes audio in images by storing audio samples inside of pixels. The images it creates can be decoded and played back as audio.) - both by [Jake Albaugh](https://codepen.io/jakealbaugh/)
 - [Video Hub App](https://videohubapp.com/)
@@ -286,6 +311,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [alcFreeliner](https://github.com/maxdee/alc_freeliner): [live geometric animation tool powerhouse](https://freeliner.xyz)
 - [tilde.town](https://tilde.t) is a computer meant for sharing.
 - [p5.js](https://p5js.org/community/)
+  - [Carlos de Oliveira Junior's Waves](https://observablehq.com/@vamoss/py5js)
 - [q5xjs](https://github.com/LingDong-/q5xjs): A small and fast alternative (experimental) implementation of p5.js 
 - [g9.js](http://omrelli.ug/g9/gallery/) - [Automatically Interactive Graphics](https://github.com/bijection/g9)
 - [arcologies](https://tyleretters.github.io/arcologies-docs/): [an interactive environment](https://github.com/tyleretters/arcologies) for [designing 2d sound arcologies with norns and grid](https://github.com/tyleretters/arcologies-m4l)
@@ -296,6 +322,23 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
   - [Workshop](https://github.com/generative-drawing/generative-drawing.github.io): Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
 - [Shoebot](http://shoebot.github.io/shoebot/): [Easy vector graphics with Python](https://github.com/shoebot/shoebot)
 - [Casual Creators: Defining a Genre of Autotelic Creativity Support Systems](https://escholarship.org/uc/item/4kg8g9gd#article_main): Artists, musicians, writers and designers use tools to be creative, whether they are designing a personal opus or producing work for hire. There are many more people who are neither paid professionals nor historic geniuses, but who also enjoy being creative in a casual way. Can we design systems to help these casual users engage with their creative sides?
+- [aRt](https://github.com/gkaramanis/aRt): Making art with R
+- [Saskia Freeke](https://blog.adafruit.com/2020/11/03/digitalfruit-saskia-freeke/)
+- [Iterative Partial Match (IPM) vs Wave Function Collapse (WFC) for procedural content generation.](https://stalcup.github.io/static-files/posts/wfc-vs-ipm/)
+- Clemens Wenger: [Physics of Beauty](https://physicsofbeauty.art/)
+- [these start from a single line, then a random line (edge) is cloned, rotated around the middle, then intersected with the its twin. some new sub-edges are discarded. repeat.](https://twitter.com/inconvergent/status/1308094415328731136?s=19)
+- [studio sketchpad](http://studio.sketchpad.cc/sp/account/sign-in?cont=http%3a%2f%2fstudio.sketchpad.cc%2f)
+- [gridder](https://github.com/jsbueno/gridder): Python snippets for grid-drawing, game-of-life-like toys and simulators.
+- [Shoebot](https://shoebot.github.io/shoebot/): Generate vector graphics with Python
+- [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea.
+- [An Atlas of Emotions](https://artsexperiments.withgoogle.com/art-emotions-map/) by Google
+- [Noise in Creative Coding](https://varun.ca/noise/)
+- [Homeostasis lab](https://opencall.homeostasislab.org/bem-vindo)
+- [Creative coding algorithms & techniques](https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)
+- [Programação Criativa](https://github.com/arteprog/programacao-criativa): Material do curso introdutório Programação Criativa de Monica Rizzolli e Alexandre Villares, em construção. [Programação Criativa: Arte Feita em Código](https://hackmd.io/@RQBGVE5GQnK7StPX6B6H8g/SJV81ay2u)
+- [Frost Science Museum](https://superuber.com/frost-science-museum/)
+- [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea
+- [GRAFICA Obscura](http://graficaobscura.com/): This is a compilation of technical notes, pictures and essays that I've accumulated over the years.
 
 ### Processing
 
@@ -310,6 +353,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [ppython](https://github.com/Abdur-rahmaanJ/ppython): Implementation of processing.org's processing in pure python. No dependency, no import and no run().
 - [Processing](http://www.dainf.ct.utfpr.edu.br/~merkle/processing/reference/ptBR/index.html): Linguagem (Interface para programação de Aplicações, Application Programming Interface - API).
 - [Resources for teaching programming](https://github.com/villares/Resources-for-teaching-programming)
+- [A-na5 - 2020/10/03](https://a-na5.tumblr.com/post/630946505418817536/20200209-code-i-could-tweet)
+- [100 formas de contar de 1 a 100 utilizando programação](https://1-100.github.io/)
+- [Dancing Sphere](https://twitter.com/yuruyurau/status/1226297447460163584)
+- [PCD-Brasil-2021-FiltroVideo](https://github.com/Processing-Brasil/PCD-Brasil-2021-FiltroVideo)
+- [Open Call for 2021 Fellowships](https://medium.com/processing-foundation/open-call-for-2021-fellowships-44c777cc335)
 
 ### Python
 
@@ -327,6 +375,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Colour Science for Python](https://github.com/colour-science/colour)
 - [color-thief](https://github.com/lokesh/color-thief): Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
 - [colorgram.py](https://github.com/obskyr/colorgram.py): is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense.
+- [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
+- [Your browser and my browser see different colors](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/)
+- [why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/): we'll explore why our eyes are unable to focus on the color blue, and how we see with our brain as much as with our eyes.
 
 ## Threads
 
@@ -336,8 +387,15 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Illustrations
 
 - [Humaaans](https://www.humaaans.com/)
-  
+
+## Painting
+
+- [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
+
 ---
+## Curation and Presentation
+
+- [A Manual for the Display of Interactive New Media Art](https://inmamanual.wordpress.com/)
 
 ## Games
 
@@ -355,6 +413,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Jeff Thompson](http://www.jeffreythompson.org/index.php)
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
 - [BIRDFONT](https://birdfont.org): is a free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts. The editor has good support for both monochrome and color font formats.
+- [inspect-open-images](https://github.com/gecid-aia/inspect-open-images): Python utilitary to help to download, crop and derivate new images from Open Image V6 dataset
+- [NaNoWriMo](https://www.omnicalculator.com/other/nanowrimo): National Novel Writing Month, or NaNoWriMo for short, is a writing challenge. Every November, thousands of writers from all around the world commit to writing 50,000 words of their own prose in a month.
+- [VUO](https://vuo.org/what-is-vuo): is an application to help people develop interactive experiences, live performances, digital media, and more.
 
 ## Fonts
 
@@ -376,14 +437,19 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [APL386 Unicode](https://abrudz.github.io/APL386/) ([source](https://github.com/abrudz/APL386))
 - [wavefont](https://github.com/audio-lab/wavefont): Typeface for rendering data
 - [BitmapFonts](https://github.com/ianhan/BitmapFonts): My collection of bitmap fonts pulled from various demoscene archives over the years
+- [font of web](https://fontofweb.com/): Type a Website and Find Its Fonts
 
 ## Fun
 
 - [VINTAGE CASSETTES: 1963-2010](http://vintagecassettes.com)
+- [At the Internet Archive, this is how we digitize #78 rpm records.](https://canaltech.com.br/musica/conheca-o-processo-de-digitalizacao-de-discos-de-vinil-do-internet-archive-183805/)
 - [HEXEN 2.0](http://www.suzannetreister.net/HEXEN2/TAROT_COL/HEXEN_2_TAROT.html) (tarot)
 - [U.S.A. Song Map](https://www.wearedorothy.com/collections/world-maps/products/u-s-a-song-map-open-edition)
 - [Rain Simulator](http://rainbowhunt.me/)
 - [Generating Beatles’ Lyrics with Machine Learning](https://towardsdatascience.com/generating-beatles-lyrics-with-machine-learning-1355635d5c4e)
+- [Gujarati Type Foundry Type Book](http://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=LFA_Type_0401_032.jpg)
+- [Studio Ghibli Makes 1,178 Images Free to Download from My Neighbor Totoro, Spirited Away & Other Beloved Animated Films](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html): [新しく、スタジオジブリ5作品の場面写真を追加提供致します](https://www.ghibli.jp/info/013409/)
+- [Healing Grid Optical Illusion](https://kottke.org/21/04/healing-grid-optical-illusion), by [Ryota Kanai](http://illusionoftheyear.com/2005/08/healing-grid/)
 
 ## Drivers
 
@@ -408,18 +474,33 @@ Some tips to make beautiful slides:
 - [THE WORLD’S WRITING SYSTEMS](http://worldswritingsystems.org/)
 - [Talking AI, Art, and Entangled Realities with HeK Basel’s Director Sabine Himmelsbach](https://medium.com/digital-art-weekly-by-danae-hi/talking-ai-art-and-exhibition-entangled-realities-with-hek-basels-director-sabine-himmelsbach-654b7077c0a0)
 - [24h Sunrise/Sunset](https://driesdepoorter.be/24h-sunrise-sunset/): is an installation that displays a realtime sunset and sunrise somewhere happening in the world with the use of CCTV. by Dries Depoorter.
+- [How foundation works.](https://foundation.app/how-it-works)
+- [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/), by Bertrand Russell
+- [XXXX Swatchbook](http://www.evelinkasikov.com/XXXX-Swatchbook)
+- [TERRA INCOGNITA 1 : KAMILYA JUBRAN, FLOY KROUCHI, YOUMNA SABA](https://www.banlieuesbleues.org/plateforme/evenement/3352/2021-04-09-2000-festival-plateforme-terra-incognita-1-kamilya-jubran-floy-krouchi-youmna-saba/)
+- [Símbolos Indígenas](https://symbolismofthings.com/significado-simbolos-indigenas-simbolismo/), [Marajoara](https://www.dicionariotupiguarani.com.br/dicionario/marajoara/), [Ancient Protection Symbols](https://givemehistory.com/symbols-of-protection)
+- [Kunza](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0038216.pdf): diccionario kunza-español, lengua del pueblo lickan antai (atacameño).
 
 ### People
 
 - [LUISA PEREIRA](http://www.luisapereira.net/)
 - [Guilherme Ranoya](https://www.ranoya.com/public/profile/?nonew=true)
 - [noite do bprocessing](https://garoa.net.br/wiki/Noite_de_Processing) no garoa hacker clube
+- [Manuel Corman](https://manueljosephcorman.wixsite.com/manu/)
+- [JACQUES PERCONTE](https://www.jacquesperconte.com/). [Tempestaire :: E3:NJAINF_017_20200125_2011](https://vimeo.com/504338055)
 
 ## Art+Tech Universities
 
 - [Poéticas Interdisciplinares](https://www.ppgav.eba.ufrj.br/programa/linhas-de-pesquisa/poeticas-interdisciplinares/)/UFRJ
 - [PPGIS](http://www.ppgis.ufscar.br/)/UFSCAR
 - [Programa de Pós-Graduação em Artes Visuais](http://www3.eca.usp.br/pos/ppgav)/USP
+- [Programa de Pós-Graduação em Design da FAUUSP](https://www.fau.usp.br/ensino/pos-graduacao/design/)
+- [Future Sketches group](https://www.media.mit.edu/groups/future-sketches/overview/)
+
+## NFT
+
+- [hic et nunc](https://www.hicetnunc.xyz/): The present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.
+- [Arrangement created by Mario Klingemann / @Quasimondo](https://here-or-there.glitch.me/index.html)
 
 ---
 
@@ -454,6 +535,11 @@ Some tips to make beautiful slides:
 - [A obra completa de Machado de Assis para download gratuito](https://www.revistabula.com/679-a-obra-completa-de-machado-de-assis-para-download/). [obras](http://machado.mec.gov.br/)
 - [Watch: Machine Learning Music Composed From Re-Synthesized Fragments From 100s Of Terabytes Of LA Phil Recordings](https://nwn.blogs.com/nwn/2019/01/wdch-dreams-robert-thomas-la-phil.html)
 - [A Novel Concept: Silent Book Clubs Offer Introverts A Space To Socialize](https://www.npr.org/2019/08/12/740897970/a-novel-concept-silent-book-clubs-offer-introverts-a-space-to-socialize)
+
+# 2021
+
+- [OS OITO UNIVERSITÁRIOS. VÍDEO HISTÓRICO DO MOVIMENTO ESTUDANTIL DA DÉCADA DE 60](https://documentosrevelados.com.br/os-oito-universitarios-video-historico-do-movimento-estudantil-da-decada-de-60/)
+- [](https://here-or-there.glitch.me/index.html)
 
 ## Technology
 
