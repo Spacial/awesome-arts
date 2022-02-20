@@ -57,7 +57,7 @@
 
 - [Music Transformer](https://magenta.tensorflow.org/music-transformer): Generating Music with Long-Term Structure. arxiv [paper](https://arxiv.org/abs/1809.04281)
 - [Resonance Audio: Multi-platform spatial audio at scale](https://www.blog.google/products/google-vr/resonance-audio-multi-platform-spatial-audio-scale/)
-- [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer
+- [VCVRACK](https://vcvrack.com/): Open-source virtual modular synthesizer. [repo](https://github.com/VCVRack/Rack)
 - [Sonic Visualiser](http://www.sonicvisualiser.org/download.html) is an application for viewing and analysing the contents of music audio files.
 - [Sndio](http://www.sndio.org/) is a small audio and MIDI framework part of the OpenBSD project and ported to FreeBSD, Linux and NetBSD
 - [KXStudio](http://kxstudio.linuxaudio.org/index.php) is a collection of applications and plugins for professional audio production.
@@ -139,6 +139,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Polyhedrus](https://github.com/ValdemarOrn/Polyhedrus) - Digital Synthesizer: Real-time Audio Synthesizer written in C++.
 - [Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio): An Awesome List for Audio Programming in Rust.
 - [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
+- [Hum Synthesizer](https://github.com/crbulakites/hum): A music notation language and synthesizer written in Rust.
 
 ### Local Directories
 
@@ -199,6 +200,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Siteswap FAQ](http://www.juggling.org/help/siteswap/faq.html)
 - [That time Steve Jobs hired a career juggler to teach programming to developers](https://www.cake.co/conversations/w3j7jDp/that-time-steve-jobs-hired-a-career-juggler-to-teach-programming-to-developers)
 - [The Big-Tent Family](https://medium.com/vantage/life-on-the-road-with-the-circus-4bc911a3cae4): Photographer Norma I. Quintana spent 10 summers following a one-ring circus. [book to order](https://normaiquintana.squarespace.com/circus-listing/circus-a-traveling-life)
+- [Fanfare Ciocarlia - Moliendo Cafe](https://www.youtube.com/watch?v=QiHmiZQNgL4): good music for circus.
 
 ---
 
@@ -217,6 +219,9 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Words that do Handstands](http://hardmath123.github.io/ambigrams.html)
 - [One Neat Trick to Writing Great Mystery Plots](https://www.vulture.com/2019/10/charles-finch-on-how-he-writes-charles-lenox-mysteries.html)
 - [Kurt Vonnegut](https://www.youtube.com/watch?v=GOGru_4z1Vc), Shape of Stories
+
+### Spirituality
+- [No Self Nirvana](https://noselfnirvana.com) Quotes, practices, poetry about mindfulness, concentration, insight, impermanence, emptiness, aimlessness, signlessness, nirvana.
 
 ---
 
@@ -246,6 +251,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [12 Classic Mistakes We’ve All Made Trying To Make Better Prints](https://www.johnpaulcaponigro.com/blog/39066/11-classic-mistakes-weve-all-made-trying-to-make-better-prints/)
 - [igua∞u](https://margenscosturas.wordpress.com/livro/): paisagem humana na tríplice fronteira / Marcelo Marinho, Henrique Gazzola.
 - [Astronomy Photographer of the Year shortlist](https://www.rmg.co.uk/national-maritime-museum/astronomy-photographer-year-2021-shortlist-images)
+- [Four Seasons in the Life of a Finnish Island](https://kottke.org/18/04/four-seasons-in-the-life-of-a-finnish-island)
+- [How to Develop Black & White Film at Home With Coffee](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide)
 
 ### Photo Tech
 
@@ -266,8 +273,11 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 - [Why Do Wes Anderson Movies Look Like That?](https://www.youtube.com/watch?v=ba3c9KEuQ4A) [THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge](http://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/)
 - [Stanley Kubrick Interview (27th November 1966)](https://www.youtube.com/watch?v=xa-KBqOFgDQ)
+- [Kubrick’s Lenses – The Ultimate Guide to the Lenses Used by Stanley Kubrick](https://indiefilmhustle.com/stanley-kubrick-lenses/)
 - [A desconhecida vida de Anthony Hopkins, o vencedor do Oscar 2021 que aprendeu a ser feliz aos 75](https://brasil.elpais.com/cultura/2021-04-25/a-desconhecida-vida-de-anthony-hopkins-o-ator-indicado-ao-oscar-2021-que-aprendeu-a-ser-feliz-apos-os-75.html)
 - [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
+- ["Dune" (the movie), annotated](https://maxread.substack.com/p/dune-annotated)
+- [Heaven and Earth Magic](https://www.youtube.com/watch?v=zbjSSyAo9WA): some Terry Gilliam's references.
 
 ### Videos
 
@@ -277,6 +287,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Incredible time-lapse shows a single cell transforming into a salamander](https://www.nationalgeographic.com/animals/article/time-lapse-film-shows-salamander-development)
 - [Starlings making the shape of a bird](https://www.youtube.com/watch?v=L_u4IcRy2dw)
 - [Hong Kong BLOCKS / Experimental short film](https://www.youtube.com/watch?v=EJD77Ckbqxg&t=163s)
+- [Time Lapse of the Changing Seasons of Denmark](https://kottke.org/21/08/time-lapse-of-the-changing-seasons-of-denmark)
 
 ### Tools
 
@@ -320,6 +331,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
   - [volume-camera](https://github.com/danbz/volume-camera): multisensory depth-camera experiment
   - [Generative Systems for Art and Design](https://github.com/uwe-creative-technology/generative_systems) course materials
   - [Workshop](https://github.com/generative-drawing/generative-drawing.github.io): Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+- NOITE DE PROCESSING: [Redes Neurais Gerativas](https://www.youtube.com/watch?v=hgGTCe1AEDU) - Sergio Venancio
 - [Shoebot](http://shoebot.github.io/shoebot/): [Easy vector graphics with Python](https://github.com/shoebot/shoebot)
 - [Casual Creators: Defining a Genre of Autotelic Creativity Support Systems](https://escholarship.org/uc/item/4kg8g9gd#article_main): Artists, musicians, writers and designers use tools to be creative, whether they are designing a personal opus or producing work for hire. There are many more people who are neither paid professionals nor historic geniuses, but who also enjoy being creative in a casual way. Can we design systems to help these casual users engage with their creative sides?
 - [aRt](https://github.com/gkaramanis/aRt): Making art with R
@@ -339,6 +351,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Frost Science Museum](https://superuber.com/frost-science-museum/)
 - [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea
 - [GRAFICA Obscura](http://graficaobscura.com/): This is a compilation of technical notes, pictures and essays that I've accumulated over the years.
+- [Abstraction from Valeris](https://valeris-media.tumblr.com/): [Moving GIF Abstraction from Valeris #ArtTuesday](https://blog.adafruit.com/2021/11/02/moving-gif-abstraction-from-valeris-arttuesday/)
 
 ### Processing
 
@@ -387,10 +400,12 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ## Illustrations
 
 - [Humaaans](https://www.humaaans.com/)
+- [Syndicate Studio](https://syndicatestudio.co/):  Creative Studio based in Semarang, Indonesia. 
 
 ## Painting
 
 - [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
+- [Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo): This is the largest and most detailed photo ever taken of a work of art. It is 717 gigapixels, or 717,000,000 pixels, in size.
 
 ---
 ## Curation and Presentation
@@ -438,6 +453,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [wavefont](https://github.com/audio-lab/wavefont): Typeface for rendering data
 - [BitmapFonts](https://github.com/ianhan/BitmapFonts): My collection of bitmap fonts pulled from various demoscene archives over the years
 - [font of web](https://fontofweb.com/): Type a Website and Find Its Fonts
+- [Relief SingleLine typeface](https://github.com/isdat-type/Relief-SingleLine)
 
 ## Fun
 
@@ -450,6 +466,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Gujarati Type Foundry Type Book](http://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=LFA_Type_0401_032.jpg)
 - [Studio Ghibli Makes 1,178 Images Free to Download from My Neighbor Totoro, Spirited Away & Other Beloved Animated Films](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html): [新しく、スタジオジブリ5作品の場面写真を追加提供致します](https://www.ghibli.jp/info/013409/)
 - [Healing Grid Optical Illusion](https://kottke.org/21/04/healing-grid-optical-illusion), by [Ryota Kanai](http://illusionoftheyear.com/2005/08/healing-grid/)
+- [Animals Laugh Too: UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
+- [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference): A curated list of examples of self-reference in art, science, and technology.
 
 ## Drivers
 
@@ -480,6 +498,7 @@ Some tips to make beautiful slides:
 - [TERRA INCOGNITA 1 : KAMILYA JUBRAN, FLOY KROUCHI, YOUMNA SABA](https://www.banlieuesbleues.org/plateforme/evenement/3352/2021-04-09-2000-festival-plateforme-terra-incognita-1-kamilya-jubran-floy-krouchi-youmna-saba/)
 - [Símbolos Indígenas](https://symbolismofthings.com/significado-simbolos-indigenas-simbolismo/), [Marajoara](https://www.dicionariotupiguarani.com.br/dicionario/marajoara/), [Ancient Protection Symbols](https://givemehistory.com/symbols-of-protection)
 - [Kunza](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0038216.pdf): diccionario kunza-español, lengua del pueblo lickan antai (atacameño).
+- [The 10 Paradoxical Traits of Creative People, According to Psychologist Mihaly Csikszentmihalyi](https://www.openculture.com/2021/11/the-10-paradoxical-traits-of-creative-people-according-to-psychologist-mihaly-csikszentmihalyi-rip.html)
 
 ### People
 
@@ -501,6 +520,7 @@ Some tips to make beautiful slides:
 
 - [hic et nunc](https://www.hicetnunc.xyz/): The present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.
 - [Arrangement created by Mario Klingemann / @Quasimondo](https://here-or-there.glitch.me/index.html)
+- [bulk-upload-to-opensea](https://github.com/infotrex/bulk-upload-to-opensea): BULK UPLOAD NFTs to OPENSEA.
 
 ---
 
@@ -554,3 +574,8 @@ Some tips to make beautiful slides:
 ## Mythology
 
 - [Hyōsube](https://en.wikipedia.org/wiki/Hy%C5%8Dsube): Hyōsube (ひょうすべ) is a Japanese yōkai. There are legends about them in many areas starting with the Saga Prefecture and the Miyazaki Prefecture.
+- [Ghosts in Ancient Japan](https://www.worldhistory.org/article/1059/ghosts-in-ancient-japan/): [Ushi-Oni](https://en.wikipedia.org/wiki/Ushi-oni)
+
+## Crazy stuff
+
+- [Back when it was normal to advertise cocaine gadgets in magazines, 1970-1980](https://rarehistoricalphotos.com/cocaine-paraphernalia-ads-1970s/)
