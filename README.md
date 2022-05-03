@@ -140,6 +140,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [Awesome Rust Audio](https://github.com/kfrncs/awesome-rust-audio): An Awesome List for Audio Programming in Rust.
 - [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
 - [Hum Synthesizer](https://github.com/crbulakites/hum): A music notation language and synthesizer written in Rust.
+- [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm): CEEPAX IS AN INTERPRETER FOR MUSIC CREATED BY CRUSTACEANS.
 
 ### Local Directories
 
@@ -160,7 +161,7 @@ Lista de arquivos do MuseScore (versão mínima: 2) de anotações de aula e exe
 
 Obs: pacote no fedora: mscore;
 
-#### Python
+#### Python and Music
 
 Códigos em geral com python e música (variados).
 
@@ -170,6 +171,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 ### Music News
 
+- [The Legend of the Music Tree](https://www.smithsonianmag.com/arts-culture/the-legend-of-the-music-tree-180979792/): Exotic lumber salvaged from a remote forest in Belize is the world’s most coveted tonewood.
 - [Gizmotron 2.0](http://daily.redbullmusicacademy.com/2015/06/gizmotron-feature): The Comeback of a ’70s Guitar Gadget
 - [The Master Recycler](https://www.nybooks.com/articles/2018/12/20/bach-master-recycler/): Around 1730 Johann Sebastian Bach began to recycle his earlier works in a major way.
 - [SACRIFICIO, RESPLANDOR Y PLEGARIA](https://m.facebook.com/story.php?story_fbid=1788207394589184&id=472559692820634&refsrc=https%3A%2F%2Fm.facebook.com%2FORQUESTAdeINSTRUMENTOSAUTOCTONOS%2Fvideos%2F1788207394589184%2F&_rdr) de Daniel Judkovski dirigida por Alejandro Iglesias Rossi en el Teatro Municipal Alberto Saavedra Perez. Grabado en la Isla del Sol del Lago Titicaca y en La Paz, Bolivia, 2005.
@@ -212,6 +214,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 ### Poetry
 
 - The poetry and brief life of a Foxconn worker: [Xu Lizhi](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)(1990-2014)
+- [HTTP/2 204](https://ja.cob.land/http2-204-a-poem) (a poem)
 
 ## Writing
 
@@ -221,6 +224,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Kurt Vonnegut](https://www.youtube.com/watch?v=GOGru_4z1Vc), Shape of Stories
 
 ### Spirituality
+
 - [No Self Nirvana](https://noselfnirvana.com) Quotes, practices, poetry about mindfulness, concentration, insight, impermanence, emptiness, aimlessness, signlessness, nirvana.
 
 ---
@@ -372,7 +376,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [PCD-Brasil-2021-FiltroVideo](https://github.com/Processing-Brasil/PCD-Brasil-2021-FiltroVideo)
 - [Open Call for 2021 Fellowships](https://medium.com/processing-foundation/open-call-for-2021-fellowships-44c777cc335)
 
-### Python
+### Visual Python
 
 - [creativecodinginpython](https://github.com/sheena1010/creativecodinginpython)
 - [pyp5js](https://berinhard.github.io/pyp5js/): [Python to P5.js Transcriptor](https://github.com/berinhard/pyp5js)
