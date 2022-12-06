@@ -19,6 +19,7 @@
 - [Rhythm and Transforms](http://sethares.engr.wisc.edu/RT.html) ([What is Rhythm?](http://sethares.engr.wisc.edu/htmlRT/whatisrhythm.html) and [Illusions of Sound Perception](http://sethares.engr.wisc.edu/htmlRT/4%20sound_illusions.html))
 - [WolframTones](http://tones.wolfram.com/generate/G16aF5KBayLGZqrbyXodKZNu6fmG6ANllrjanSNAPM): An Experiment in a New Kind of Music — made possible by the Wolfram Language and A New Kind of Science
 - [BASIC MUSIC THEORY FOR BEGINNERS – THE COMPLETE GUIDE](https://iconcollective.edu/basic-music-theory/)
+- [Six things I sort of believe about making music](https://www.johnwhiles.com/posts/music-production-lessons.html)
 
 ### Resources
 
@@ -44,6 +45,7 @@
 - [Lots of us learned classical music from watching old cartoons](https://twitter.com/NonsenseIsland/status/1366449816042102787), so I’m going to identify the pieces that frequently popped up.
 - [Músicas da Venezuela - Com Maria Betania Hernandez e Lucas Casacio](https://www.youtube.com/watch?v=mgu2Bqk3iQA)
 - [Freesound](https://freesound.org/) aims to create a huge collaborative database of audio snippets, samples, recordings, and all sorts of bleeps, ... released under Creative Commons licenses that allow their reuse.
+- [Get started making sounds](https://learningsynths.ableton.com/): Drag in the box below to play a synthesizer.
 
 ### Articles
 
@@ -141,6 +143,7 @@ Exemplos básicos pra iniciar o uso do Supercollider (SC).
 - [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [repo](https://github.com/TimDaub/wasm-synth)
 - [Hum Synthesizer](https://github.com/crbulakites/hum): A music notation language and synthesizer written in Rust.
 - [Ceephax Acid Crew](http://www.ceephax.co.uk/index.htm): CEEPAX IS AN INTERPRETER FOR MUSIC CREATED BY CRUSTACEANS.
+- [AV Linux MX Edition](http://www.bandshed.net/avlinux/)
 
 ### Local Directories
 
@@ -194,6 +197,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Keith Richards Demonstrates His Famous 5-String Technique (Used on Classic Stones Songs Like “Start Me Up,” “Honky Tonk Women” & More)](https://www.openculture.com/2021/05/keith-richards-demonstrates-his-famous-5-string-technique.html)
 - [Jazz and music theory](https://twitter.com/vcmusictheory/status/1387121552878149633)
 - [‘That was the day I knew I had died … ’ José Mauro, Brazilian music’s reborn genius](https://www.theguardian.com/music/2021/jun/02/that-was-the-day-i-knew-i-had-died-jose-mauro-the-reborn-genius-of-bossa-nova?CMP=twt_a-culture_b-gdnculture)
+- [Universal's Audible Watermark](https://www.mattmontag.com/music/universals-audible-watermark)
 
 ---
 
@@ -292,6 +296,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Starlings making the shape of a bird](https://www.youtube.com/watch?v=L_u4IcRy2dw)
 - [Hong Kong BLOCKS / Experimental short film](https://www.youtube.com/watch?v=EJD77Ckbqxg&t=163s)
 - [Time Lapse of the Changing Seasons of Denmark](https://kottke.org/21/08/time-lapse-of-the-changing-seasons-of-denmark)
+- [Tara The Android - I Feel Fantastic](https://www.youtube.com/watch?v=QaY48Yz1U08)
 
 ### Tools
 
@@ -356,6 +361,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [The Color of Water](https://algorithmicsea.com/): Algorithmic Sea
 - [GRAFICA Obscura](http://graficaobscura.com/): This is a compilation of technical notes, pictures and essays that I've accumulated over the years.
 - [Abstraction from Valeris](https://valeris-media.tumblr.com/): [Moving GIF Abstraction from Valeris #ArtTuesday](https://blog.adafruit.com/2021/11/02/moving-gif-abstraction-from-valeris-arttuesday/)
+- [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 
 ### Processing
 
@@ -458,6 +464,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [BitmapFonts](https://github.com/ianhan/BitmapFonts): My collection of bitmap fonts pulled from various demoscene archives over the years
 - [font of web](https://fontofweb.com/): Type a Website and Find Its Fonts
 - [Relief SingleLine typeface](https://github.com/isdat-type/Relief-SingleLine)
+- [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here)
 
 ## Fun
 
