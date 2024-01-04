@@ -20,6 +20,8 @@
 - [WolframTones](http://tones.wolfram.com/generate/G16aF5KBayLGZqrbyXodKZNu6fmG6ANllrjanSNAPM): An Experiment in a New Kind of Music — made possible by the Wolfram Language and A New Kind of Science
 - [BASIC MUSIC THEORY FOR BEGINNERS – THE COMPLETE GUIDE](https://iconcollective.edu/basic-music-theory/)
 - [Six things I sort of believe about making music](https://www.johnwhiles.com/posts/music-production-lessons.html)
+- [Piano Chords](https://muted.io/piano-chords/): Simple Online Piano Chord Player
+- [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/): Keys, Scales, Chords, Notes & Intervals
 
 ### Resources
 
@@ -46,6 +48,7 @@
 - [Músicas da Venezuela - Com Maria Betania Hernandez e Lucas Casacio](https://www.youtube.com/watch?v=mgu2Bqk3iQA)
 - [Freesound](https://freesound.org/) aims to create a huge collaborative database of audio snippets, samples, recordings, and all sorts of bleeps, ... released under Creative Commons licenses that allow their reuse.
 - [Get started making sounds](https://learningsynths.ableton.com/): Drag in the box below to play a synthesizer.
+- [The Rings of Power: Delving Too Deep with Bear McCreary](https://www.youtube.com/watch?v=8CJVfeFtHJ8)
 
 ### Articles
 
@@ -80,6 +83,8 @@
 - [Learn Synthesis](https://github.com/kunstmusik/learn-synthesis): Website for learning synthesis methods 
 - [ChucK](https://github.com/ccrma/chuck): ChucK Music Programming Language
 - [Traces](https://flaviogaete.info/traces) rests on neither extreme, yet brings a glimpse of both: the vibrating, pulsating rhythm of fragmented audio.
+- [Autotone](https://github.com/alexcrist/autotone): A vocal pitch correction web application (like Autotune).
+- [Intertube](https://github.com/guregu/intertube):  music storage locker
 
 #### Supercollider
 
@@ -239,6 +244,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Seventy-Five Ways to Draw a Circle](https://sighack.com/post/seventy-five-ways-to-draw-a-circle) · Sighack
 - [THE COLLECTION](https://www.artic.edu/collection?is_public_domain=1) - Art Institute of Chicago
 - [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)
+- [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
+- [Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo): This is the largest and most detailed photo ever taken of a work of art. It is 717 gigapixels, or 717,000,000 pixels, in size.
 
 ---
 
@@ -412,12 +419,8 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Humaaans](https://www.humaaans.com/)
 - [Syndicate Studio](https://syndicatestudio.co/):  Creative Studio based in Semarang, Indonesia. 
 
-## Painting
-
-- [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
-- [Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo): This is the largest and most detailed photo ever taken of a work of art. It is 717 gigapixels, or 717,000,000 pixels, in size.
-
 ---
+
 ## Curation and Presentation
 
 - [A Manual for the Display of Interactive New Media Art](https://inmamanual.wordpress.com/)
@@ -465,6 +468,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [font of web](https://fontofweb.com/): Type a Website and Find Its Fonts
 - [Relief SingleLine typeface](https://github.com/isdat-type/Relief-SingleLine)
 - [First Batch of Color Fonts Arrives on Google Fonts](https://material.io/blog/color-fonts-are-here)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/): A legible monospace font… the very typeface you’ve been trained to recognize since childhood.
 
 ## Fun
 
@@ -479,6 +483,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [Healing Grid Optical Illusion](https://kottke.org/21/04/healing-grid-optical-illusion), by [Ryota Kanai](http://illusionoftheyear.com/2005/08/healing-grid/)
 - [Animals Laugh Too: UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference): A curated list of examples of self-reference in art, science, and technology.
+- [Clown Moth](https://twitter.com/ElfaDosInsetos/status/1611101282022068224) [Idalus Herois](https://www.biodiversity4all.org/taxa/256907-Idalus-herois) [Genus Idalus](https://en.wikipedia.org/wiki/Idalus)
 
 ## Drivers
 
