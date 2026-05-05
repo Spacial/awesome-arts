@@ -85,6 +85,7 @@
 - [Traces](https://flaviogaete.info/traces) rests on neither extreme, yet brings a glimpse of both: the vibrating, pulsating rhythm of fragmented audio.
 - [Autotone](https://github.com/alexcrist/autotone): A vocal pitch correction web application (like Autotune).
 - [Intertube](https://github.com/guregu/intertube):  music storage locker
+- [Vizz.fm](https://vizz.fm): Browser-based music visualizer with customizable scenes and presets.
 
 #### Supercollider
 
