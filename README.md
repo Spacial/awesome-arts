@@ -246,6 +246,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)
 - [How To Get Better at Painting](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything): Without Painting Anything.
 - [Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq, Rembrandt van Rijn, 1642](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo): This is the largest and most detailed photo ever taken of a work of art. It is 717 gigapixels, or 717,000,000 pixels, in size.
+- [Painting Techniques Explained](https://umberlore.com/art-techniques/) · UmberLore: Free guides to historical techniques such as [fresco](https://umberlore.com/fresco-painting/) and [encaustic](https://umberlore.com/encaustic-painting/) painting.
 
 ---
 
