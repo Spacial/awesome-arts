@@ -294,6 +294,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [A Supercut of Supercuts: Aesthetics, Histories, Databases](https://openscreensjournal.com/articles/10.16995/os.45/)
 - ["Dune" (the movie), annotated](https://maxread.substack.com/p/dune-annotated)
 - [Heaven and Earth Magic](https://www.youtube.com/watch?v=zbjSSyAo9WA): some Terry Gilliam's references.
+- [AI video prompt examples](https://imgmov.com/blog/2026-07-08-ai-video-prompts) · imgmov: Written examples for describing subject motion, camera movement and lighting in AI-video scenes.
 
 ### Videos
 
