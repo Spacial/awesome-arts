@@ -414,6 +414,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 
 - [ThreadTone](http://www.thevelop.nl/blog/2016-12-25/ThreadTone/)
 - [String art - Wikipedia](https://en.wikipedia.org/wiki/String_art)
+- [StitchXCross](https://stitchxcross.com/): free cross stitch pattern maker in the browser. Turns a photo into a chart matched to DMC embroidery floss, or lets you draw one stitch by stitch, with a printable PDF chart and thread list.
 
 ## Illustrations
 
