@@ -445,6 +445,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [inspect-open-images](https://github.com/gecid-aia/inspect-open-images): Python utilitary to help to download, crop and derivate new images from Open Image V6 dataset
 - [NaNoWriMo](https://www.omnicalculator.com/other/nanowrimo): National Novel Writing Month, or NaNoWriMo for short, is a writing challenge. Every November, thousands of writers from all around the world commit to writing 50,000 words of their own prose in a month.
 - [VUO](https://vuo.org/what-is-vuo): is an application to help people develop interactive experiences, live performances, digital media, and more.
+- [ASCII Images](https://ascii-images.com/image-to-ascii): Convert images to ASCII character art locally in the browser, free and without an account.
 
 ## Fonts
 
