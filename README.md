@@ -409,6 +409,7 @@ Alguns exemplos de arquivos .tex para notação musical (e alguns scripts para a
 - [UI design for software developers. Part 1, Colors](http://amortizedcost.net/ui-desing-for-software-developer-part-1/)
 - [Your browser and my browser see different colors](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/)
 - [why we're blind to the color blue](https://calebkruse.com/10-projects/seeing-blue/): we'll explore why our eyes are unable to focus on the color blue, and how we see with our brain as much as with our eyes.
+- [Cursive Generation Calligraphy Color Palette](https://cursive-generation.com/calligraphy-color-palette): Free browser tool for exploring paper and ink color combinations for calligraphy.
 
 ## Threads
 
