@@ -43,6 +43,7 @@
 - [Yellowstone National Park’s Sound & Video Libraries Are Free for Anyone to Use](https://kottke.org/19/10/yellowstone-national-parks-sound-video-libraries-are-free-for-anyone-to-use)
 - [Configure Fedora to practice and compose music](https://fedoramagazine.org/configure-fedora-to-practise-and-compose-music/)
 - [SOUNDS OF THE FOREST](https://timberfestival.org.uk/soundsoftheforest-soundmap/): We are collecting the sounds of woodlands and forests from all around the world, creating a growing soundmap bringing together aural tones and textures from the world’s woodlands.
+- [Sounds of the Adriatic](https://sound.marespot.com/): a dark sound map of the Croatian coast — free CC-BY field recordings, tap a pin to listen.
 - [The sound of Venus (Venera 14) Звук Венеры (Венера-14)](https://www.youtube.com/watch?v=8jZDW53U8qQ&feature=emb_logo)
 - [Lots of us learned classical music from watching old cartoons](https://twitter.com/NonsenseIsland/status/1366449816042102787), so I’m going to identify the pieces that frequently popped up.
 - [Músicas da Venezuela - Com Maria Betania Hernandez e Lucas Casacio](https://www.youtube.com/watch?v=mgu2Bqk3iQA)
